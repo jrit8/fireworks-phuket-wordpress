@@ -3,6 +3,8 @@
 defined( 'ABSPATH' ) || exit;
 require_once get_template_directory() . '/inc/content.php';
 require_once get_template_directory() . '/inc/customizer.php';
+require_once get_template_directory() . '/inc/pages.php';
+require_once get_template_directory() . '/inc/inquiries.php';
 add_action( 'after_setup_theme', function () {
     load_theme_textdomain( 'fireworks-phuket', get_template_directory() . '/languages' );
     add_theme_support( 'title-tag' );
@@ -16,19 +18,20 @@ add_action( 'wp_enqueue_scripts', function () {
     $version = wp_get_theme()->get( 'Version' );
     wp_enqueue_style( 'fp-fonts', get_template_directory_uri() . '/assets/fonts.css', array(), $version );
     wp_enqueue_style( 'fp-theme', get_template_directory_uri() . '/assets/theme.css', array( 'fp-fonts' ), $version );
+    wp_enqueue_style( 'fp-pages', get_template_directory_uri() . '/assets/pages.css', array( 'fp-theme' ), $version );
     wp_enqueue_script( 'fp-theme', get_template_directory_uri() . '/assets/theme.js', array(), $version, true );
 } );
 function fp_contact_url() {
     $phone = preg_replace( '/[^0-9]/', '', get_theme_mod( 'fp_whatsapp', '' ) );
-    return $phone ? 'https://wa.me/' . $phone . '?text=' . rawurlencode( "Hello Fireworks Phuket, I'd like a quote." ) : home_url( '/#contact' );
+    return $phone ? 'https://wa.me/' . $phone . '?text=' . rawurlencode( "Hello Fireworks Phuket, I'd like a quote." ) : fp_page_url( 'contact', 'contact' );
 }
 function fp_contact_label() {
     return get_theme_mod( 'fp_whatsapp', '' ) ? __( 'Get a Quote on WhatsApp', 'fireworks-phuket' ) : __( 'Request a Quote', 'fireworks-phuket' );
 }
 function fp_menu_fallback() {
     echo '<ul class="menu">';
-    foreach ( array( 'Home' => '', 'Packages' => 'packages', 'Wedding Fireworks' => 'weddings', 'Gallery' => 'gallery', 'Locations' => 'locations', 'FAQ' => 'faq', 'Contact' => 'contact' ) as $label => $anchor ) {
-        echo '<li><a href="' . esc_url( home_url( '/' . ( $anchor ? '#' . $anchor : '' ) ) ) . '">' . esc_html( $label ) . '</a></li>';
+    foreach ( array( 'Home' => '', 'Packages' => 'packages', 'Wedding Fireworks' => 'wedding-fireworks', 'Gallery' => 'gallery', 'Locations' => 'locations', 'FAQ' => 'faq', 'Contact' => 'contact' ) as $label => $slug ) {
+        echo '<li><a href="' . esc_url( $slug ? fp_page_url( $slug, 'wedding-fireworks' === $slug ? 'weddings' : $slug ) : home_url( '/' ) ) . '">' . esc_html( $label ) . '</a></li>';
     }
     echo '</ul>';
 }
