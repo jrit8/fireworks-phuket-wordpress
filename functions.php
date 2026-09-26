@@ -4,6 +4,7 @@ defined( 'ABSPATH' ) || exit;
 require_once get_template_directory() . '/inc/content.php';
 require_once get_template_directory() . '/inc/customizer.php';
 require_once get_template_directory() . '/inc/pages.php';
+require_once get_template_directory() . '/inc/structured-data.php';
 require_once get_template_directory() . '/inc/inquiries.php';
 add_action( 'after_setup_theme', function () {
     load_theme_textdomain( 'fireworks-phuket', get_template_directory() . '/languages' );
@@ -53,3 +54,4 @@ function fp_title( $eyebrow, $title, $copy = '' ) {
     if ( $copy ) { echo '<p class="copy">' . esc_html( $copy ) . '</p>'; }
     echo '</div>';
 }
+
