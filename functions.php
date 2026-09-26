@@ -19,6 +19,7 @@ add_action( 'wp_enqueue_scripts', function () {
     wp_enqueue_style( 'fp-fonts', get_template_directory_uri() . '/assets/fonts.css', array(), $version );
     wp_enqueue_style( 'fp-theme', get_template_directory_uri() . '/assets/theme.css', array( 'fp-fonts' ), $version );
     wp_enqueue_style( 'fp-pages', get_template_directory_uri() . '/assets/pages.css', array( 'fp-theme' ), $version );
+    wp_enqueue_style( 'fp-colour', get_template_directory_uri() . '/assets/colour.css', array( 'fp-pages' ), $version );
     wp_enqueue_script( 'fp-theme', get_template_directory_uri() . '/assets/theme.js', array(), $version, true );
 } );
 function fp_contact_url() {

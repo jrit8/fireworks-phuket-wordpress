@@ -26,7 +26,7 @@ Before publishing: enter confirmed contact information, check approved imagery a
 - Live contact response includes `x-cache-enabled: False` and `cache-control: no-cache, must-revalidate, max-age=0, no-store, private`.
 - Classic, Signature and Grand use three distinct Media Library image URLs, verified in the live browser.
 
-## Version 0.5 — 26 September 2026
+## Version 0.5 - 26 September 2026
 
 - All 28 PHP files pass syntax checks; the navigation script passes its syntax check.
 - Local WordPress integration checks pass for unique package images, public fireworks prices, page creation/preservation, five fire-show formats and inquiry service classification.
@@ -41,4 +41,9 @@ Before publishing: enter confirmed contact information, check approved imagery a
 
 - Added specific show inquiry links and a preferred-option field saved privately with the inquiry.
 - WordPress checks pass for dancer/show prefill, ignoring unknown show parameters, preserving the selected option and PHP syntax.
+
+
+## Version 0.6.0
+
+Homepage palette updated with navy, teal, warm rose and brighter gold accents. Package image dimming removed; special-effects imagery moved nearer the top. Local WordPress visually checked at 1280px and 390px with no horizontal overflow. Colour styles are scoped to the homepage.
 
