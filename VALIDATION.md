@@ -25,3 +25,14 @@ Before publishing: enter confirmed contact information, check approved imagery a
 - A synthetic live form submission saved a private inquiry successfully; the test entry was then moved to Trash.
 - Live contact response includes `x-cache-enabled: False` and `cache-control: no-cache, must-revalidate, max-age=0, no-store, private`.
 - Classic, Signature and Grand use three distinct Media Library image URLs, verified in the live browser.
+
+## Version 0.5 — 26 September 2026
+
+- All 28 PHP files pass syntax checks; the navigation script passes its syntax check.
+- Local WordPress integration checks pass for unique package images, public fireworks prices, page creation/preservation, five fire-show formats and inquiry service classification.
+- Version 0.5 is deployed on SiteGround, with theme and database backups retained outside the public directory.
+- Live homepage has three proposal cards, five dancer formats, one H1 and no horizontal overflow at 1280px.
+- The proposal page was visually inspected on desktop. Its three images are distinct. The Sparkling Yes link correctly prefills Proposal package and the selected package name in the inquiry form.
+- Mobile contact form and fire-show page were inspected at 390px; no horizontal overflow and one H1 on each. Mobile navigation opens and the Fire Shows link works.
+- The owner confirmed receipt of the test notification sent to the existing WordPress admin inbox. A preferred events mailbox has not yet been created or configured.
+- Guide prices for fire shows remain provisional, with no supplier-confirmed margins. Proposal guide prices cover fireworks only; other elements are separately quoted.

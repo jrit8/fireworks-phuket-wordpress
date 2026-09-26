@@ -30,7 +30,7 @@ function fp_contact_label() {
 }
 function fp_menu_fallback() {
     echo '<ul class="menu">';
-    foreach ( array( 'Home' => '', 'Packages' => 'packages', 'Wedding Fireworks' => 'wedding-fireworks', 'Gallery' => 'gallery', 'Locations' => 'locations', 'FAQ' => 'faq', 'Contact' => 'contact' ) as $label => $slug ) {
+    foreach ( array( 'Home' => '', 'Packages' => 'packages', 'Fire Shows' => 'fire-shows', 'Proposals' => 'proposals', 'Weddings' => 'wedding-fireworks', 'Gallery' => 'gallery', 'Locations' => 'locations', 'FAQ' => 'faq', 'Contact' => 'contact' ) as $label => $slug ) {
         echo '<li><a href="' . esc_url( $slug ? fp_page_url( $slug, 'wedding-fireworks' === $slug ? 'weddings' : $slug ) : home_url( '/' ) ) . '">' . esc_html( $label ) . '</a></li>';
     }
     echo '</ul>';

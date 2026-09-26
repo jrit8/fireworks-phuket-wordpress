@@ -10,7 +10,7 @@ add_action( 'init', function () {
 } );
 function fp_validate_inquiry( $input ) {
     $fields = array();
-    foreach ( array( 'name', 'phone', 'email', 'date', 'venue', 'event', 'budget', 'message' ) as $key ) {
+    foreach ( array( 'name', 'phone', 'email', 'date', 'venue', 'service', 'event', 'budget', 'message' ) as $key ) {
         $value = isset( $input[$key] ) && is_string( $input[$key] ) ? wp_unslash( $input[$key] ) : '';
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
@@ -43,7 +43,8 @@ function fp_submit_inquiry() {
     $id = wp_insert_post( array( 'post_type' => 'fp_inquiry', 'post_status' => 'private', 'post_title' => 'Inquiry — ' . $fields['date'] . ' — ' . $fields['name'], 'post_content' => $body ), true );
     if ( is_wp_error( $id ) || ! $id ) { fp_inquiry_redirect( 'error' ); }
     set_transient( $limit_key, 1, MINUTE_IN_SECONDS );
-    $email = sanitize_email( get_theme_mod( 'fp_email', '' ) );
+    $email = sanitize_email( get_theme_mod( 'fp_notify_email', '' ) );
+    if ( ! $email ) { $email = sanitize_email( get_option( 'admin_email', '' ) ); }
     if ( $email ) {
         // Notification contains no visitor details; the administrator reads them in WordPress.
         $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', 'A new inquiry is saved in WordPress. Review it at ' . admin_url( 'post.php?post=' . $id . '&action=edit' ) );

@@ -1,5 +1,5 @@
 <?php defined( 'ABSPATH' ) || exit; $items = fp_items( 'gallery' ); ?>
-<section id="gallery" class="section"><div class="container"><?php fp_title( 'Real celebrations', 'A moment no one forgets' ); ?>
+<section id="gallery" class="section"><div class="container"><?php fp_title( 'Visual inspiration', 'A moment no one forgets' ); ?>
 <div class="gallery-grid">
 <?php if ( $items ) : foreach ( $items as $item ) : ?>
 <article class="image-card"><?php echo get_the_post_thumbnail( $item, 'large', array( 'loading' => 'lazy' ) ); ?><div class="image-caption"><h3><?php echo esc_html( $item->post_title ); ?></h3><div><?php fp_item_content( $item ); ?></div></div></article>
