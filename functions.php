@@ -6,6 +6,13 @@ require_once get_template_directory() . '/inc/customizer.php';
 require_once get_template_directory() . '/inc/pages.php';
 require_once get_template_directory() . '/inc/structured-data.php';
 require_once get_template_directory() . '/inc/inquiries.php';
+// Establish the enhanced header layout before first paint, not in the footer.
+add_action( 'wp_head', function () {
+    echo '<script>document.documentElement.classList.add("js");</script>' . "\n";
+    foreach ( array( 'cormorant', 'cormorant-italic', 'manrope-regular' ) as $font ) {
+        echo '<link rel="preload" href="' . esc_url( get_template_directory_uri() . '/assets/fonts/' . $font . '.woff2' ) . '" as="font" type="font/woff2" crossorigin>' . "\n";
+    }
+}, 1 );
 add_action( 'after_setup_theme', function () {
     load_theme_textdomain( 'fireworks-phuket', get_template_directory() . '/languages' );
     add_theme_support( 'title-tag' );
