@@ -30,3 +30,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 
 .proposal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.proposal-card{background:var(--panel);display:flex;flex-direction:column;min-width:0}.proposal-card>img{width:100%;aspect-ratio:16/9;object-fit:cover}.proposal-card-copy{padding:28px;display:flex;flex-direction:column;flex:1}.proposal-card h3{font-size:2rem;line-height:1.1;margin-bottom:20px}.proposal-card .copy{font-size:.875rem}.proposal-price{font-size:1.05rem;color:var(--gold);margin-top:auto;font-weight:600}.proposal-card .small{font-size:.75rem}.proposal-more{margin:24px 0 0}@media(max-width:767px){.proposal-grid{grid-template-columns:1fr}}@media(min-width:1100px){.site-header .menu{gap:16px}}
+
+.fire-show-link{display:block;margin-top:20px;font-size:.8rem}#quote-form{scroll-margin-top:110px}

@@ -36,3 +36,9 @@ Before publishing: enter confirmed contact information, check approved imagery a
 - Mobile contact form and fire-show page were inspected at 390px; no horizontal overflow and one H1 on each. Mobile navigation opens and the Fire Shows link works.
 - The owner confirmed receipt of the test notification sent to the existing WordPress admin inbox. A preferred events mailbox has not yet been created or configured.
 - Guide prices for fire shows remain provisional, with no supplier-confirmed margins. Proposal guide prices cover fireworks only; other elements are separately quoted.
+
+## Version 0.5.1
+
+- Added specific show inquiry links and a preferred-option field saved privately with the inquiry.
+- WordPress checks pass for dancer/show prefill, ignoring unknown show parameters, preserving the selected option and PHP syntax.
+

@@ -10,7 +10,7 @@ add_action( 'init', function () {
 } );
 function fp_validate_inquiry( $input ) {
     $fields = array();
-    foreach ( array( 'name', 'phone', 'email', 'date', 'venue', 'service', 'event', 'budget', 'message' ) as $key ) {
+    foreach ( array( 'name', 'phone', 'email', 'date', 'venue', 'service', 'option', 'event', 'budget', 'message' ) as $key ) {
         $value = isset( $input[$key] ) && is_string( $input[$key] ) ? wp_unslash( $input[$key] ) : '';
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
