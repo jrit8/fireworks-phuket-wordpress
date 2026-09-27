@@ -6,6 +6,7 @@ require_once get_template_directory() . '/inc/customizer.php';
 require_once get_template_directory() . '/inc/pages.php';
 require_once get_template_directory() . '/inc/structured-data.php';
 require_once get_template_directory() . '/inc/inquiries.php';
+require_once get_template_directory() . '/inc/analytics.php';
 // Establish the enhanced header layout before first paint, not in the footer.
 add_action( 'wp_head', function () {
     echo '<script>document.documentElement.classList.add("js");</script>' . "\n";
@@ -61,4 +62,3 @@ function fp_title( $eyebrow, $title, $copy = '' ) {
     if ( $copy ) { echo '<p class="copy">' . esc_html( $copy ) . '</p>'; }
     echo '</div>';
 }
-

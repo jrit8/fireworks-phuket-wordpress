@@ -50,5 +50,6 @@ function fp_submit_inquiry() {
         $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', 'A new inquiry is saved in WordPress. Review it at ' . admin_url( 'post.php?post=' . $id . '&action=edit' ) );
         update_post_meta( $id, '_fp_notification_accepted', $sent ? 'yes' : 'no' );
     }
+    fp_issue_lead_receipt( $fields['service'] );
     fp_inquiry_redirect( 'saved' );
 }

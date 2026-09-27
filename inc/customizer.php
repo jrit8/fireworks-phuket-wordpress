@@ -2,6 +2,8 @@
 defined( 'ABSPATH' ) || exit;
 add_action( 'customize_register', function ( $wp_customize ) {
     $wp_customize->add_section( 'fp_settings', array( 'title' => 'Fireworks Phuket', 'priority' => 30 ) );
+    $wp_customize->add_setting( 'fp_ga4_id', array( 'sanitize_callback' => function ( $value ) { return preg_match( '/^G-[A-Z0-9]+$/', $value ) ? $value : ''; } ) );
+    $wp_customize->add_control( 'fp_ga4_id', array( 'label' => 'Google Analytics measurement ID', 'description' => 'Analytics loads only after the visitor allows it.', 'section' => 'fp_settings', 'type' => 'text' ) );
     foreach ( array( 'whatsapp' => 'WhatsApp number (country code and digits only)', 'email' => 'Public inquiry email', 'notify_email' => 'Private notification email (defaults to WordPress admin email)', 'hero_copy' => 'Homepage introduction' ) as $key => $label ) {
         $sanitize = in_array( $key, array( 'email', 'notify_email' ), true ) ? 'sanitize_email' : ( 'whatsapp' === $key ? 'fp_sanitize_phone' : 'sanitize_textarea_field' );
         $wp_customize->add_setting( 'fp_' . $key, array( 'sanitize_callback' => $sanitize ) );
