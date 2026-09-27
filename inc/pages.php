@@ -30,6 +30,7 @@ add_action( 'wp_head', function () {
     $image_id = absint( get_theme_mod( 'fp_image_' . $image_key, 0 ) );
     $image_url = is_page() && 'fire-shows' === fp_page_kind() ? get_template_directory_uri() . '/assets/images/phuketweds-fire-show.jpg' : ( $image_id && wp_attachment_is_image( $image_id ) ? wp_get_attachment_image_url( $image_id, 'full' ) : get_template_directory_uri() . '/assets/images/' . ( 'wedding' === $image_key ? 'wedding-fireworks.jpg' : 'fireworks-hero.jpg' ) );
     if ( is_page() && 'proposals' === fp_page_kind() ) { $image_url = get_template_directory_uri() . '/assets/images/concept-fire-letters.webp'; }
+    if ( is_page( 'wim-marcia-beach-fire-show' ) ) { $image_url = get_template_directory_uri() . '/assets/images/wim-marcia-fire-performance.webp'; }
     echo '<meta property="og:image" content="' . esc_url( $image_url ) . '">' . "\n";
     echo '<meta name="twitter:card" content="summary_large_image">' . "\n";
     if ( is_front_page() && ! is_singular() ) { echo '<link rel="canonical" href="' . esc_url( $url ) . '">' . "\n"; }
