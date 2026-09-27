@@ -1,8 +1,8 @@
 <?php defined( 'ABSPATH' ) || exit;
 $ideas = array(
-    array( '', __( 'Marry Me proposals', 'fireworks-phuket' ), __( 'A private reveal, illuminated letters and sparkler moments can be planned around your setting.', 'fireworks-phuket' ), __( 'Concept image of a seaside proposal with sparklers and illuminated letters', 'fireworks-phuket' ) ),
+    array( 'concept-marry-me.webp', __( 'Marry Me proposals', 'fireworks-phuket' ), __( 'A private reveal, illuminated letters and sparkler moments can be planned around your setting.', 'fireworks-phuket' ), __( 'Concept image of a seaside proposal with sparklers and illuminated letters', 'fireworks-phuket' ) ),
     array( 'concept-daytime-colour.webp', __( 'Daytime colour', 'fireworks-phuket' ), __( 'Colourful daytime effects offer a different kind of entrance or celebration moment.', 'fireworks-phuket' ), __( 'Concept image of colourful daytime effects over a coastal venue', 'fireworks-phuket' ) ),
-    array( '', __( 'Over-water displays', 'fireworks-phuket' ), __( 'Where a venue has no suitable firing location, a floating platform may be possible at additional cost.', 'fireworks-phuket' ), __( 'Concept image of fireworks from a floating platform offshore', 'fireworks-phuket' ) ),
+    array( 'concept-floating-platform.webp', __( 'Over-water displays', 'fireworks-phuket' ), __( 'Where a venue has no suitable firing location, a floating platform may be possible at additional cost.', 'fireworks-phuket' ), __( 'Concept image of fireworks from a floating platform offshore', 'fireworks-phuket' ) ),
 );
 ?>
 <section class="section special-effects"><div class="container">
