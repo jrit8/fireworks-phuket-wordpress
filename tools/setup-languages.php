@@ -38,7 +38,7 @@ $settings = array(
     'force_lang' => 1, 'hide_default' => true, 'rewrite' => true, 'redirect_lang' => false,
     'browser' => false, 'media_support' => false,
     'post_types' => $translatable_types,
-    'sync' => array( 'post_meta', '_thumbnail_id', 'menu_order', 'page_template', 'post_parent' ),
+    'sync' => array( 'post_meta', '_thumbnail_id', 'menu_order', '_wp_page_template', 'post_parent' ),
 );
 $options = PLL()->options;
 if ( is_object( $options ) && method_exists( $options, 'set' ) ) {
