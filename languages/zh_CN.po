@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fireworks Phuket theme\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: fireworks-phuket\n"
+
+msgid "Page not found"
+msgstr "页面未找到"
+
+msgid "Let’s get you back to the celebration."
+msgstr "让我们回到庆典吧。"
+
+msgid "Back to home"
+msgstr "返回首页"
+
+msgid "Professionally coordinated fireworks and fire dance shows for celebrations across Phuket, Khao Lak and Krabi."
+msgstr "专业统筹的烟花与火舞表演，服务普吉岛、考拉和甲米的各类庆典。"
+
+msgid "Explore"
+msgstr "浏览"
+
+msgid "Footer navigation"
+msgstr "页脚导航"
+
+msgid "Start planning"
+msgstr "开始筹备"
+
+msgid "Phuket · Khao Lak · Krabi"
+msgstr "普吉岛 · 考拉 · 甲米"
+
+msgid "We continue on your preferred app after your first enquiry:"
+msgstr "首次咨询后，我们可通过您常用的应用继续沟通："
+
+msgid "Shows subject to venue, location and approval requirements."
+msgstr "表演须符合场地、地点及审批要求。"
+
+msgid "Photography credits"
+msgstr "图片来源"
+
+msgid "Licensed real fireworks photographs used as display inspiration; they do not depict Fireworks Phuket bookings or confirm package inclusions. Images resized/compressed and displayed with responsive crops."
+msgstr "网站使用经授权的真实烟花照片作为灵感参考；照片并非 Fireworks Phuket 的实际订单，也不代表套餐内容。图片已调整尺寸、压缩并按响应式裁切显示。"
+
+msgid "Primary navigation"
+msgstr "主导航"
+
+msgid "Please enter a phone number, email address or messaging app ID."
+msgstr "请填写电话、电子邮箱或即时通讯账号。"
+
+msgid "Please enter a phone number with at least seven digits."
+msgstr "请填写至少七位数字的电话号码。"
+
+msgid "Sending your inquiry…"
+msgstr "正在提交…"
+
+msgid "Request a Quote →"
+msgstr "获取报价 →"
+
+msgid "Request a Quote"
+msgstr "获取报价"
+
+msgid "Home"
+msgstr "首页"
+
+msgid "Packages"
+msgstr "套餐"
+
+msgid "Fire Shows"
+msgstr "火舞表演"
+
+msgid "Proposals"
+msgstr "求婚"
+
+msgid "Weddings"
+msgstr "婚礼"
+
+msgid "Gallery"
+msgstr "案例"
+
+msgid "Locations"
+msgstr "服务地区"
+
+msgid "FAQ"
+msgstr "常见问题"
+
+msgid "Contact"
+msgstr "联系我们"
+
+msgid "Skip to content"
+msgstr "跳至内容"
+
+msgid "Fireworks Phuket home"
+msgstr "Fireworks Phuket 首页"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Main navigation"
+msgstr "主导航"
+
+msgid "Analytics preferences"
+msgstr "统计分析设置"
+
+msgid "Help us improve your visit"
+msgstr "帮助我们改进网站"
+
+msgid "With your permission, Google Analytics uses cookies to measure visits, quote requests and contact-button clicks. We do not send your inquiry details. You can change your choice using Analytics preferences."
+msgstr "经您同意后，Google Analytics 会使用 Cookie 统计访问量、报价请求及联系按钮点击。我们不会发送您的咨询内容。您可以在“统计分析设置”中更改选择。"
+
+msgid "Allow analytics"
+msgstr "允许统计分析"
+
+msgid "No thanks"
+msgstr "不用了，谢谢"
+
+msgid "How much do fireworks cost in Phuket?"
+msgstr "在普吉岛放烟花需要多少钱？"
+
+msgid "As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display."
+msgstr "大致而言，我们的主推烟花表演约为 ฿40,000+、฿70,000+ 和 ฿108,000+。了解您的日期、场地和期望的表演后，我们会提供书面报价。"
+
+msgid "What can change the final price?"
+msgstr "哪些因素会影响最终价格？"
+
+msgid "The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions."
+msgstr "起价不含 7% 增值税、许可费用、场地费用及特殊物流。如需浮动燃放平台，将另行报价。最终价格及包含内容以书面报价为准。"
+
+msgid "How long does a display last?"
+msgstr "一场表演持续多长时间？"
+
+msgid "Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design."
+msgstr "目前的表演方案从不到一分钟的短暂时刻到约四分钟不等。实际时长取决于燃放编排、场地和最终确认的设计。"
+
+msgid "Can fireworks be arranged at any hotel or beach?"
+msgstr "任何酒店或海滩都可以放烟花吗？"
+
+msgid "Not every location is suitable. Venue rules, firing position, access, surroundings and approvals are checked before confirmation."
+msgstr "并非所有地点都适合。确认前我们会核查场地规定、燃放位置、进场条件、周边环境及审批情况。"
+
+msgid "Can you arrange a “Marry Me” proposal or sparklers?"
+msgstr "可以安排“Marry Me”求婚或仙女棒吗？"
+
+msgid "Tell us the moment you imagine. We can discuss fire letters spelling “Marry Me”, illuminated proposal letters, sparklers and fireworks with your planner or venue. Each element depends on venue rules, availability and a separate written quote."
+msgstr "告诉我们您想象中的那一刻。我们可以与您的策划师或场地讨论“Marry Me”火焰字、发光求婚字母、仙女棒和烟花。每项内容都取决于场地规定、可行性及单独的书面报价。"
+
+msgid "What is included in a proposal package?"
+msgstr "求婚套餐包含哪些内容？"
+
+msgid "The Intimate Reveal, The Sparkling Yes and The Grand Proposal are planning starting points. Fireworks guide prices apply to the display only. Letters, decor, photography, live performance, venue costs and other additions are itemised separately in your written quote."
+msgstr "“温馨揭晓”、“闪耀的 Yes”和“盛大求婚”是筹备的起点。烟花参考价仅适用于烟花表演本身。字母、布置、摄影、现场表演、场地费用及其他附加项目会在书面报价中单独列出。"
+
+msgid "Are fire letters available at every venue?"
+msgstr "每个场地都能使用火焰字吗？"
+
+msgid "No. Fire letters need a suitable outdoor location and specific venue approval. Tell us your preferred venue so we can check availability and discuss an illuminated alternative if open flame is not suitable."
+msgstr "不是。火焰字需要合适的户外场地并获得场地的明确许可。请告诉我们您心仪的场地，我们会核实可行性；如不适合明火，可讨论发光字替代方案。"
+
+msgid "Are colourful daytime effects available?"
+msgstr "可以安排彩色日间效果吗？"
+
+msgid "They may be possible for suitable events. Share your venue and the effect you have in mind so we can check the location, availability and approval requirements."
+msgstr "部分活动可以。请告诉我们场地和您想要的效果，我们会核实地点、可行性及审批要求。"
+
+msgid "Can the display be launched from a barge or floating platform?"
+msgstr "可以从驳船或浮动平台燃放烟花吗？"
+
+msgid "A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability."
+msgstr "当场地没有合适且获批的燃放位置时，可能需要浮动平台。目前估价约为 ฿40,000–฿60,000 或以上（另加烟花表演费用），视海况、进场条件及供应商档期而定。"
+
+msgid "How many fire dancers can we book?"
+msgstr "可以预订几位火舞演员？"
+
+msgid "We offer shows with two to five dancers, with starting guides from ฿25,000+. The right number depends on your venue, guest experience and preferred show style."
+msgstr "我们提供 2 至 5 位演员的表演，参考起价 ฿25,000+。合适的人数取决于您的场地、宾客体验和偏好的表演风格。"
+
+msgid "What kinds of fire dance shows are possible?"
+msgstr "可以安排哪些类型的火舞表演？"
+
+msgid "Ask about synchronized duos, choreographed group routines and effects such as poi, staff or fans. Specific props, performance length and staging are confirmed with the artists and venue in your quote."
+msgstr "可咨询同步双人舞、编排好的群舞，以及火球、火棍或火扇等道具。具体道具、表演时长和舞台安排会在报价中与演员和场地确认。"
+
+msgid "Can a fire dance show be combined with fireworks?"
+msgstr "火舞表演可以和烟花一起安排吗？"
+
+msgid "Yes, we can plan them as separate moments in the same event, subject to artist availability, venue suitability and the necessary approvals. The two services are quoted separately."
+msgstr "可以，我们可以把它们安排为同一活动中的不同环节，视演员档期、场地条件及所需审批而定。两项服务分别报价。"
+
+msgid "Do you also cover Khao Lak and Krabi?"
+msgstr "考拉和甲米也提供服务吗？"
+
+msgid "Yes, subject to venue suitability, operator availability and the proposed firing location."
+msgstr "是的，视场地条件、团队档期及拟定燃放位置而定。"
+
+msgid "How far in advance should I book?"
+msgstr "需要提前多久预订？"
+
+msgid "Please allow at least 7–14 days for permission arrangements, excluding weekends and public holidays. Contact us as soon as your date and venue are known; some venues and locations may need longer."
+msgstr "办理许可至少需要 7–14 天（不含周末和公共假日）。确定日期和场地后请尽快联系我们；部分场地和地点可能需要更长时间。"
+
+msgid "Can you coordinate directly with my wedding planner or hotel?"
+msgstr "可以直接与我的婚礼策划师或酒店对接吗？"
+
+msgid "Yes. We can liaise directly with your planner, hotel or venue team to align timing, access and requirements."
+msgstr "可以。我们可以直接与您的策划师、酒店或场地团队沟通，统一时间、进场及各项要求。"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "How enquiries work"
+msgstr "咨询流程"
+
+msgid "We take every first enquiry through our form, so we can check your date, venue and requirements properly before we talk. After that, we’re happy to continue on whichever app suits you."
+msgstr "所有首次咨询均通过表单提交，以便我们在沟通前核实您的日期、场地和需求。之后，我们可以通过您方便的任何应用继续沟通。"
+
+msgid "Professional fireworks displays and fire dance shows for weddings, proposals, villas, resorts and events across Phuket, Khao Lak and Krabi."
+msgstr "为普吉岛、考拉和甲米的婚礼、求婚、别墅、度假村及各类活动提供专业烟花与火舞表演。"
+
+msgid "Search results for: %s"
+msgstr "搜索结果：%s"
+
+msgid "Nothing found"
+msgstr "未找到内容"
+
+msgid "Please try another search."
+msgstr "请尝试其他搜索词。"
+
+msgid "Plan your celebration"
+msgstr "筹备您的庆典"
+
+msgid "From the PhuketWeds album"
+msgstr "来自 PhuketWeds 相册"
+
+msgid "Concept of MARRY ME fire letters on a beach at dusk"
+msgstr "概念图：黄昏海滩上的 MARRY ME 火焰字"
+
+msgid "Fire dance performance at a PhuketWeds wedding reception"
+msgstr "PhuketWeds 婚宴上的火舞表演"
+
+msgid "Fireworks display inspiration in southern Thailand"
+msgstr "泰国南部烟花表演灵感"
+
+msgid "Real wedding moments"
+msgstr "真实婚礼瞬间"
+
+msgid "Fire performances by the sea"
+msgstr "海边的火舞表演"
+
+msgid "Explore fire dance shows →"
+msgstr "了解火舞表演 →"
+
+msgid "Breadcrumb"
+msgstr "面包屑导航"
+
+msgid "Real wedding fire-show photographs"
+msgstr "真实婚礼火舞照片"
+
+msgid "A dramatic flame moment"
+msgstr "震撼的火焰瞬间"
+
+msgid "A beach fire performance with a large flame above circular fire trails"
+msgstr "海滩火舞表演：巨大火焰悬于环形火光轨迹之上"
+
+msgid "A wedding fire-heart moment"
+msgstr "婚礼火焰爱心"
+
+msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
+msgstr "新人在海滩上发光的火焰爱心中亲吻"
+
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "真实婚礼瞬间，来自 <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>。火焰爱心照片经 AI 延展以补全原始构图。照片展示的是过往表演；效果与舞台安排将根据您的场地和活动另行商定。"
+
+msgid "Your celebration, beautifully handled"
+msgstr "您的庆典，由我们用心打理"
+
+msgid "Planning Something Special?"
+msgstr "正在筹备特别的时刻？"
+
+msgid "Tell us your date, venue and idea using our inquiry form. We’ll recommend a fireworks display, proposal package, fire dance show or a combination."
+msgstr "通过咨询表单告诉我们日期、场地和想法。我们会为您推荐烟花表演、求婚套餐、火舞表演或组合方案。"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Frequently asked questions"
+msgstr "常见问题"
+
+msgid "Duo Rhythm"
+msgstr "双人律动"
+
+msgid "Two performers for mirrored movement and a stronger visual presence."
+msgstr "两位演员，镜像动作，视觉效果更强。"
+
+msgid "Choreographed Trio"
+msgstr "编舞三人组"
+
+msgid "A coordinated group format for a wedding reception or private event."
+msgstr "协调的群体表演，适合婚宴或私人活动。"
+
+msgid "Ensemble"
+msgstr "合奏团"
+
+msgid "Four performers for a broader stage picture and layered choreography."
+msgstr "四位演员，舞台画面更开阔，编舞层次更丰富。"
+
+msgid "Signature Troupe"
+msgstr "招牌舞团"
+
+msgid "Five performers for a larger event and a fuller group spectacle."
+msgstr "五位演员，适合大型活动，呈现更饱满的群体盛景。"
+
+msgid "2 dancers"
+msgstr "2 位演员"
+
+msgid "3 dancers"
+msgstr "3 位演员"
+
+msgid "4 dancers"
+msgstr "4 位演员"
+
+msgid "5 dancers"
+msgstr "5 位演员"
+
+msgid "Live entertainment"
+msgstr "现场娱乐"
+
+msgid "Fire dance shows in Phuket"
+msgstr "普吉岛火舞表演"
+
+msgid "From a duo to a five-artist troupe, add a captivating live moment to a wedding, villa party or resort event. Ask us about poi, staff, fans and choreographed group routines; the final format depends on the artists and venue."
+msgstr "从双人到五人舞团，为婚礼、别墅派对或度假村活动增添震撼的现场时刻。可咨询火球、火棍、火扇及编排群舞；最终形式取决于演员和场地。"
+
+msgid "Explore fire shows →"
+msgstr "了解火舞表演 →"
+
+msgid "Fire performer at a PhuketWeds wedding reception, with sweeping trails of sparks"
+msgstr "PhuketWeds 婚宴上的火舞演员，火花轨迹划过夜空"
+
+msgid "From ฿%s+"
+msgstr "฿%s+ 起"
+
+msgid "Ask about this show →"
+msgstr "咨询此表演 →"
+
+msgid "Indicative fire-show budget guides only. Performer availability, show length, choreography, travel, venue requirements, taxes and any special effects are confirmed in a written quote. Fire shows and fireworks are priced separately."
+msgstr "火舞表演预算仅供参考。演员档期、表演时长、编舞、交通、场地要求、税费及特殊效果均以书面报价为准。火舞表演与烟花分别计价。"
+
+msgid "Real wedding photographs"
+msgstr "真实婚礼照片"
+
+msgid "Firelight by the sea."
+msgstr "海边的火光。"
+
+msgid "Explore photographs of live fire performances and wedding moments from the PhuketWeds collection."
+msgstr "浏览 PhuketWeds 收藏中的现场火舞表演和婚礼瞬间。"
+
+msgid "Explore the gallery →"
+msgstr "浏览案例 →"
+
+msgid "Fireworks photographed at Patong Beach by Rene Ehrhardt"
+msgstr "芭东海滩烟花，摄影：Rene Ehrhardt"
+
+msgid "Professional<br><em>Fireworks</em> in Phuket"
+msgstr "普吉岛<br><em>专业烟花</em>表演"
+
+msgid "Spectacular fireworks displays for weddings, proposals, private events and celebrations across Phuket, Khao Lak & Krabi."
+msgstr "为普吉岛、考拉和甲米的婚礼、求婚、私人活动与各类庆典打造震撼烟花表演。"
+
+msgid "View Packages →"
+msgstr "查看套餐 →"
+
+msgid "Professional displays"
+msgstr "专业表演"
+
+msgid "Venue coordination"
+msgstr "场地协调"
+
+msgid "Experienced local operators"
+msgstr "经验丰富的本地团队"
+
+msgid "Scroll to discover"
+msgstr "向下浏览"
+
+msgid "One point of contact"
+msgstr "一站式联系"
+
+msgid "The effortless way to create an unforgettable moment."
+msgstr "轻松打造难忘时刻。"
+
+msgid "You shouldn’t have to coordinate multiple suppliers for one spectacular moment. We help arrange the display, timing, venue coordination, logistics and professional firing team—so everything comes together around your celebration."
+msgstr "为了一个精彩瞬间，您无需同时对接多家供应商。我们协助安排表演、时间、场地协调、物流及专业燃放团队——一切围绕您的庆典顺利完成。"
+
+msgid "Tell us about your event →"
+msgstr "告诉我们您的活动 →"
+
+msgid "Destination coverage"
+msgstr "服务地区"
+
+msgid "Across southern Thailand"
+msgstr "覆盖泰国南部"
+
+msgid "Availability and pricing depend on the venue, access and proposed firing location."
+msgstr "档期和价格取决于场地、进场条件及拟定燃放位置。"
+
+msgid "Phuket"
+msgstr "普吉岛"
+
+msgid "Khao Lak"
+msgstr "考拉"
+
+msgid "Krabi"
+msgstr "甲米"
+
+msgid "Made for your moment"
+msgstr "为您的时刻而生"
+
+msgid "Perfect for"
+msgstr "适用场合"
+
+msgid "Wedding Fireworks"
+msgstr "婚礼烟花"
+
+msgid "Marry Me Proposals"
+msgstr "“Marry Me”求婚"
+
+msgid "Birthday & Anniversary"
+msgstr "生日与纪念日"
+
+msgid "Villa Parties"
+msgstr "别墅派对"
+
+msgid "Resort Events"
+msgstr "度假村活动"
+
+msgid "Corporate Events"
+msgstr "企业活动"
+
+msgid "Curated displays"
+msgstr "精选方案"
+
+msgid "Fireworks packages"
+msgstr "烟花套餐"
+
+msgid "Explore display options for Phuket celebrations. Every display is refined around your venue, timing and desired atmosphere."
+msgstr "为普吉岛庆典精选的表演方案。每场表演都会根据场地、时间和理想氛围精心调整。"
+
+msgid "%s fireworks inspiration"
+msgstr "%s 烟花灵感"
+
+msgid "Around ฿%s+"
+msgstr "约 ฿%s+"
+
+msgid "Request pricing"
+msgstr "价格请咨询"
+
+msgid "Request this package"
+msgstr "咨询此套餐"
+
+msgid "Intimate moments"
+msgstr "温馨时刻"
+
+msgid "Ideal for intimate weddings, proposals and smaller celebrations."
+msgstr "适合小型婚礼、求婚及小规模庆典。"
+
+msgid "A balanced finale"
+msgstr "恰到好处的终章"
+
+msgid "A fuller display with stronger pacing and a memorable finale."
+msgstr "更丰富的表演，节奏更强，终章令人难忘。"
+
+msgid "Maximum impact"
+msgstr "极致震撼"
+
+msgid "A large-scale display designed for major weddings, resorts and events."
+msgstr "为大型婚礼、度假村及活动打造的大规模表演。"
+
+msgid "View package details and starting prices →"
+msgstr "查看套餐详情与起价 →"
+
+msgid "Approximate guide prices in THB. VAT, permission fees, venue charges and special logistics are additional. Final pricing, inclusions and timing are confirmed in a written quote."
+msgstr "参考价格以泰铢计。增值税、许可费用、场地费用及特殊物流另计。最终价格、内容和时间以书面报价为准。"
+
+msgid "Simple from start to finish"
+msgstr "从开始到结束，简单省心"
+
+msgid "How it works"
+msgstr "服务流程"
+
+msgid "Send us your date and venue"
+msgstr "告诉我们日期和场地"
+
+msgid "Choose your preferred display"
+msgstr "选择您喜欢的表演"
+
+msgid "We coordinate logistics and venue requirements"
+msgstr "我们负责物流与场地要求"
+
+msgid "Enjoy the show"
+msgstr "尽情欣赏表演"
+
+msgid "The Intimate Reveal"
+msgstr "温馨揭晓"
+
+msgid "Concept of MARRY ME spelled in fire letters on a beach at dusk"
+msgstr "概念图：黄昏海滩上用火焰字拼出的 MARRY ME"
+
+msgid "A personal proposal centred on a “Marry Me” reveal. Ask about fire letters, an illuminated alternative and a discreetly coordinated cue."
+msgstr "以“Marry Me”揭晓为核心的私密求婚。可咨询火焰字、发光字替代方案以及低调协调的提示信号。"
+
+msgid "Tailored quote"
+msgstr "专属报价"
+
+msgid "Letters, location and setup quoted to suit your plans."
+msgstr "字母、地点和布置根据您的计划报价。"
+
+msgid "The Sparkling Yes"
+msgstr "闪耀的 Yes"
+
+msgid "Concept of a romantic proposal with illuminated letters and sparklers"
+msgstr "概念图：带发光字母和仙女棒的浪漫求婚"
+
+msgid "Pair your proposal reveal with a private fireworks moment. Sparklers, letters, flowers or photography can be discussed as separate additions."
+msgstr "为求婚揭晓搭配一场私人烟花。仙女棒、字母、鲜花或摄影可作为附加项目单独讨论。"
+
+msgid "Fireworks guide: ฿40,000+"
+msgstr "烟花参考价：฿40,000+"
+
+msgid "Proposal setup and all extras quoted separately."
+msgstr "求婚布置及所有附加项目另行报价。"
+
+msgid "The Grand Proposal"
+msgstr "盛大求婚"
+
+msgid "Fireworks inspiration for a larger proposal finale"
+msgstr "大型求婚终章的烟花灵感"
+
+msgid "Build a fuller celebration around your big question, with a larger fireworks finale and optional live fire performance."
+msgstr "围绕您的重要提问打造一场更完整的庆典，配以更盛大的烟花终章及可选的现场火舞表演。"
+
+msgid "Fireworks guide: ฿70,000+"
+msgstr "烟花参考价：฿70,000+"
+
+msgid "Fire performance, proposal setup and extras quoted separately."
+msgstr "火舞表演、求婚布置及附加项目另行报价。"
+
+msgid "Make the question unforgettable"
+msgstr "让求婚成为永恒的回忆"
+
+msgid "Proposal packages in Phuket"
+msgstr "普吉岛求婚套餐"
+
+msgid "Three starting points for your “Marry Me” moment. Choose the feeling you want, then we will shape a written proposal around your venue, date and budget."
+msgstr "为您的“Marry Me”时刻提供三种起点。选择您想要的感觉，我们会根据场地、日期和预算为您制定书面方案。"
+
+msgid "Plan this proposal →"
+msgstr "规划此求婚方案 →"
+
+msgid "Images show concept and display inspiration, not guaranteed package inclusions. Fire-letter and sparkler options depend on venue approval and supplier availability. The fireworks guides exclude 7% VAT, permission fees, venue charges and special logistics; a full proposal total is confirmed in writing."
+msgstr "图片为概念和表演灵感，并非套餐的保证内容。火焰字和仙女棒取决于场地许可及供应商档期。烟花参考价不含 7% 增值税、许可费用、场地费用及特殊物流；求婚总价以书面确认为准。"
+
+msgid "Explore proposal packages →"
+msgstr "了解求婚套餐 →"
+
+msgid "A real wedding, in pictures"
+msgstr "一场真实婚礼的影像"
+
+msgid "Explore Wim & Marcia’s beach wedding through two photographs from the PhuketWeds album: a fire-performance moment and a portrait surrounded by sparks."
+msgstr "通过 PhuketWeds 相册中的两张照片走进 Wim 和 Marcia 的海滩婚礼：一个火舞表演瞬间，一张被火花环绕的合影。"
+
+msgid "See the real-event feature →"
+msgstr "查看真实婚礼故事 →"
+
+msgid "Past-event inspiration. Your show is planned and quoted for your own venue."
+msgstr "过往活动仅供参考。您的表演将根据您的场地单独规划和报价。"
+
+msgid "Safety first"
+msgstr "安全第一"
+
+msgid "Professional coordination, before anything is confirmed."
+msgstr "确认之前，先做好专业统筹。"
+
+msgid "Experienced professional pyrotechnic operators"
+msgstr "经验丰富的专业烟花燃放团队"
+
+msgid "Venue requirements and firing location checked"
+msgstr "核查场地要求与燃放位置"
+
+msgid "Access, surroundings and approvals reviewed"
+msgstr "评估进场条件、周边环境及审批"
+
+msgid "Every location is different. We only confirm a display after reviewing the practical and venue requirements for your event."
+msgstr "每个地点都不同。我们只会在确认活动的实际条件与场地要求后，才确定表演。"
+
+msgid "Marry Me proposals"
+msgstr "“Marry Me”求婚"
+
+msgid "A private reveal, illuminated letters and sparkler moments can be planned around your setting."
+msgstr "私密揭晓、发光字母和仙女棒时刻均可根据您的场地规划。"
+
+msgid "Concept image of a seaside proposal with sparklers and illuminated letters"
+msgstr "概念图：海边求婚，配有仙女棒和发光字母"
+
+msgid "Daytime colour"
+msgstr "日间彩色效果"
+
+msgid "Colourful daytime effects offer a different kind of entrance or celebration moment."
+msgstr "彩色日间效果带来别样的入场或庆祝时刻。"
+
+msgid "Concept image of colourful daytime effects over a coastal venue"
+msgstr "概念图：海滨场地上空的彩色日间效果"
+
+msgid "Over-water displays"
+msgstr "水上烟花"
+
+msgid "Where a venue has no suitable firing location, a floating platform may be possible at additional cost."
+msgstr "如场地没有合适的燃放位置，可考虑使用浮动平台，费用另计。"
+
+msgid "Concept image of fireworks from a floating platform offshore"
+msgstr "概念图：海上浮动平台燃放烟花"
+
+msgid "Beyond the finale"
+msgstr "不止于终章"
+
+msgid "Make the moment yours"
+msgstr "打造专属于您的时刻"
+
+msgid "Tell us the atmosphere you have in mind. These ideas are planned individually and depend on venue approval, availability and a written quote."
+msgstr "告诉我们您想要的氛围。这些创意需单独规划，并取决于场地许可、可行性及书面报价。"
+
+msgid "Concept imagery shows possibilities, not past Fireworks Phuket events or guaranteed package inclusions."
+msgstr "概念图展示的是可能性，并非 Fireworks Phuket 的过往活动或套餐的保证内容。"
+
+msgid "Client stories"
+msgstr "客户故事"
+
+msgid "Celebrations remembered"
+msgstr "被铭记的庆典"
+
+msgid "Wedding fireworks Phuket"
+msgstr "普吉岛婚礼烟花"
+
+msgid "The Perfect Finale to a Phuket Wedding"
+msgstr "普吉岛婚礼的完美终章"
+
+msgid "Your fireworks can be coordinated with your planner, venue, photographer, DJ and wedding timeline. You enjoy the moment; we help make sure every team knows exactly when and how it happens."
+msgstr "烟花可与您的婚礼策划师、场地、摄影师、DJ 及婚礼流程无缝配合。您尽情享受当下，我们确保每个团队都清楚何时、如何呈现。"
+
+msgid "Plan your wedding finale →"
+msgstr "规划婚礼终章 →"
+
+msgid "Duo Rhythm — 2 dancers"
+msgstr "双人律动 — 2 位演员"
+
+msgid "Choreographed Trio — 3 dancers"
+msgstr "编舞三人组 — 3 位演员"
+
+msgid "Ensemble — 4 dancers"
+msgstr "合奏团 — 4 位演员"
+
+msgid "Signature Troupe — 5 dancers"
+msgstr "招牌舞团 — 5 位演员"
+
+msgid "Request a quote"
+msgstr "获取报价"
+
+msgid "Tell us about your celebration."
+msgstr "告诉我们您的庆典。"
+
+msgid "Share what you know so far. We’ll recommend a fireworks display, proposal package, fire dance show or a combination based on your date, venue and plans."
+msgstr "分享您目前已知的信息。我们会根据日期、场地和计划，为您推荐烟花表演、求婚套餐、火舞表演或组合方案。"
+
+msgid "Thank you — your inquiry is saved. Our team will review your plans and contact you using the details you provided."
+msgstr "谢谢！您的咨询已保存。我们会审阅您的计划，并通过您提供的联系方式与您联系。"
+
+msgid "This form expired. Please enter your details and submit again."
+msgstr "表单已过期，请重新填写并提交。"
+
+msgid "Please check your details, enter a valid upcoming date, and provide a phone number, email or messaging app ID."
+msgstr "请检查您的信息：填写未来的日期，并提供电话、电子邮箱或即时通讯账号。"
+
+msgid "Please wait a minute before sending another inquiry."
+msgstr "请稍候一分钟再提交下一次咨询。"
+
+msgid "We could not save your inquiry. Please try again."
+msgstr "咨询未能保存，请重试。"
+
+msgid "Leave this empty"
+msgstr "请勿填写此项"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Phone (optional)"
+msgstr "电话（选填）"
+
+msgid "Email"
+msgstr "电子邮箱"
+
+msgid "Preferred way to reach you"
+msgstr "首选联系方式"
+
+msgid "Phone call"
+msgstr "电话"
+
+msgid "Your WhatsApp, WeChat, LINE or Telegram ID"
+msgstr "您的 WhatsApp、微信、LINE 或 Telegram 账号"
+
+msgid "Event date"
+msgstr "活动日期"
+
+msgid "Venue / location"
+msgstr "场地 / 地点"
+
+msgid "Interested in"
+msgstr "感兴趣的服务"
+
+msgid "Please select"
+msgstr "请选择"
+
+msgid "Proposal package"
+msgstr "求婚套餐"
+
+msgid "Fireworks"
+msgstr "烟花"
+
+msgid "Fire dance show"
+msgstr "火舞表演"
+
+msgid "Both fireworks and fire dance"
+msgstr "烟花和火舞表演"
+
+msgid "Event type"
+msgstr "活动类型"
+
+msgid "Marriage proposal — %s"
+msgstr "求婚 — %s"
+
+msgid "Approximate budget"
+msgstr "大致预算"
+
+msgid "Tell us what you have in mind"
+msgstr "请告诉我们您的想法"
+
+msgid "Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry."
+msgstr "请至少提供一种联系方式：电话、电子邮箱或即时通讯账号。我们仅将您的信息用于回复您的咨询。"

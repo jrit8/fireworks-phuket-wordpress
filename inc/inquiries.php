@@ -10,12 +10,14 @@ add_action( 'init', function () {
 } );
 function fp_validate_inquiry( $input ) {
     $fields = array();
-    foreach ( array( 'name', 'phone', 'email', 'date', 'venue', 'service', 'option', 'event', 'budget', 'message' ) as $key ) {
+    foreach ( array( 'name', 'phone', 'email', 'preferred', 'handle', 'date', 'venue', 'service', 'option', 'event', 'budget', 'message', 'lang' ) as $key ) {
         $value = isset( $input[$key] ) && is_string( $input[$key] ) ? wp_unslash( $input[$key] ) : '';
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
     }
-    if ( ! $fields['name'] || ! $fields['venue'] || ! $fields['date'] || ( ! $fields['phone'] && ! $fields['email'] ) ) { return new WP_Error( 'required', 'Please enter your name, event date, venue and at least one contact method.' ); }
+    $fields['preferred'] = in_array( $fields['preferred'], array( 'Email', 'WhatsApp', 'WeChat', 'LINE', 'Telegram', 'Phone call' ), true ) ? $fields['preferred'] : '';
+    $fields['lang'] = in_array( $fields['lang'], array( 'en', 'ru', 'zh', 'th' ), true ) ? $fields['lang'] : 'en';
+    if ( ! $fields['name'] || ! $fields['venue'] || ! $fields['date'] || ( ! $fields['phone'] && ! $fields['email'] && ! $fields['handle'] ) ) { return new WP_Error( 'required', 'Please enter your name, event date, venue and at least one contact method.' ); }
     if ( $fields['email'] && ! is_email( $fields['email'] ) ) { return new WP_Error( 'email', 'Please enter a valid email address.' ); }
     if ( $fields['phone'] && strlen( preg_replace( '/[^0-9]/', '', $fields['phone'] ) ) < 7 ) { return new WP_Error( 'phone', 'Please enter a valid phone number.' ); }
     $date = DateTimeImmutable::createFromFormat( '!Y-m-d', $fields['date'], wp_timezone() );
@@ -23,7 +25,11 @@ function fp_validate_inquiry( $input ) {
     return $fields;
 }
 function fp_inquiry_redirect( $status ) {
-    wp_safe_redirect( add_query_arg( 'inquiry', $status, fp_page_url( 'contact', 'contact' ) ) . '#quote-form', 303 ); exit;
+    // Send the visitor back to the contact page in the language they used.
+    $lang = isset( $_POST['lang'] ) && is_string( $_POST['lang'] ) ? sanitize_key( wp_unslash( $_POST['lang'] ) ) : '';
+    $contact = get_page_by_path( 'contact' );
+    $url = $contact ? get_permalink( $lang ? fp_translated_id( $contact->ID, $lang ) : $contact->ID ) : home_url( '/' );
+    wp_safe_redirect( add_query_arg( 'inquiry', $status, $url ) . '#quote-form', 303 ); exit;
 }
 add_action( 'admin_post_nopriv_fp_inquiry', 'fp_submit_inquiry' );
 add_action( 'admin_post_fp_inquiry', 'fp_submit_inquiry' );
@@ -47,7 +53,7 @@ function fp_submit_inquiry() {
     if ( $email ) {
         // Send the submitted brief to the configured business inbox for screening.
         $headers = $fields['email'] ? array( 'Reply-To: ' . sanitize_email( $fields['email'] ) ) : array();
-        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
+        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry' . ( 'en' !== $fields['lang'] ? ' (' . strtoupper( $fields['lang'] ) . ')' : '' ), "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
         update_post_meta( $id, '_fp_notification_accepted', $sent ? 'yes' : 'no' );
     }
     fp_issue_lead_receipt( $fields['service'] );

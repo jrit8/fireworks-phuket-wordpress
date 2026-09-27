@@ -14,11 +14,11 @@ add_action( 'wp_enqueue_scripts', function () {
 add_action( 'wp_footer', function () {
     if ( ! fp_ga_id() || current_user_can( 'manage_options' ) ) { return; }
     ?>
-    <button type="button" id="fp-privacy-settings" class="fp-privacy-settings" hidden>Analytics preferences</button>
-    <section id="fp-analytics-consent" class="fp-analytics-consent" aria-label="Analytics preferences" hidden>
-        <h2>Help us improve your visit</h2>
-        <p>With your permission, Google Analytics uses cookies to measure visits, quote requests and contact-button clicks. We do not send your inquiry details. You can change your choice using Analytics preferences.</p>
-        <div><button type="button" data-fp-consent="granted">Allow analytics</button><button type="button" data-fp-consent="denied">No thanks</button></div>
+    <button type="button" id="fp-privacy-settings" class="fp-privacy-settings" hidden><?php esc_html_e( 'Analytics preferences', 'fireworks-phuket' ); ?></button>
+    <section id="fp-analytics-consent" class="fp-analytics-consent" aria-label="<?php esc_attr_e( 'Analytics preferences', 'fireworks-phuket' ); ?>" hidden>
+        <h2><?php esc_html_e( 'Help us improve your visit', 'fireworks-phuket' ); ?></h2>
+        <p><?php esc_html_e( 'With your permission, Google Analytics uses cookies to measure visits, quote requests and contact-button clicks. We do not send your inquiry details. You can change your choice using Analytics preferences.', 'fireworks-phuket' ); ?></p>
+        <div><button type="button" data-fp-consent="granted"><?php esc_html_e( 'Allow analytics', 'fireworks-phuket' ); ?></button><button type="button" data-fp-consent="denied"><?php esc_html_e( 'No thanks', 'fireworks-phuket' ); ?></button></div>
     </section>
     <?php
 } );

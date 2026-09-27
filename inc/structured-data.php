@@ -9,7 +9,7 @@ add_action( 'wp_head', function () {
     $root = home_url( '/' );
     $url = get_permalink( $id );
     $kind = fp_page_kind();
-    $slug = get_post_field( 'post_name', $id );
+    $slug = fp_source_slug( $id );
     $organization = array( '@type' => 'Organization', '@id' => $root . '#organization', 'name' => 'Fireworks Phuket', 'url' => $root );
     $phone = preg_replace( '/[^0-9]/', '', get_theme_mod( 'fp_whatsapp', '' ) );
     $email = sanitize_email( get_theme_mod( 'fp_email', '' ) );

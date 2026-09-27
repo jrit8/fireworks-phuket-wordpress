@@ -1,29 +1,38 @@
 (() => {
   const form = document.querySelector('.quote-form');
   if (form) {
+    // Translated messages come from wp_localize_script (functions.php); English is the fallback.
+    const t = Object.assign({
+      contactRequired: 'Please enter a phone number, email address or messaging app ID.',
+      phoneDigits: 'Please enter a phone number with at least seven digits.',
+      sending: 'Sending your inquiry…',
+      submit: 'Request a Quote →',
+    }, window.fpI18n || {});
     const phone = form.elements.phone;
     const email = form.elements.email;
+    const handle = form.elements.handle;
     const validateContact = () => {
       const phoneValue = phone.value.trim();
-      phone.setCustomValidity(!phoneValue && !email.value.trim()
-        ? 'Please enter a WhatsApp number or email address.'
+      phone.setCustomValidity(!phoneValue && !email.value.trim() && !(handle && handle.value.trim())
+        ? t.contactRequired
         : phoneValue && phoneValue.replace(/\D/g, '').length < 7
-          ? 'Please enter a phone number with at least seven digits.' : '');
+          ? t.phoneDigits : '');
     };
     phone.addEventListener('input', validateContact);
     email.addEventListener('input', validateContact);
+    if (handle) handle.addEventListener('input', validateContact);
     form.querySelector('button[type="submit"]').addEventListener('click', validateContact);
     form.addEventListener('submit', event => {
       validateContact();
       if (!form.reportValidity()) { event.preventDefault(); return; }
       const button = form.querySelector('button[type="submit"]');
       button.disabled = true;
-      button.textContent = 'Sending your inquiry…';
+      button.textContent = t.sending;
     });
     window.addEventListener('pageshow', () => {
       const button = form.querySelector('button[type="submit"]');
       button.disabled = false;
-      button.textContent = 'Request a Quote →';
+      button.textContent = t.submit;
     });
   }
   const toggle = document.querySelector('.menu-toggle');

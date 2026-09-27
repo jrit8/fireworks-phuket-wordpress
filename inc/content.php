@@ -27,27 +27,33 @@ add_action( 'save_post_fp_package', function ( $post_id ) {
     else { delete_post_meta( $post_id, '_fp_start_price' ); }
 } );
 function fp_items( $type ) {
-    return get_posts( array( 'post_type' => 'fp_' . $type, 'post_status' => 'publish', 'numberposts' => -1, 'orderby' => array( 'menu_order' => 'ASC', 'date' => 'ASC' ) ) );
+    $args = array( 'post_type' => 'fp_' . $type, 'post_status' => 'publish', 'numberposts' => -1, 'orderby' => array( 'menu_order' => 'ASC', 'date' => 'ASC' ) );
+    // With Polylang, only show items in the visitor's language.
+    if ( function_exists( 'pll_current_language' ) && function_exists( 'pll_is_translated_post_type' ) && pll_is_translated_post_type( 'fp_' . $type ) ) {
+        $args['lang'] = fp_lang();
+        $args['suppress_filters'] = false;
+    }
+    return get_posts( $args );
 }
 function fp_item_content( $item ) {
     echo apply_filters( 'the_content', $item->post_content );
 }
 function fp_default_faqs() {
     return array(
-        array( 'How much do fireworks cost in Phuket?', 'As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display.' ),
-        array( 'What can change the final price?', 'The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions.' ),
-        array( 'How long does a display last?', 'Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design.' ),
-        array( 'Can fireworks be arranged at any hotel or beach?', 'Not every location is suitable. Venue rules, firing position, access, surroundings and approvals are checked before confirmation.' ),
-        array( 'Can you arrange a “Marry Me” proposal or sparklers?', 'Tell us the moment you imagine. We can discuss fire letters spelling “Marry Me”, illuminated proposal letters, sparklers and fireworks with your planner or venue. Each element depends on venue rules, availability and a separate written quote.' ),
-        array( 'What is included in a proposal package?', 'The Intimate Reveal, The Sparkling Yes and The Grand Proposal are planning starting points. Fireworks guide prices apply to the display only. Letters, decor, photography, live performance, venue costs and other additions are itemised separately in your written quote.' ),
-        array( 'Are fire letters available at every venue?', 'No. Fire letters need a suitable outdoor location and specific venue approval. Tell us your preferred venue so we can check availability and discuss an illuminated alternative if open flame is not suitable.' ),
-        array( 'Are colourful daytime effects available?', 'They may be possible for suitable events. Share your venue and the effect you have in mind so we can check the location, availability and approval requirements.' ),
-        array( 'Can the display be launched from a barge or floating platform?', 'A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability.' ),
-        array( 'How many fire dancers can we book?', 'We offer shows with two to five dancers, with starting guides from ฿25,000+. The right number depends on your venue, guest experience and preferred show style.' ),
-        array( 'What kinds of fire dance shows are possible?', 'Ask about synchronized duos, choreographed group routines and effects such as poi, staff or fans. Specific props, performance length and staging are confirmed with the artists and venue in your quote.' ),
-        array( 'Can a fire dance show be combined with fireworks?', 'Yes, we can plan them as separate moments in the same event, subject to artist availability, venue suitability and the necessary approvals. The two services are quoted separately.' ),
-        array( 'Do you also cover Khao Lak and Krabi?', 'Yes, subject to venue suitability, operator availability and the proposed firing location.' ),
-        array( 'How far in advance should I book?', 'Please allow at least 7–14 days for permission arrangements, excluding weekends and public holidays. Contact us as soon as your date and venue are known; some venues and locations may need longer.' ),
-        array( 'Can you coordinate directly with my wedding planner or hotel?', 'Yes. We can liaise directly with your planner, hotel or venue team to align timing, access and requirements.' ),
+        array( __( 'How much do fireworks cost in Phuket?', 'fireworks-phuket' ), __( 'As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display.', 'fireworks-phuket' ) ),
+        array( __( 'What can change the final price?', 'fireworks-phuket' ), __( 'The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions.', 'fireworks-phuket' ) ),
+        array( __( 'How long does a display last?', 'fireworks-phuket' ), __( 'Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design.', 'fireworks-phuket' ) ),
+        array( __( 'Can fireworks be arranged at any hotel or beach?', 'fireworks-phuket' ), __( 'Not every location is suitable. Venue rules, firing position, access, surroundings and approvals are checked before confirmation.', 'fireworks-phuket' ) ),
+        array( __( 'Can you arrange a “Marry Me” proposal or sparklers?', 'fireworks-phuket' ), __( 'Tell us the moment you imagine. We can discuss fire letters spelling “Marry Me”, illuminated proposal letters, sparklers and fireworks with your planner or venue. Each element depends on venue rules, availability and a separate written quote.', 'fireworks-phuket' ) ),
+        array( __( 'What is included in a proposal package?', 'fireworks-phuket' ), __( 'The Intimate Reveal, The Sparkling Yes and The Grand Proposal are planning starting points. Fireworks guide prices apply to the display only. Letters, decor, photography, live performance, venue costs and other additions are itemised separately in your written quote.', 'fireworks-phuket' ) ),
+        array( __( 'Are fire letters available at every venue?', 'fireworks-phuket' ), __( 'No. Fire letters need a suitable outdoor location and specific venue approval. Tell us your preferred venue so we can check availability and discuss an illuminated alternative if open flame is not suitable.', 'fireworks-phuket' ) ),
+        array( __( 'Are colourful daytime effects available?', 'fireworks-phuket' ), __( 'They may be possible for suitable events. Share your venue and the effect you have in mind so we can check the location, availability and approval requirements.', 'fireworks-phuket' ) ),
+        array( __( 'Can the display be launched from a barge or floating platform?', 'fireworks-phuket' ), __( 'A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability.', 'fireworks-phuket' ) ),
+        array( __( 'How many fire dancers can we book?', 'fireworks-phuket' ), __( 'We offer shows with two to five dancers, with starting guides from ฿25,000+. The right number depends on your venue, guest experience and preferred show style.', 'fireworks-phuket' ) ),
+        array( __( 'What kinds of fire dance shows are possible?', 'fireworks-phuket' ), __( 'Ask about synchronized duos, choreographed group routines and effects such as poi, staff or fans. Specific props, performance length and staging are confirmed with the artists and venue in your quote.', 'fireworks-phuket' ) ),
+        array( __( 'Can a fire dance show be combined with fireworks?', 'fireworks-phuket' ), __( 'Yes, we can plan them as separate moments in the same event, subject to artist availability, venue suitability and the necessary approvals. The two services are quoted separately.', 'fireworks-phuket' ) ),
+        array( __( 'Do you also cover Khao Lak and Krabi?', 'fireworks-phuket' ), __( 'Yes, subject to venue suitability, operator availability and the proposed firing location.', 'fireworks-phuket' ) ),
+        array( __( 'How far in advance should I book?', 'fireworks-phuket' ), __( 'Please allow at least 7–14 days for permission arrangements, excluding weekends and public holidays. Contact us as soon as your date and venue are known; some venues and locations may need longer.', 'fireworks-phuket' ) ),
+        array( __( 'Can you coordinate directly with my wedding planner or hotel?', 'fireworks-phuket' ), __( 'Yes. We can liaise directly with your planner, hotel or venue team to align timing, access and requirements.', 'fireworks-phuket' ) ),
     );
 }

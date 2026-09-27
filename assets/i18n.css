@@ -1,0 +1,21 @@
+/* Language switcher, messaging-app icons and non-Latin typography (see inc/i18n.php). */
+.lang-switcher ul{display:flex;gap:2px;list-style:none;margin:0;padding:0}
+.lang-switcher a{display:block;padding:6px 8px;font-size:.7rem;font-weight:600;line-height:1.2;color:var(--muted);border:1px solid transparent;border-radius:2px}
+.lang-switcher a:hover{color:var(--fg)}
+.lang-switcher a[aria-current]{color:var(--gold);border-color:var(--border)}
+.footer-lang{margin-top:20px}
+.footer-lang ul{flex-wrap:wrap}
+@media(max-width:1099px){.header-lang{margin-left:auto}.header-inner:has(.header-lang) .menu-toggle{order:1;margin-left:0}}
+.chat-apps{display:flex;flex-wrap:wrap;gap:10px 20px;list-style:none;margin:12px 0 0;padding:0}
+.chat-apps li{display:flex;align-items:center;gap:8px;font-size:.875rem;color:var(--fg)}
+.chat-apps svg{flex:none}
+.intake-note{margin-top:32px;padding-left:20px;border-left:1px solid var(--gold)}
+.intake-note .eyebrow{margin-bottom:8px}
+.intake-note .copy{margin:0}
+.site-footer .small.copy{margin:16px 0 0}
+/* Thai and Chinese: system fonts with those scripts, and looser headline leading (Thai vowel marks clip at line-height:1). */
+html:lang(th) body{font-family:Manrope,"Noto Sans Thai","Leelawadee UI",Tahoma,sans-serif}
+html:lang(th) :is(h1,h2,h3,.price,.fire-format-price,.proposal-price){font-family:'Cormorant Garamond',"Noto Serif Thai","Leelawadee UI",Tahoma,serif;line-height:1.35}
+html:lang(zh) body{font-family:Manrope,"PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif}
+html:lang(zh) :is(h1,h2,h3,.price,.fire-format-price,.proposal-price){font-family:'Cormorant Garamond',"Songti SC","Noto Serif SC",SimSun,serif;line-height:1.25}
+html:lang(ru) :is(h1,h2,h3){overflow-wrap:break-word;hyphens:auto}

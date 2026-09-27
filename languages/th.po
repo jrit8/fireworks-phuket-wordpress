@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fireworks Phuket theme\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: fireworks-phuket\n"
+
+msgid "Page not found"
+msgstr "ไม่พบหน้านี้"
+
+msgid "Let’s get you back to the celebration."
+msgstr "กลับไปสู่งานเฉลิมฉลองกันเถอะ"
+
+msgid "Back to home"
+msgstr "กลับหน้าแรก"
+
+msgid "Professionally coordinated fireworks and fire dance shows for celebrations across Phuket, Khao Lak and Krabi."
+msgstr "โชว์พลุและโชว์ระบำไฟที่ประสานงานโดยมืออาชีพ สำหรับงานเฉลิมฉลองทั่วภูเก็ต เขาหลัก และกระบี่"
+
+msgid "Explore"
+msgstr "เมนู"
+
+msgid "Footer navigation"
+msgstr "เมนูส่วนท้าย"
+
+msgid "Start planning"
+msgstr "เริ่มวางแผน"
+
+msgid "Phuket · Khao Lak · Krabi"
+msgstr "ภูเก็ต · เขาหลัก · กระบี่"
+
+msgid "We continue on your preferred app after your first enquiry:"
+msgstr "หลังคำขอแรก เราคุยต่อผ่านแอปที่คุณสะดวกได้:"
+
+msgid "Shows subject to venue, location and approval requirements."
+msgstr "การจัดโชว์ขึ้นอยู่กับข้อกำหนดของสถานที่ พื้นที่ และการอนุญาต"
+
+msgid "Photography credits"
+msgstr "เครดิตภาพถ่าย"
+
+msgid "Licensed real fireworks photographs used as display inspiration; they do not depict Fireworks Phuket bookings or confirm package inclusions. Images resized/compressed and displayed with responsive crops."
+msgstr "ภาพพลุจริงที่ได้รับอนุญาตใช้เป็นแรงบันดาลใจ ไม่ใช่งานของ Fireworks Phuket และไม่ได้ยืนยันสิ่งที่รวมในแพ็กเกจ ภาพถูกย่อขนาด บีบอัด และครอปให้เหมาะกับหน้าจอ"
+
+msgid "Primary navigation"
+msgstr "เมนูหลัก"
+
+msgid "Please enter a phone number, email address or messaging app ID."
+msgstr "กรุณากรอกเบอร์โทร อีเมล หรือไอดีแอปแชท"
+
+msgid "Please enter a phone number with at least seven digits."
+msgstr "กรุณากรอกเบอร์โทรอย่างน้อยเจ็ดหลัก"
+
+msgid "Sending your inquiry…"
+msgstr "กำลังส่งคำขอ…"
+
+msgid "Request a Quote →"
+msgstr "ขอใบเสนอราคา →"
+
+msgid "Request a Quote"
+msgstr "ขอใบเสนอราคา"
+
+msgid "Home"
+msgstr "หน้าแรก"
+
+msgid "Packages"
+msgstr "แพ็กเกจ"
+
+msgid "Fire Shows"
+msgstr "โชว์ระบำไฟ"
+
+msgid "Proposals"
+msgstr "ขอแต่งงาน"
+
+msgid "Weddings"
+msgstr "งานแต่งงาน"
+
+msgid "Gallery"
+msgstr "แกลเลอรี"
+
+msgid "Locations"
+msgstr "พื้นที่บริการ"
+
+msgid "FAQ"
+msgstr "คำถามที่พบบ่อย"
+
+msgid "Contact"
+msgstr "ติดต่อเรา"
+
+msgid "Skip to content"
+msgstr "ข้ามไปยังเนื้อหา"
+
+msgid "Fireworks Phuket home"
+msgstr "หน้าแรก Fireworks Phuket"
+
+msgid "Menu"
+msgstr "เมนู"
+
+msgid "Main navigation"
+msgstr "เมนูหลัก"
+
+msgid "Analytics preferences"
+msgstr "ตั้งค่าการวิเคราะห์"
+
+msgid "Help us improve your visit"
+msgstr "ช่วยเราปรับปรุงเว็บไซต์"
+
+msgid "With your permission, Google Analytics uses cookies to measure visits, quote requests and contact-button clicks. We do not send your inquiry details. You can change your choice using Analytics preferences."
+msgstr "เมื่อคุณอนุญาต Google Analytics จะใช้คุกกี้เพื่อวัดการเข้าชม คำขอใบเสนอราคา และการคลิกปุ่มติดต่อ เราไม่ส่งรายละเอียดคำขอของคุณ คุณเปลี่ยนตัวเลือกได้ที่ “ตั้งค่าการวิเคราะห์”"
+
+msgid "Allow analytics"
+msgstr "อนุญาตการวิเคราะห์"
+
+msgid "No thanks"
+msgstr "ไม่ ขอบคุณ"
+
+msgid "How much do fireworks cost in Phuket?"
+msgstr "จุดพลุในภูเก็ตราคาเท่าไร?"
+
+msgid "As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display."
+msgstr "โดยประมาณ โชว์หลักของเราอยู่ที่ราว ฿40,000+, ฿70,000+ และ ฿108,000+ เราจะจัดทำใบเสนอราคาเป็นลายลักษณ์อักษรเมื่อทราบวันที่ สถานที่ และรูปแบบโชว์ที่ต้องการ"
+
+msgid "What can change the final price?"
+msgstr "อะไรบ้างที่ทำให้ราคาสุดท้ายเปลี่ยนไป?"
+
+msgid "The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions."
+msgstr "ราคาเริ่มต้นยังไม่รวม VAT 7% ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ หากต้องใช้แพลตฟอร์มลอยน้ำสำหรับจุดพลุจะเสนอราคาแยก ใบเสนอราคาจะระบุราคาสุดท้ายและสิ่งที่รวมไว้"
+
+msgid "How long does a display last?"
+msgstr "โชว์ใช้เวลานานเท่าไร?"
+
+msgid "Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design."
+msgstr "ตัวเลือกปัจจุบันมีตั้งแต่ช่วงสั้นๆ ไม่ถึงหนึ่งนาทีไปจนถึงประมาณสี่นาที ระยะเวลาจริงขึ้นอยู่กับลำดับการจุด สถานที่ และดีไซน์ที่ยืนยันแล้ว"
+
+msgid "Can fireworks be arranged at any hotel or beach?"
+msgstr "จัดโชว์พลุที่โรงแรมหรือชายหาดไหนก็ได้หรือไม่?"
+
+msgid "Not every location is suitable. Venue rules, firing position, access, surroundings and approvals are checked before confirmation."
+msgstr "ไม่ใช่ทุกสถานที่ที่เหมาะสม เราจะตรวจสอบกฎของสถานที่ ตำแหน่งจุดพลุ การเข้าถึง สภาพแวดล้อม และการอนุญาตก่อนยืนยัน"
+
+msgid "Can you arrange a “Marry Me” proposal or sparklers?"
+msgstr "จัดการขอแต่งงานแบบ “Marry Me” หรือพลุเย็นได้ไหม?"
+
+msgid "Tell us the moment you imagine. We can discuss fire letters spelling “Marry Me”, illuminated proposal letters, sparklers and fireworks with your planner or venue. Each element depends on venue rules, availability and a separate written quote."
+msgstr "เล่าช่วงเวลาที่คุณจินตนาการไว้ให้เราฟัง เราสามารถพูดคุยเรื่องตัวอักษรไฟ “Marry Me” ตัวอักษรเรืองแสง พลุเย็น และพลุ ร่วมกับแพลนเนอร์หรือสถานที่ของคุณ แต่ละรายการขึ้นอยู่กับกฎของสถานที่ ความพร้อม และใบเสนอราคาแยก"
+
+msgid "What is included in a proposal package?"
+msgstr "แพ็กเกจขอแต่งงานมีอะไรบ้าง?"
+
+msgid "The Intimate Reveal, The Sparkling Yes and The Grand Proposal are planning starting points. Fireworks guide prices apply to the display only. Letters, decor, photography, live performance, venue costs and other additions are itemised separately in your written quote."
+msgstr "“เผยความในใจ” “Yes ที่เปล่งประกาย” และ “ขอแต่งงานสุดยิ่งใหญ่” เป็นจุดเริ่มต้นในการวางแผน ราคาพลุโดยประมาณครอบคลุมเฉพาะโชว์พลุ ตัวอักษร การตกแต่ง การถ่ายภาพ การแสดงสด ค่าสถานที่ และรายการเพิ่มเติมอื่นๆ จะแยกไว้ในใบเสนอราคา"
+
+msgid "Are fire letters available at every venue?"
+msgstr "ตัวอักษรไฟใช้ได้ทุกสถานที่หรือไม่?"
+
+msgid "No. Fire letters need a suitable outdoor location and specific venue approval. Tell us your preferred venue so we can check availability and discuss an illuminated alternative if open flame is not suitable."
+msgstr "ไม่ได้ ตัวอักษรไฟต้องใช้พื้นที่กลางแจ้งที่เหมาะสมและได้รับอนุญาตจากสถานที่ แจ้งสถานที่ที่คุณต้องการ แล้วเราจะตรวจสอบความเป็นไปได้ และเสนอทางเลือกแบบเรืองแสงหากไม่เหมาะกับเปลวไฟ"
+
+msgid "Are colourful daytime effects available?"
+msgstr "มีเอฟเฟกต์สีสันตอนกลางวันไหม?"
+
+msgid "They may be possible for suitable events. Share your venue and the effect you have in mind so we can check the location, availability and approval requirements."
+msgstr "อาจทำได้สำหรับบางงาน แจ้งสถานที่และเอฟเฟกต์ที่คุณต้องการ แล้วเราจะตรวจสอบพื้นที่ ความพร้อม และข้อกำหนดการอนุญาต"
+
+msgid "Can the display be launched from a barge or floating platform?"
+msgstr "จุดพลุจากเรือหรือแพลตฟอร์มลอยน้ำได้ไหม?"
+
+msgid "A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability."
+msgstr "อาจต้องใช้แพลตฟอร์มลอยน้ำเมื่อสถานที่ไม่มีตำแหน่งจุดพลุที่เหมาะสมและได้รับอนุญาต ปัจจุบันประเมินไว้ราว ฿40,000–฿60,000 ขึ้นไป เพิ่มจากค่าโชว์ ขึ้นอยู่กับสภาพทะเล การเข้าถึง และความพร้อมของผู้ให้บริการ"
+
+msgid "How many fire dancers can we book?"
+msgstr "จองนักแสดงระบำไฟได้กี่คน?"
+
+msgid "We offer shows with two to five dancers, with starting guides from ฿25,000+. The right number depends on your venue, guest experience and preferred show style."
+msgstr "เรามีโชว์ตั้งแต่สองถึงห้าคน เริ่มต้นราว ฿25,000+ จำนวนที่เหมาะสมขึ้นอยู่กับสถานที่ ประสบการณ์ของแขก และสไตล์โชว์ที่คุณชอบ"
+
+msgid "What kinds of fire dance shows are possible?"
+msgstr "มีโชว์ระบำไฟแบบไหนบ้าง?"
+
+msgid "Ask about synchronized duos, choreographed group routines and effects such as poi, staff or fans. Specific props, performance length and staging are confirmed with the artists and venue in your quote."
+msgstr "สอบถามได้ทั้งการแสดงคู่แบบพร้อมเพรียง การแสดงกลุ่มที่ออกแบบท่า และอุปกรณ์อย่างปอย ไม้ไฟ หรือพัดไฟ อุปกรณ์ ระยะเวลา และการจัดเวทีจะยืนยันกับนักแสดงและสถานที่ในใบเสนอราคา"
+
+msgid "Can a fire dance show be combined with fireworks?"
+msgstr "รวมโชว์ระบำไฟกับพลุได้ไหม?"
+
+msgid "Yes, we can plan them as separate moments in the same event, subject to artist availability, venue suitability and the necessary approvals. The two services are quoted separately."
+msgstr "ได้ เราวางแผนเป็นช่วงแยกกันในงานเดียวกันได้ ขึ้นอยู่กับความพร้อมของนักแสดง ความเหมาะสมของสถานที่ และการอนุญาตที่จำเป็น ทั้งสองบริการคิดราคาแยกกัน"
+
+msgid "Do you also cover Khao Lak and Krabi?"
+msgstr "ให้บริการที่เขาหลักและกระบี่ด้วยหรือไม่?"
+
+msgid "Yes, subject to venue suitability, operator availability and the proposed firing location."
+msgstr "ให้บริการ ขึ้นอยู่กับความเหมาะสมของสถานที่ ความพร้อมของทีมงาน และตำแหน่งจุดพลุที่เสนอ"
+
+msgid "How far in advance should I book?"
+msgstr "ควรจองล่วงหน้านานแค่ไหน?"
+
+msgid "Please allow at least 7–14 days for permission arrangements, excluding weekends and public holidays. Contact us as soon as your date and venue are known; some venues and locations may need longer."
+msgstr "ควรเผื่อเวลาอย่างน้อย 7–14 วันสำหรับการขออนุญาต ไม่นับวันหยุดสุดสัปดาห์และวันหยุดนักขัตฤกษ์ ติดต่อเราทันทีที่ทราบวันที่และสถานที่ บางสถานที่อาจต้องใช้เวลานานกว่านี้"
+
+msgid "Can you coordinate directly with my wedding planner or hotel?"
+msgstr "ประสานงานกับเวดดิ้งแพลนเนอร์หรือโรงแรมโดยตรงได้ไหม?"
+
+msgid "Yes. We can liaise directly with your planner, hotel or venue team to align timing, access and requirements."
+msgstr "ได้ เราสามารถติดต่อแพลนเนอร์ โรงแรม หรือทีมสถานที่ของคุณโดยตรง เพื่อให้เวลา การเข้าถึง และข้อกำหนดต่างๆ สอดคล้องกัน"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "How enquiries work"
+msgstr "ขั้นตอนการรับคำขอ"
+
+msgid "We take every first enquiry through our form, so we can check your date, venue and requirements properly before we talk. After that, we’re happy to continue on whichever app suits you."
+msgstr "เรารับคำขอครั้งแรกทุกรายการผ่านแบบฟอร์ม เพื่อตรวจสอบวันที่ สถานที่ และข้อกำหนดให้ถูกต้องก่อนพูดคุย หลังจากนั้นเราพร้อมคุยต่อผ่านแอปที่คุณสะดวก"
+
+msgid "Professional fireworks displays and fire dance shows for weddings, proposals, villas, resorts and events across Phuket, Khao Lak and Krabi."
+msgstr "โชว์พลุและโชว์ระบำไฟมืออาชีพ สำหรับงานแต่งงาน การขอแต่งงาน วิลล่า รีสอร์ท และงานอีเวนต์ทั่วภูเก็ต เขาหลัก และกระบี่"
+
+msgid "Search results for: %s"
+msgstr "ผลการค้นหา: %s"
+
+msgid "Nothing found"
+msgstr "ไม่พบข้อมูล"
+
+msgid "Please try another search."
+msgstr "กรุณาลองค้นหาด้วยคำอื่น"
+
+msgid "Plan your celebration"
+msgstr "วางแผนงานของคุณ"
+
+msgid "From the PhuketWeds album"
+msgstr "จากอัลบั้ม PhuketWeds"
+
+msgid "Concept of MARRY ME fire letters on a beach at dusk"
+msgstr "ภาพคอนเซปต์ตัวอักษรไฟ MARRY ME บนชายหาดยามพลบค่ำ"
+
+msgid "Fire dance performance at a PhuketWeds wedding reception"
+msgstr "โชว์ระบำไฟในงานเลี้ยงแต่งงานของ PhuketWeds"
+
+msgid "Fireworks display inspiration in southern Thailand"
+msgstr "แรงบันดาลใจโชว์พลุในภาคใต้ของไทย"
+
+msgid "Real wedding moments"
+msgstr "ช่วงเวลาจริงจากงานแต่งงาน"
+
+msgid "Fire performances by the sea"
+msgstr "โชว์ระบำไฟริมทะเล"
+
+msgid "Explore fire dance shows →"
+msgstr "ดูโชว์ระบำไฟ →"
+
+msgid "Breadcrumb"
+msgstr "เส้นทางนำทาง"
+
+msgid "Real wedding fire-show photographs"
+msgstr "ภาพโชว์ระบำไฟจากงานแต่งงานจริง"
+
+msgid "A dramatic flame moment"
+msgstr "ช่วงเวลาเปลวไฟสุดตระการตา"
+
+msgid "A beach fire performance with a large flame above circular fire trails"
+msgstr "โชว์ระบำไฟบนชายหาด เปลวไฟขนาดใหญ่เหนือวงแสงไฟ"
+
+msgid "A wedding fire-heart moment"
+msgstr "หัวใจไฟในงานแต่งงาน"
+
+msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
+msgstr "คู่บ่าวสาวจุมพิตกันกลางหัวใจไฟเรืองแสงบนชายหาด"
+
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "ช่วงเวลาจริงจากงานแต่งงานใน <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a> ภาพหัวใจไฟขยายด้วย AI เพื่อเติมเฟรมเดิมให้สมบูรณ์ ภาพแสดงการแสดงในอดีต เอฟเฟกต์และการจัดเวทีจะตกลงแยกตามสถานที่และงานของคุณ"
+
+msgid "Your celebration, beautifully handled"
+msgstr "ให้เราดูแลงานของคุณอย่างสมบูรณ์แบบ"
+
+msgid "Planning Something Special?"
+msgstr "กำลังวางแผนช่วงเวลาพิเศษอยู่ใช่ไหม?"
+
+msgid "Tell us your date, venue and idea using our inquiry form. We’ll recommend a fireworks display, proposal package, fire dance show or a combination."
+msgstr "แจ้งวันที่ สถานที่ และไอเดียผ่านแบบฟอร์มคำขอ แล้วเราจะแนะนำโชว์พลุ แพ็กเกจขอแต่งงาน โชว์ระบำไฟ หรือแบบผสมผสาน"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Frequently asked questions"
+msgstr "คำถามที่พบบ่อย"
+
+msgid "Duo Rhythm"
+msgstr "จังหวะคู่"
+
+msgid "Two performers for mirrored movement and a stronger visual presence."
+msgstr "นักแสดงสองคน เคลื่อนไหวสะท้อนกัน ให้ภาพที่โดดเด่นยิ่งขึ้น"
+
+msgid "Choreographed Trio"
+msgstr "ทรีโอออกแบบท่า"
+
+msgid "A coordinated group format for a wedding reception or private event."
+msgstr "การแสดงกลุ่มที่ประสานกัน เหมาะกับงานเลี้ยงแต่งงานหรืองานส่วนตัว"
+
+msgid "Ensemble"
+msgstr "วงรวม"
+
+msgid "Four performers for a broader stage picture and layered choreography."
+msgstr "นักแสดงสี่คน เวทีกว้างขึ้น และท่าเต้นหลายชั้น"
+
+msgid "Signature Troupe"
+msgstr "คณะซิกเนเจอร์"
+
+msgid "Five performers for a larger event and a fuller group spectacle."
+msgstr "นักแสดงห้าคน สำหรับงานใหญ่และการแสดงกลุ่มที่อลังการยิ่งขึ้น"
+
+msgid "2 dancers"
+msgstr "นักแสดง 2 คน"
+
+msgid "3 dancers"
+msgstr "นักแสดง 3 คน"
+
+msgid "4 dancers"
+msgstr "นักแสดง 4 คน"
+
+msgid "5 dancers"
+msgstr "นักแสดง 5 คน"
+
+msgid "Live entertainment"
+msgstr "ความบันเทิงสด"
+
+msgid "Fire dance shows in Phuket"
+msgstr "โชว์ระบำไฟในภูเก็ต"
+
+msgid "From a duo to a five-artist troupe, add a captivating live moment to a wedding, villa party or resort event. Ask us about poi, staff, fans and choreographed group routines; the final format depends on the artists and venue."
+msgstr "ตั้งแต่การแสดงคู่ไปจนถึงคณะห้าคน เพิ่มช่วงเวลาการแสดงสดที่น่าตื่นตาให้งานแต่งงาน ปาร์ตี้วิลล่า หรืองานรีสอร์ท สอบถามเรื่องปอย ไม้ไฟ พัดไฟ และการแสดงกลุ่มที่ออกแบบท่า รูปแบบสุดท้ายขึ้นอยู่กับนักแสดงและสถานที่"
+
+msgid "Explore fire shows →"
+msgstr "ดูโชว์ระบำไฟ →"
+
+msgid "Fire performer at a PhuketWeds wedding reception, with sweeping trails of sparks"
+msgstr "นักแสดงระบำไฟในงานเลี้ยงแต่งงานของ PhuketWeds พร้อมแนวประกายไฟ"
+
+msgid "From ฿%s+"
+msgstr "เริ่มต้น ฿%s+"
+
+msgid "Ask about this show →"
+msgstr "สอบถามโชว์นี้ →"
+
+msgid "Indicative fire-show budget guides only. Performer availability, show length, choreography, travel, venue requirements, taxes and any special effects are confirmed in a written quote. Fire shows and fireworks are priced separately."
+msgstr "งบประมาณโชว์ระบำไฟเป็นเพียงแนวทาง ความพร้อมของนักแสดง ระยะเวลา ท่าเต้น การเดินทาง ข้อกำหนดของสถานที่ ภาษี และเอฟเฟกต์พิเศษจะยืนยันในใบเสนอราคา โชว์ระบำไฟและพลุคิดราคาแยกกัน"
+
+msgid "Real wedding photographs"
+msgstr "ภาพจากงานแต่งงานจริง"
+
+msgid "Firelight by the sea."
+msgstr "แสงไฟริมทะเล"
+
+msgid "Explore photographs of live fire performances and wedding moments from the PhuketWeds collection."
+msgstr "ชมภาพการแสดงระบำไฟสดและช่วงเวลาในงานแต่งงานจากคอลเลกชันของ PhuketWeds"
+
+msgid "Explore the gallery →"
+msgstr "ดูแกลเลอรี →"
+
+msgid "Fireworks photographed at Patong Beach by Rene Ehrhardt"
+msgstr "พลุที่หาดป่าตอง ถ่ายโดย Rene Ehrhardt"
+
+msgid "Professional<br><em>Fireworks</em> in Phuket"
+msgstr "โชว์พลุ<br><em>มืออาชีพ</em> ในภูเก็ต"
+
+msgid "Spectacular fireworks displays for weddings, proposals, private events and celebrations across Phuket, Khao Lak & Krabi."
+msgstr "โชว์พลุตระการตาสำหรับงานแต่งงาน การขอแต่งงาน งานส่วนตัว และงานเฉลิมฉลองทั่วภูเก็ต เขาหลัก และกระบี่"
+
+msgid "View Packages →"
+msgstr "ดูแพ็กเกจ →"
+
+msgid "Professional displays"
+msgstr "โชว์ระดับมืออาชีพ"
+
+msgid "Venue coordination"
+msgstr "ประสานงานกับสถานที่"
+
+msgid "Experienced local operators"
+msgstr "ทีมงานท้องถิ่นมากประสบการณ์"
+
+msgid "Scroll to discover"
+msgstr "เลื่อนลงเพื่อดูเพิ่มเติม"
+
+msgid "One point of contact"
+msgstr "ติดต่อที่เดียวครบจบ"
+
+msgid "The effortless way to create an unforgettable moment."
+msgstr "สร้างช่วงเวลาที่น่าจดจำได้อย่างง่ายดาย"
+
+msgid "You shouldn’t have to coordinate multiple suppliers for one spectacular moment. We help arrange the display, timing, venue coordination, logistics and professional firing team—so everything comes together around your celebration."
+msgstr "คุณไม่จำเป็นต้องประสานงานกับซัพพลายเออร์หลายรายเพื่อช่วงเวลาสำคัญเพียงครั้งเดียว เราช่วยจัดการทั้งโชว์ การกำหนดเวลา การประสานงานกับสถานที่ โลจิสติกส์ และทีมจุดพลุมืออาชีพ ให้ทุกอย่างลงตัวกับงานของคุณ"
+
+msgid "Tell us about your event →"
+msgstr "เล่าเรื่องงานของคุณให้เราฟัง →"
+
+msgid "Destination coverage"
+msgstr "พื้นที่ให้บริการ"
+
+msgid "Across southern Thailand"
+msgstr "ทั่วภาคใต้ของไทย"
+
+msgid "Availability and pricing depend on the venue, access and proposed firing location."
+msgstr "ความพร้อมและราคาขึ้นอยู่กับสถานที่ การเข้าถึง และตำแหน่งจุดพลุที่เสนอ"
+
+msgid "Phuket"
+msgstr "ภูเก็ต"
+
+msgid "Khao Lak"
+msgstr "เขาหลัก"
+
+msgid "Krabi"
+msgstr "กระบี่"
+
+msgid "Made for your moment"
+msgstr "สร้างสรรค์เพื่อช่วงเวลาของคุณ"
+
+msgid "Perfect for"
+msgstr "เหมาะสำหรับ"
+
+msgid "Wedding Fireworks"
+msgstr "พลุงานแต่งงาน"
+
+msgid "Marry Me Proposals"
+msgstr "ขอแต่งงานแบบ “Marry Me”"
+
+msgid "Birthday & Anniversary"
+msgstr "วันเกิดและวันครบรอบ"
+
+msgid "Villa Parties"
+msgstr "ปาร์ตี้วิลล่า"
+
+msgid "Resort Events"
+msgstr "งานรีสอร์ท"
+
+msgid "Corporate Events"
+msgstr "งานองค์กร"
+
+msgid "Curated displays"
+msgstr "โชว์ที่คัดสรรมาแล้ว"
+
+msgid "Fireworks packages"
+msgstr "แพ็กเกจพลุ"
+
+msgid "Explore display options for Phuket celebrations. Every display is refined around your venue, timing and desired atmosphere."
+msgstr "ตัวเลือกโชว์สำหรับงานเฉลิมฉลองในภูเก็ต ทุกโชว์ปรับให้เข้ากับสถานที่ ช่วงเวลา และบรรยากาศที่คุณต้องการ"
+
+msgid "%s fireworks inspiration"
+msgstr "แรงบันดาลใจพลุ %s"
+
+msgid "Around ฿%s+"
+msgstr "ราว ฿%s+"
+
+msgid "Request pricing"
+msgstr "สอบถามราคา"
+
+msgid "Request this package"
+msgstr "สอบถามแพ็กเกจนี้"
+
+msgid "Intimate moments"
+msgstr "ช่วงเวลาอบอุ่น"
+
+msgid "Ideal for intimate weddings, proposals and smaller celebrations."
+msgstr "เหมาะสำหรับงานแต่งงานขนาดเล็ก การขอแต่งงาน และงานเฉลิมฉลองขนาดเล็ก"
+
+msgid "A balanced finale"
+msgstr "ไฟนอลที่ลงตัว"
+
+msgid "A fuller display with stronger pacing and a memorable finale."
+msgstr "โชว์ที่เต็มอิ่มขึ้น จังหวะเข้มข้น พร้อมไฟนอลที่น่าจดจำ"
+
+msgid "Maximum impact"
+msgstr "อลังการที่สุด"
+
+msgid "A large-scale display designed for major weddings, resorts and events."
+msgstr "โชว์ขนาดใหญ่สำหรับงานแต่งงานใหญ่ รีสอร์ท และงานอีเวนต์"
+
+msgid "View package details and starting prices →"
+msgstr "ดูรายละเอียดแพ็กเกจและราคาเริ่มต้น →"
+
+msgid "Approximate guide prices in THB. VAT, permission fees, venue charges and special logistics are additional. Final pricing, inclusions and timing are confirmed in a written quote."
+msgstr "ราคาโดยประมาณเป็นเงินบาท VAT ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษคิดเพิ่ม ราคาสุดท้าย สิ่งที่รวม และเวลาจะยืนยันในใบเสนอราคา"
+
+msgid "Simple from start to finish"
+msgstr "ง่ายตั้งแต่ต้นจนจบ"
+
+msgid "How it works"
+msgstr "ขั้นตอนการใช้บริการ"
+
+msgid "Send us your date and venue"
+msgstr "แจ้งวันที่และสถานที่"
+
+msgid "Choose your preferred display"
+msgstr "เลือกรูปแบบโชว์ที่ชอบ"
+
+msgid "We coordinate logistics and venue requirements"
+msgstr "เราประสานงานโลจิสติกส์และข้อกำหนดของสถานที่"
+
+msgid "Enjoy the show"
+msgstr "เพลิดเพลินกับโชว์"
+
+msgid "The Intimate Reveal"
+msgstr "เผยความในใจ"
+
+msgid "Concept of MARRY ME spelled in fire letters on a beach at dusk"
+msgstr "ภาพคอนเซปต์ MARRY ME ด้วยตัวอักษรไฟบนชายหาดยามพลบค่ำ"
+
+msgid "A personal proposal centred on a “Marry Me” reveal. Ask about fire letters, an illuminated alternative and a discreetly coordinated cue."
+msgstr "การขอแต่งงานแบบส่วนตัวที่มีไฮไลต์ “Marry Me” สอบถามเรื่องตัวอักษรไฟ ทางเลือกแบบเรืองแสง และคิวที่ประสานงานอย่างเงียบๆ"
+
+msgid "Tailored quote"
+msgstr "ใบเสนอราคาเฉพาะคุณ"
+
+msgid "Letters, location and setup quoted to suit your plans."
+msgstr "ตัวอักษร สถานที่ และการจัดเตรียมเสนอราคาตามแผนของคุณ"
+
+msgid "The Sparkling Yes"
+msgstr "Yes ที่เปล่งประกาย"
+
+msgid "Concept of a romantic proposal with illuminated letters and sparklers"
+msgstr "ภาพคอนเซปต์การขอแต่งงานสุดโรแมนติกพร้อมตัวอักษรเรืองแสงและพลุเย็น"
+
+msgid "Pair your proposal reveal with a private fireworks moment. Sparklers, letters, flowers or photography can be discussed as separate additions."
+msgstr "จับคู่ช่วงขอแต่งงานกับโชว์พลุส่วนตัว พลุเย็น ตัวอักษร ดอกไม้ หรือการถ่ายภาพ สามารถพูดคุยเป็นรายการเพิ่มเติมแยกได้"
+
+msgid "Fireworks guide: ฿40,000+"
+msgstr "ราคาพลุโดยประมาณ: ฿40,000+"
+
+msgid "Proposal setup and all extras quoted separately."
+msgstr "การจัดเตรียมขอแต่งงานและรายการเพิ่มเติมทั้งหมดเสนอราคาแยก"
+
+msgid "The Grand Proposal"
+msgstr "ขอแต่งงานสุดยิ่งใหญ่"
+
+msgid "Fireworks inspiration for a larger proposal finale"
+msgstr "แรงบันดาลใจพลุสำหรับไฟนอลการขอแต่งงานที่ยิ่งใหญ่"
+
+msgid "Build a fuller celebration around your big question, with a larger fireworks finale and optional live fire performance."
+msgstr "สร้างงานเฉลิมฉลองเต็มรูปแบบรอบคำถามสำคัญ พร้อมไฟนอลพลุที่ใหญ่ขึ้น และโชว์ระบำไฟสดตามต้องการ"
+
+msgid "Fireworks guide: ฿70,000+"
+msgstr "ราคาพลุโดยประมาณ: ฿70,000+"
+
+msgid "Fire performance, proposal setup and extras quoted separately."
+msgstr "โชว์ระบำไฟ การจัดเตรียมขอแต่งงาน และรายการเพิ่มเติมเสนอราคาแยก"
+
+msgid "Make the question unforgettable"
+msgstr "ทำให้คำถามนี้ไม่มีวันลืม"
+
+msgid "Proposal packages in Phuket"
+msgstr "แพ็กเกจขอแต่งงานในภูเก็ต"
+
+msgid "Three starting points for your “Marry Me” moment. Choose the feeling you want, then we will shape a written proposal around your venue, date and budget."
+msgstr "สามจุดเริ่มต้นสำหรับช่วงเวลา “Marry Me” ของคุณ เลือกความรู้สึกที่ต้องการ แล้วเราจะจัดทำข้อเสนอเป็นลายลักษณ์อักษรตามสถานที่ วันที่ และงบประมาณ"
+
+msgid "Plan this proposal →"
+msgstr "วางแผนการขอแต่งงานนี้ →"
+
+msgid "Images show concept and display inspiration, not guaranteed package inclusions. Fire-letter and sparkler options depend on venue approval and supplier availability. The fireworks guides exclude 7% VAT, permission fees, venue charges and special logistics; a full proposal total is confirmed in writing."
+msgstr "ภาพเป็นคอนเซปต์และแรงบันดาลใจ ไม่ใช่สิ่งที่รับประกันว่ารวมในแพ็กเกจ ตัวอักษรไฟและพลุเย็นขึ้นอยู่กับการอนุญาตของสถานที่และความพร้อมของผู้ให้บริการ ราคาพลุโดยประมาณยังไม่รวม VAT 7% ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ ราคารวมจะยืนยันเป็นลายลักษณ์อักษร"
+
+msgid "Explore proposal packages →"
+msgstr "ดูแพ็กเกจขอแต่งงาน →"
+
+msgid "A real wedding, in pictures"
+msgstr "งานแต่งงานจริงผ่านภาพถ่าย"
+
+msgid "Explore Wim & Marcia’s beach wedding through two photographs from the PhuketWeds album: a fire-performance moment and a portrait surrounded by sparks."
+msgstr "ชมงานแต่งงานริมชายหาดของ Wim และ Marcia ผ่านสองภาพจากอัลบั้ม PhuketWeds: ช่วงเวลาการแสดงระบำไฟ และภาพคู่ท่ามกลางประกายไฟ"
+
+msgid "See the real-event feature →"
+msgstr "ดูเรื่องราวงานแต่งงานจริง →"
+
+msgid "Past-event inspiration. Your show is planned and quoted for your own venue."
+msgstr "แรงบันดาลใจจากงานที่ผ่านมา โชว์ของคุณจะวางแผนและเสนอราคาตามสถานที่ของคุณเอง"
+
+msgid "Safety first"
+msgstr "ความปลอดภัยต้องมาก่อน"
+
+msgid "Professional coordination, before anything is confirmed."
+msgstr "ประสานงานอย่างมืออาชีพ ก่อนยืนยันทุกอย่าง"
+
+msgid "Experienced professional pyrotechnic operators"
+msgstr "ทีมจุดพลุมืออาชีพมากประสบการณ์"
+
+msgid "Venue requirements and firing location checked"
+msgstr "ตรวจสอบข้อกำหนดของสถานที่และตำแหน่งจุดพลุ"
+
+msgid "Access, surroundings and approvals reviewed"
+msgstr "ตรวจสอบการเข้าถึง สภาพแวดล้อม และการอนุญาต"
+
+msgid "Every location is different. We only confirm a display after reviewing the practical and venue requirements for your event."
+msgstr "ทุกสถานที่แตกต่างกัน เราจะยืนยันโชว์หลังจากตรวจสอบข้อกำหนดด้านการปฏิบัติงานและสถานที่ของงานคุณแล้วเท่านั้น"
+
+msgid "Marry Me proposals"
+msgstr "ขอแต่งงานแบบ “Marry Me”"
+
+msgid "A private reveal, illuminated letters and sparkler moments can be planned around your setting."
+msgstr "ช่วงเวลาเซอร์ไพรส์ ตัวอักษรเรืองแสง และพลุเย็น วางแผนให้เข้ากับสถานที่ของคุณได้"
+
+msgid "Concept image of a seaside proposal with sparklers and illuminated letters"
+msgstr "ภาพคอนเซปต์การขอแต่งงานริมทะเลพร้อมพลุเย็นและตัวอักษรเรืองแสง"
+
+msgid "Daytime colour"
+msgstr "สีสันยามกลางวัน"
+
+msgid "Colourful daytime effects offer a different kind of entrance or celebration moment."
+msgstr "เอฟเฟกต์สีสันยามกลางวันช่วยสร้างการเปิดตัวหรือช่วงเฉลิมฉลองที่แตกต่าง"
+
+msgid "Concept image of colourful daytime effects over a coastal venue"
+msgstr "ภาพคอนเซปต์เอฟเฟกต์สีสันกลางวันเหนือสถานที่ริมชายฝั่ง"
+
+msgid "Over-water displays"
+msgstr "โชว์เหนือผืนน้ำ"
+
+msgid "Where a venue has no suitable firing location, a floating platform may be possible at additional cost."
+msgstr "หากสถานที่ไม่มีตำแหน่งจุดพลุที่เหมาะสม อาจใช้แพลตฟอร์มลอยน้ำได้โดยมีค่าใช้จ่ายเพิ่ม"
+
+msgid "Concept image of fireworks from a floating platform offshore"
+msgstr "ภาพคอนเซปต์พลุจากแพลตฟอร์มลอยน้ำกลางทะเล"
+
+msgid "Beyond the finale"
+msgstr "มากกว่าไฟนอล"
+
+msgid "Make the moment yours"
+msgstr "ทำให้ช่วงเวลานี้เป็นของคุณ"
+
+msgid "Tell us the atmosphere you have in mind. These ideas are planned individually and depend on venue approval, availability and a written quote."
+msgstr "เล่าบรรยากาศที่คุณจินตนาการไว้ ไอเดียเหล่านี้วางแผนเป็นรายกรณี และขึ้นอยู่กับการอนุญาตของสถานที่ ความพร้อม และใบเสนอราคา"
+
+msgid "Concept imagery shows possibilities, not past Fireworks Phuket events or guaranteed package inclusions."
+msgstr "ภาพคอนเซปต์แสดงความเป็นไปได้ ไม่ใช่งานที่ผ่านมาของ Fireworks Phuket หรือสิ่งที่รับประกันว่ารวมในแพ็กเกจ"
+
+msgid "Client stories"
+msgstr "เรื่องราวจากลูกค้า"
+
+msgid "Celebrations remembered"
+msgstr "งานเฉลิมฉลองที่ถูกจดจำ"
+
+msgid "Wedding fireworks Phuket"
+msgstr "พลุงานแต่งงานภูเก็ต"
+
+msgid "The Perfect Finale to a Phuket Wedding"
+msgstr "ไฟนอลที่สมบูรณ์แบบของงานแต่งงานในภูเก็ต"
+
+msgid "Your fireworks can be coordinated with your planner, venue, photographer, DJ and wedding timeline. You enjoy the moment; we help make sure every team knows exactly when and how it happens."
+msgstr "โชว์พลุของคุณประสานงานร่วมกับแพลนเนอร์ สถานที่ ช่างภาพ ดีเจ และกำหนดการงานแต่งงานได้ คุณเพียงเพลิดเพลินกับช่วงเวลานั้น เราจะดูแลให้ทุกทีมรู้ว่าต้องทำอะไรและเมื่อไร"
+
+msgid "Plan your wedding finale →"
+msgstr "วางแผนไฟนอลงานแต่งงาน →"
+
+msgid "Duo Rhythm — 2 dancers"
+msgstr "จังหวะคู่ — นักแสดง 2 คน"
+
+msgid "Choreographed Trio — 3 dancers"
+msgstr "ทรีโอออกแบบท่า — นักแสดง 3 คน"
+
+msgid "Ensemble — 4 dancers"
+msgstr "วงรวม — นักแสดง 4 คน"
+
+msgid "Signature Troupe — 5 dancers"
+msgstr "คณะซิกเนเจอร์ — นักแสดง 5 คน"
+
+msgid "Request a quote"
+msgstr "ขอใบเสนอราคา"
+
+msgid "Tell us about your celebration."
+msgstr "เล่าเรื่องงานของคุณให้เราฟัง"
+
+msgid "Share what you know so far. We’ll recommend a fireworks display, proposal package, fire dance show or a combination based on your date, venue and plans."
+msgstr "แชร์สิ่งที่คุณรู้ตอนนี้ แล้วเราจะแนะนำโชว์พลุ แพ็กเกจขอแต่งงาน โชว์ระบำไฟ หรือแบบผสมผสาน ตามวันที่ สถานที่ และแผนของคุณ"
+
+msgid "Thank you — your inquiry is saved. Our team will review your plans and contact you using the details you provided."
+msgstr "ขอบคุณ — บันทึกคำขอของคุณแล้ว ทีมงานจะตรวจสอบแผนของคุณและติดต่อกลับตามข้อมูลที่ให้ไว้"
+
+msgid "This form expired. Please enter your details and submit again."
+msgstr "แบบฟอร์มหมดอายุ กรุณากรอกข้อมูลและส่งอีกครั้ง"
+
+msgid "Please check your details, enter a valid upcoming date, and provide a phone number, email or messaging app ID."
+msgstr "กรุณาตรวจสอบข้อมูล ใส่วันที่ในอนาคต และระบุเบอร์โทร อีเมล หรือไอดีแอปแชท"
+
+msgid "Please wait a minute before sending another inquiry."
+msgstr "กรุณารอหนึ่งนาทีก่อนส่งคำขอถัดไป"
+
+msgid "We could not save your inquiry. Please try again."
+msgstr "ไม่สามารถบันทึกคำขอได้ กรุณาลองอีกครั้ง"
+
+msgid "Leave this empty"
+msgstr "ปล่อยช่องนี้ว่างไว้"
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Phone (optional)"
+msgstr "เบอร์โทร (ไม่บังคับ)"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Preferred way to reach you"
+msgstr "ช่องทางที่สะดวกให้ติดต่อกลับ"
+
+msgid "Phone call"
+msgstr "โทรศัพท์"
+
+msgid "Your WhatsApp, WeChat, LINE or Telegram ID"
+msgstr "ไอดี WhatsApp, WeChat, LINE หรือ Telegram ของคุณ"
+
+msgid "Event date"
+msgstr "วันที่จัดงาน"
+
+msgid "Venue / location"
+msgstr "สถานที่จัดงาน"
+
+msgid "Interested in"
+msgstr "สนใจบริการ"
+
+msgid "Please select"
+msgstr "กรุณาเลือก"
+
+msgid "Proposal package"
+msgstr "แพ็กเกจขอแต่งงาน"
+
+msgid "Fireworks"
+msgstr "พลุ"
+
+msgid "Fire dance show"
+msgstr "โชว์ระบำไฟ"
+
+msgid "Both fireworks and fire dance"
+msgstr "พลุและโชว์ระบำไฟ"
+
+msgid "Event type"
+msgstr "ประเภทงาน"
+
+msgid "Marriage proposal — %s"
+msgstr "ขอแต่งงาน — %s"
+
+msgid "Approximate budget"
+msgstr "งบประมาณโดยประมาณ"
+
+msgid "Tell us what you have in mind"
+msgstr "เล่าไอเดียของคุณให้เราฟัง"
+
+msgid "Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry."
+msgstr "กรุณาระบุช่องทางติดต่ออย่างน้อยหนึ่งช่องทาง: เบอร์โทร อีเมล หรือไอดีแอปแชท เราจะใช้ข้อมูลของคุณเพื่อตอบคำขอเท่านั้น"

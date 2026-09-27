@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fireworks Phuket theme\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Domain: fireworks-phuket\n"
+
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+msgid "Let’s get you back to the celebration."
+msgstr "Давайте вернёмся к празднику."
+
+msgid "Back to home"
+msgstr "На главную"
+
+msgid "Professionally coordinated fireworks and fire dance shows for celebrations across Phuket, Khao Lak and Krabi."
+msgstr "Профессиональные фейерверки и огненные шоу под ключ для праздников на Пхукете, в Као Лаке и Краби."
+
+msgid "Explore"
+msgstr "Разделы"
+
+msgid "Footer navigation"
+msgstr "Навигация в подвале"
+
+msgid "Start planning"
+msgstr "Начать планирование"
+
+msgid "Phuket · Khao Lak · Krabi"
+msgstr "Пхукет · Као Лак · Краби"
+
+msgid "We continue on your preferred app after your first enquiry:"
+msgstr "После первой заявки продолжим общение в удобном для вас приложении:"
+
+msgid "Shows subject to venue, location and approval requirements."
+msgstr "Проведение шоу зависит от требований площадки, места и необходимых согласований."
+
+msgid "Photography credits"
+msgstr "Фото: авторы и лицензии"
+
+msgid "Licensed real fireworks photographs used as display inspiration; they do not depict Fireworks Phuket bookings or confirm package inclusions. Images resized/compressed and displayed with responsive crops."
+msgstr "Лицензированные фотографии реальных фейерверков используются как вдохновение; на них не изображены мероприятия Fireworks Phuket, и они не отражают состав пакетов. Изображения уменьшены, сжаты и показаны с адаптивной обрезкой."
+
+msgid "Primary navigation"
+msgstr "Основная навигация"
+
+msgid "Please enter a phone number, email address or messaging app ID."
+msgstr "Укажите телефон, email или ID в мессенджере."
+
+msgid "Please enter a phone number with at least seven digits."
+msgstr "Укажите номер телефона не короче семи цифр."
+
+msgid "Sending your inquiry…"
+msgstr "Отправляем заявку…"
+
+msgid "Request a Quote →"
+msgstr "Запросить расчёт →"
+
+msgid "Request a Quote"
+msgstr "Запросить расчёт"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Packages"
+msgstr "Пакеты"
+
+msgid "Fire Shows"
+msgstr "Огненные шоу"
+
+msgid "Proposals"
+msgstr "Предложения"
+
+msgid "Weddings"
+msgstr "Свадьбы"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Locations"
+msgstr "Локации"
+
+msgid "FAQ"
+msgstr "Вопросы"
+
+msgid "Contact"
+msgstr "Контакты"
+
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+msgid "Fireworks Phuket home"
+msgstr "Fireworks Phuket — главная"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Main navigation"
+msgstr "Основная навигация"
+
+msgid "Analytics preferences"
+msgstr "Настройки аналитики"
+
+msgid "Help us improve your visit"
+msgstr "Помогите нам сделать сайт лучше"
+
+msgid "With your permission, Google Analytics uses cookies to measure visits, quote requests and contact-button clicks. We do not send your inquiry details. You can change your choice using Analytics preferences."
+msgstr "С вашего разрешения Google Analytics использует cookie, чтобы учитывать посещения, запросы расчёта и нажатия на кнопки связи. Содержание ваших заявок мы не передаём. Изменить выбор можно в «Настройках аналитики»."
+
+msgid "Allow analytics"
+msgstr "Разрешить аналитику"
+
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+msgid "How much do fireworks cost in Phuket?"
+msgstr "Сколько стоит фейерверк на Пхукете?"
+
+msgid "As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display."
+msgstr "Ориентировочно наши основные шоу стоят от ฿40 000+, ฿70 000+ и ฿108 000+. Письменное предложение мы готовим, когда знаем дату, площадку и желаемое шоу."
+
+msgid "What can change the final price?"
+msgstr "От чего зависит итоговая цена?"
+
+msgid "The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions."
+msgstr "Стартовые цены не включают НДС 7%, сборы за разрешения, платы площадки и особую логистику. Плавучая платформа для запуска, если она нужна, рассчитывается отдельно. Итоговая цена и состав указываются в письменном предложении."
+
+msgid "How long does a display last?"
+msgstr "Сколько длится шоу?"
+
+msgid "Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design."
+msgstr "Наши текущие варианты — от короткого момента меньше минуты до примерно четырёх минут. Фактическая длительность зависит от программы запуска, площадки и утверждённого дизайна."
+
+msgid "Can fireworks be arranged at any hotel or beach?"
+msgstr "Можно ли устроить фейерверк в любом отеле или на любом пляже?"
+
+msgid "Not every location is suitable. Venue rules, firing position, access, surroundings and approvals are checked before confirmation."
+msgstr "Подходит не каждая локация. Перед подтверждением мы проверяем правила площадки, место запуска, подъезд, окружение и разрешения."
+
+msgid "Can you arrange a “Marry Me” proposal or sparklers?"
+msgstr "Можно ли устроить предложение «Marry Me» или бенгальские огни?"
+
+msgid "Tell us the moment you imagine. We can discuss fire letters spelling “Marry Me”, illuminated proposal letters, sparklers and fireworks with your planner or venue. Each element depends on venue rules, availability and a separate written quote."
+msgstr "Расскажите, каким вы видите этот момент. Мы можем обсудить огненные буквы «Marry Me», светящиеся буквы, бенгальские огни и фейерверк с вашим организатором или площадкой. Каждый элемент зависит от правил площадки, доступности и отдельного письменного предложения."
+
+msgid "What is included in a proposal package?"
+msgstr "Что входит в пакет для предложения?"
+
+msgid "The Intimate Reveal, The Sparkling Yes and The Grand Proposal are planning starting points. Fireworks guide prices apply to the display only. Letters, decor, photography, live performance, venue costs and other additions are itemised separately in your written quote."
+msgstr "«Камерный сюрприз», «Искристое „Да“» и «Грандиозное предложение» — отправные точки для планирования. Ориентировочные цены на фейерверк относятся только к самому шоу. Буквы, декор, фотосъёмка, живое выступление, расходы площадки и другие дополнения указываются в письменном предложении отдельно."
+
+msgid "Are fire letters available at every venue?"
+msgstr "Огненные буквы доступны на любой площадке?"
+
+msgid "No. Fire letters need a suitable outdoor location and specific venue approval. Tell us your preferred venue so we can check availability and discuss an illuminated alternative if open flame is not suitable."
+msgstr "Нет. Для огненных букв нужна подходящая открытая площадка и отдельное согласие площадки. Сообщите, где планируете событие, — мы проверим возможность и при необходимости предложим светящуюся альтернативу без открытого огня."
+
+msgid "Are colourful daytime effects available?"
+msgstr "Возможны ли цветные дневные эффекты?"
+
+msgid "They may be possible for suitable events. Share your venue and the effect you have in mind so we can check the location, availability and approval requirements."
+msgstr "Для некоторых мероприятий — да. Сообщите площадку и желаемый эффект, и мы проверим локацию, доступность и требования к согласованию."
+
+msgid "Can the display be launched from a barge or floating platform?"
+msgstr "Можно ли запускать фейерверк с баржи или плавучей платформы?"
+
+msgid "A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability."
+msgstr "Плавучая платформа может понадобиться, если на площадке нет подходящего согласованного места запуска. Текущая оценка — примерно ฿40 000–฿60 000 или больше дополнительно к шоу, в зависимости от состояния моря, доступа и наличия подрядчика."
+
+msgid "How many fire dancers can we book?"
+msgstr "Сколько огненных танцоров можно заказать?"
+
+msgid "We offer shows with two to five dancers, with starting guides from ฿25,000+. The right number depends on your venue, guest experience and preferred show style."
+msgstr "Мы предлагаем шоу с двумя–пятью танцорами, ориентировочно от ฿25 000+. Подходящее число зависит от площадки, формата для гостей и желаемого стиля шоу."
+
+msgid "What kinds of fire dance shows are possible?"
+msgstr "Какие огненные шоу возможны?"
+
+msgid "Ask about synchronized duos, choreographed group routines and effects such as poi, staff or fans. Specific props, performance length and staging are confirmed with the artists and venue in your quote."
+msgstr "Спросите о синхронных дуэтах, групповых постановках и реквизите — пои, посохи или веера. Конкретный реквизит, длительность и постановка согласуются с артистами и площадкой в вашем предложении."
+
+msgid "Can a fire dance show be combined with fireworks?"
+msgstr "Можно ли совместить огненное шоу с фейерверком?"
+
+msgid "Yes, we can plan them as separate moments in the same event, subject to artist availability, venue suitability and the necessary approvals. The two services are quoted separately."
+msgstr "Да, мы можем запланировать их как отдельные моменты одного события — при наличии артистов, пригодности площадки и необходимых разрешений. Эти две услуги рассчитываются отдельно."
+
+msgid "Do you also cover Khao Lak and Krabi?"
+msgstr "Вы работаете в Као Лаке и Краби?"
+
+msgid "Yes, subject to venue suitability, operator availability and the proposed firing location."
+msgstr "Да, при условии пригодности площадки, доступности команды и подходящего места запуска."
+
+msgid "How far in advance should I book?"
+msgstr "За сколько нужно бронировать?"
+
+msgid "Please allow at least 7–14 days for permission arrangements, excluding weekends and public holidays. Contact us as soon as your date and venue are known; some venues and locations may need longer."
+msgstr "Заложите минимум 7–14 дней на оформление разрешений, не считая выходных и праздников. Свяжитесь с нами, как только известны дата и площадка; для некоторых площадок и локаций нужно больше времени."
+
+msgid "Can you coordinate directly with my wedding planner or hotel?"
+msgstr "Вы можете напрямую работать с моим свадебным организатором или отелем?"
+
+msgid "Yes. We can liaise directly with your planner, hotel or venue team to align timing, access and requirements."
+msgstr "Да. Мы напрямую согласуем тайминг, доступ и требования с вашим организатором, отелем или площадкой."
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "How enquiries work"
+msgstr "Как мы работаем с заявками"
+
+msgid "We take every first enquiry through our form, so we can check your date, venue and requirements properly before we talk. After that, we’re happy to continue on whichever app suits you."
+msgstr "Все первые обращения мы принимаем через форму — так мы можем заранее проверить дату, площадку и требования. Дальше общаемся в любом удобном для вас приложении."
+
+msgid "Professional fireworks displays and fire dance shows for weddings, proposals, villas, resorts and events across Phuket, Khao Lak and Krabi."
+msgstr "Профессиональные фейерверки и огненные шоу для свадеб, предложений руки и сердца, вилл, отелей и мероприятий на Пхукете, в Као Лаке и Краби."
+
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+msgid "Please try another search."
+msgstr "Попробуйте другой запрос."
+
+msgid "Plan your celebration"
+msgstr "Спланируйте ваш праздник"
+
+msgid "From the PhuketWeds album"
+msgstr "Из альбома PhuketWeds"
+
+msgid "Concept of MARRY ME fire letters on a beach at dusk"
+msgstr "Концепт: огненные буквы MARRY ME на пляже в сумерках"
+
+msgid "Fire dance performance at a PhuketWeds wedding reception"
+msgstr "Огненное шоу на свадебном банкете PhuketWeds"
+
+msgid "Fireworks display inspiration in southern Thailand"
+msgstr "Вдохновение: фейерверк на юге Таиланда"
+
+msgid "Real wedding moments"
+msgstr "Реальные свадебные моменты"
+
+msgid "Fire performances by the sea"
+msgstr "Огненные шоу у моря"
+
+msgid "Explore fire dance shows →"
+msgstr "Смотреть огненные шоу →"
+
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+msgid "Real wedding fire-show photographs"
+msgstr "Фотографии огненного шоу на реальной свадьбе"
+
+msgid "A dramatic flame moment"
+msgstr "Эффектный момент с пламенем"
+
+msgid "A beach fire performance with a large flame above circular fire trails"
+msgstr "Огненное шоу на пляже: большое пламя над кругами огненных следов"
+
+msgid "A wedding fire-heart moment"
+msgstr "Свадебное огненное сердце"
+
+msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
+msgstr "Молодожёны целуются внутри светящегося огненного сердца на пляже"
+
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "Реальные свадебные моменты из альбома <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Фото с огненным сердцем дополнено с помощью ИИ, чтобы восстановить исходный кадр. Фотографии показывают прошлые выступления; эффекты и постановка согласуются отдельно для вашей площадки и события."
+
+msgid "Your celebration, beautifully handled"
+msgstr "Мы позаботимся о каждой детали"
+
+msgid "Planning Something Special?"
+msgstr "Планируете что-то особенное?"
+
+msgid "Tell us your date, venue and idea using our inquiry form. We’ll recommend a fireworks display, proposal package, fire dance show or a combination."
+msgstr "Расскажите о дате, площадке и идее через форму заявки. Мы порекомендуем фейерверк, пакет для предложения, огненное шоу или их сочетание."
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Frequently asked questions"
+msgstr "Частые вопросы"
+
+msgid "Duo Rhythm"
+msgstr "Ритм дуэта"
+
+msgid "Two performers for mirrored movement and a stronger visual presence."
+msgstr "Двое артистов: зеркальные движения и более яркий визуальный эффект."
+
+msgid "Choreographed Trio"
+msgstr "Хореографическое трио"
+
+msgid "A coordinated group format for a wedding reception or private event."
+msgstr "Слаженный групповой формат для свадебного банкета или частного праздника."
+
+msgid "Ensemble"
+msgstr "Ансамбль"
+
+msgid "Four performers for a broader stage picture and layered choreography."
+msgstr "Четыре артиста: более широкая сцена и многослойная хореография."
+
+msgid "Signature Troupe"
+msgstr "Фирменная труппа"
+
+msgid "Five performers for a larger event and a fuller group spectacle."
+msgstr "Пять артистов для крупного события и насыщенного группового зрелища."
+
+msgid "2 dancers"
+msgstr "2 танцора"
+
+msgid "3 dancers"
+msgstr "3 танцора"
+
+msgid "4 dancers"
+msgstr "4 танцора"
+
+msgid "5 dancers"
+msgstr "5 танцоров"
+
+msgid "Live entertainment"
+msgstr "Живое шоу"
+
+msgid "Fire dance shows in Phuket"
+msgstr "Огненные шоу на Пхукете"
+
+msgid "From a duo to a five-artist troupe, add a captivating live moment to a wedding, villa party or resort event. Ask us about poi, staff, fans and choreographed group routines; the final format depends on the artists and venue."
+msgstr "От дуэта до труппы из пяти артистов — добавьте захватывающий живой момент на свадьбу, вечеринку на вилле или мероприятие в отеле. Спросите о пои, посохах, веерах и групповых постановках; итоговый формат зависит от артистов и площадки."
+
+msgid "Explore fire shows →"
+msgstr "Смотреть огненные шоу →"
+
+msgid "Fire performer at a PhuketWeds wedding reception, with sweeping trails of sparks"
+msgstr "Огненный артист на свадьбе PhuketWeds со шлейфами искр"
+
+msgid "From ฿%s+"
+msgstr "от ฿%s+"
+
+msgid "Ask about this show →"
+msgstr "Узнать об этом шоу →"
+
+msgid "Indicative fire-show budget guides only. Performer availability, show length, choreography, travel, venue requirements, taxes and any special effects are confirmed in a written quote. Fire shows and fireworks are priced separately."
+msgstr "Ориентировочный бюджет огненного шоу. Доступность артистов, длительность, хореография, трансфер, требования площадки, налоги и спецэффекты подтверждаются в письменном предложении. Огненные шоу и фейерверки рассчитываются отдельно."
+
+msgid "Real wedding photographs"
+msgstr "Реальные свадебные фотографии"
+
+msgid "Firelight by the sea."
+msgstr "Огонь у моря."
+
+msgid "Explore photographs of live fire performances and wedding moments from the PhuketWeds collection."
+msgstr "Фотографии огненных выступлений и свадебных моментов из коллекции PhuketWeds."
+
+msgid "Explore the gallery →"
+msgstr "Смотреть галерею →"
+
+msgid "Fireworks photographed at Patong Beach by Rene Ehrhardt"
+msgstr "Фейерверк на пляже Патонг, фото Rene Ehrhardt"
+
+msgid "Professional<br><em>Fireworks</em> in Phuket"
+msgstr "Фейерверк-шоу<br><em>на Пхукете</em>"
+
+msgid "Spectacular fireworks displays for weddings, proposals, private events and celebrations across Phuket, Khao Lak & Krabi."
+msgstr "Впечатляющие фейерверки для свадеб, предложений руки и сердца, частных вечеринок и праздников на Пхукете, в Као Лаке и Краби."
+
+msgid "View Packages →"
+msgstr "Смотреть пакеты →"
+
+msgid "Professional displays"
+msgstr "Профессиональные шоу"
+
+msgid "Venue coordination"
+msgstr "Согласование с площадкой"
+
+msgid "Experienced local operators"
+msgstr "Опытная местная команда"
+
+msgid "Scroll to discover"
+msgstr "Листайте дальше"
+
+msgid "One point of contact"
+msgstr "Один контакт для всего"
+
+msgid "The effortless way to create an unforgettable moment."
+msgstr "Незабываемый момент — без лишних хлопот."
+
+msgid "You shouldn’t have to coordinate multiple suppliers for one spectacular moment. We help arrange the display, timing, venue coordination, logistics and professional firing team—so everything comes together around your celebration."
+msgstr "Вам не нужно координировать нескольких подрядчиков ради одного яркого момента. Мы организуем шоу, тайминг, согласование с площадкой, логистику и работу профессиональной пиротехнической команды — всё под ваш праздник."
+
+msgid "Tell us about your event →"
+msgstr "Расскажите о вашем событии →"
+
+msgid "Destination coverage"
+msgstr "География"
+
+msgid "Across southern Thailand"
+msgstr "По всему югу Таиланда"
+
+msgid "Availability and pricing depend on the venue, access and proposed firing location."
+msgstr "Доступность и стоимость зависят от площадки, подъезда и предполагаемого места запуска."
+
+msgid "Phuket"
+msgstr "Пхукет"
+
+msgid "Khao Lak"
+msgstr "Као Лак"
+
+msgid "Krabi"
+msgstr "Краби"
+
+msgid "Made for your moment"
+msgstr "Для вашего особого момента"
+
+msgid "Perfect for"
+msgstr "Идеально для"
+
+msgid "Wedding Fireworks"
+msgstr "Свадебный фейерверк"
+
+msgid "Marry Me Proposals"
+msgstr "Предложение «Marry Me»"
+
+msgid "Birthday & Anniversary"
+msgstr "День рождения и годовщина"
+
+msgid "Villa Parties"
+msgstr "Вечеринки на вилле"
+
+msgid "Resort Events"
+msgstr "Мероприятия в отелях"
+
+msgid "Corporate Events"
+msgstr "Корпоративы"
+
+msgid "Curated displays"
+msgstr "Готовые решения"
+
+msgid "Fireworks packages"
+msgstr "Пакеты фейерверков"
+
+msgid "Explore display options for Phuket celebrations. Every display is refined around your venue, timing and desired atmosphere."
+msgstr "Варианты шоу для праздников на Пхукете. Каждое шоу мы дорабатываем под площадку, тайминг и нужную атмосферу."
+
+msgid "%s fireworks inspiration"
+msgstr "Фейерверк %s — вдохновение"
+
+msgid "Around ฿%s+"
+msgstr "около ฿%s+"
+
+msgid "Request pricing"
+msgstr "Цена по запросу"
+
+msgid "Request this package"
+msgstr "Запросить этот пакет"
+
+msgid "Intimate moments"
+msgstr "Для камерных моментов"
+
+msgid "Ideal for intimate weddings, proposals and smaller celebrations."
+msgstr "Идеально для камерных свадеб, предложений руки и сердца и небольших праздников."
+
+msgid "A balanced finale"
+msgstr "Гармоничный финал"
+
+msgid "A fuller display with stronger pacing and a memorable finale."
+msgstr "Более насыщенное шоу с динамичным ритмом и запоминающимся финалом."
+
+msgid "Maximum impact"
+msgstr "Максимальный эффект"
+
+msgid "A large-scale display designed for major weddings, resorts and events."
+msgstr "Масштабное шоу для больших свадеб, отелей и мероприятий."
+
+msgid "View package details and starting prices →"
+msgstr "Подробнее о пакетах и стартовых ценах →"
+
+msgid "Approximate guide prices in THB. VAT, permission fees, venue charges and special logistics are additional. Final pricing, inclusions and timing are confirmed in a written quote."
+msgstr "Ориентировочные цены в батах. НДС, сборы за разрешения, платы площадки и особая логистика оплачиваются дополнительно. Итоговая цена, состав и тайминг подтверждаются в письменном предложении."
+
+msgid "Simple from start to finish"
+msgstr "Просто от начала до конца"
+
+msgid "How it works"
+msgstr "Как это работает"
+
+msgid "Send us your date and venue"
+msgstr "Сообщите нам дату и площадку"
+
+msgid "Choose your preferred display"
+msgstr "Выберите формат шоу"
+
+msgid "We coordinate logistics and venue requirements"
+msgstr "Мы берём на себя логистику и требования площадки"
+
+msgid "Enjoy the show"
+msgstr "Наслаждайтесь шоу"
+
+msgid "The Intimate Reveal"
+msgstr "Камерный сюрприз"
+
+msgid "Concept of MARRY ME spelled in fire letters on a beach at dusk"
+msgstr "Концепт: MARRY ME огненными буквами на пляже в сумерках"
+
+msgid "A personal proposal centred on a “Marry Me” reveal. Ask about fire letters, an illuminated alternative and a discreetly coordinated cue."
+msgstr "Личное предложение с сюрпризом «Marry Me». Спросите об огненных буквах, светящейся альтернативе и незаметно согласованном сигнале."
+
+msgid "Tailored quote"
+msgstr "Индивидуальный расчёт"
+
+msgid "Letters, location and setup quoted to suit your plans."
+msgstr "Буквы, место и оформление рассчитываются под ваши планы."
+
+msgid "The Sparkling Yes"
+msgstr "Искристое «Да»"
+
+msgid "Concept of a romantic proposal with illuminated letters and sparklers"
+msgstr "Концепт: романтичное предложение со светящимися буквами и бенгальскими огнями"
+
+msgid "Pair your proposal reveal with a private fireworks moment. Sparklers, letters, flowers or photography can be discussed as separate additions."
+msgstr "Дополните предложение частным фейерверком. Бенгальские огни, буквы, цветы или фотосъёмку можно обсудить как отдельные дополнения."
+
+msgid "Fireworks guide: ฿40,000+"
+msgstr "Фейерверк: от ฿40 000+"
+
+msgid "Proposal setup and all extras quoted separately."
+msgstr "Оформление предложения и все дополнения рассчитываются отдельно."
+
+msgid "The Grand Proposal"
+msgstr "Грандиозное предложение"
+
+msgid "Fireworks inspiration for a larger proposal finale"
+msgstr "Вдохновение: фейерверк для большого финала предложения"
+
+msgid "Build a fuller celebration around your big question, with a larger fireworks finale and optional live fire performance."
+msgstr "Устройте целый праздник вокруг главного вопроса — с большим финальным фейерверком и огненным шоу по желанию."
+
+msgid "Fireworks guide: ฿70,000+"
+msgstr "Фейерверк: от ฿70 000+"
+
+msgid "Fire performance, proposal setup and extras quoted separately."
+msgstr "Огненное шоу, оформление предложения и дополнения рассчитываются отдельно."
+
+msgid "Make the question unforgettable"
+msgstr "Сделайте этот вопрос незабываемым"
+
+msgid "Proposal packages in Phuket"
+msgstr "Пакеты для предложения на Пхукете"
+
+msgid "Three starting points for your “Marry Me” moment. Choose the feeling you want, then we will shape a written proposal around your venue, date and budget."
+msgstr "Три отправные точки для вашего момента «Marry Me». Выберите настроение, а мы подготовим письменное предложение под вашу площадку, дату и бюджет."
+
+msgid "Plan this proposal →"
+msgstr "Спланировать предложение →"
+
+msgid "Images show concept and display inspiration, not guaranteed package inclusions. Fire-letter and sparkler options depend on venue approval and supplier availability. The fireworks guides exclude 7% VAT, permission fees, venue charges and special logistics; a full proposal total is confirmed in writing."
+msgstr "Изображения — концепты и вдохновение, а не гарантированный состав пакета. Огненные буквы и бенгальские огни зависят от согласия площадки и наличия подрядчиков. Ориентировочные цены на фейерверк не включают НДС 7%, сборы за разрешения, платы площадки и особую логистику; полная стоимость предложения подтверждается письменно."
+
+msgid "Explore proposal packages →"
+msgstr "Смотреть пакеты для предложения →"
+
+msgid "A real wedding, in pictures"
+msgstr "Настоящая свадьба в фотографиях"
+
+msgid "Explore Wim & Marcia’s beach wedding through two photographs from the PhuketWeds album: a fire-performance moment and a portrait surrounded by sparks."
+msgstr "Свадьба Wim и Marcia на пляже в двух фотографиях из альбома PhuketWeds: огненное выступление и портрет в искрах."
+
+msgid "See the real-event feature →"
+msgstr "Смотреть историю этой свадьбы →"
+
+msgid "Past-event inspiration. Your show is planned and quoted for your own venue."
+msgstr "Вдохновение из прошлых событий. Ваше шоу планируется и рассчитывается под вашу площадку."
+
+msgid "Safety first"
+msgstr "Безопасность прежде всего"
+
+msgid "Professional coordination, before anything is confirmed."
+msgstr "Профессиональная подготовка — ещё до подтверждения."
+
+msgid "Experienced professional pyrotechnic operators"
+msgstr "Опытные профессиональные пиротехники"
+
+msgid "Venue requirements and firing location checked"
+msgstr "Проверка требований площадки и места запуска"
+
+msgid "Access, surroundings and approvals reviewed"
+msgstr "Оценка подъезда, окружения и разрешений"
+
+msgid "Every location is different. We only confirm a display after reviewing the practical and venue requirements for your event."
+msgstr "Каждая локация уникальна. Мы подтверждаем шоу только после проверки всех практических требований и условий площадки."
+
+msgid "Marry Me proposals"
+msgstr "Предложение «Marry Me»"
+
+msgid "A private reveal, illuminated letters and sparkler moments can be planned around your setting."
+msgstr "Сюрприз, светящиеся буквы и бенгальские огни можно спланировать под вашу локацию."
+
+msgid "Concept image of a seaside proposal with sparklers and illuminated letters"
+msgstr "Концепт: предложение у моря с бенгальскими огнями и светящимися буквами"
+
+msgid "Daytime colour"
+msgstr "Цвет днём"
+
+msgid "Colourful daytime effects offer a different kind of entrance or celebration moment."
+msgstr "Цветные дневные эффекты — необычный выход или момент праздника."
+
+msgid "Concept image of colourful daytime effects over a coastal venue"
+msgstr "Концепт: цветные дневные эффекты над площадкой на побережье"
+
+msgid "Over-water displays"
+msgstr "Шоу над водой"
+
+msgid "Where a venue has no suitable firing location, a floating platform may be possible at additional cost."
+msgstr "Если на площадке нет подходящего места для запуска, возможна плавучая платформа за дополнительную плату."
+
+msgid "Concept image of fireworks from a floating platform offshore"
+msgstr "Концепт: фейерверк с плавучей платформы в море"
+
+msgid "Beyond the finale"
+msgstr "Больше, чем финал"
+
+msgid "Make the moment yours"
+msgstr "Сделайте момент своим"
+
+msgid "Tell us the atmosphere you have in mind. These ideas are planned individually and depend on venue approval, availability and a written quote."
+msgstr "Расскажите, какую атмосферу вы представляете. Эти идеи планируются индивидуально и зависят от согласия площадки, доступности и письменного предложения."
+
+msgid "Concept imagery shows possibilities, not past Fireworks Phuket events or guaranteed package inclusions."
+msgstr "Концептуальные изображения показывают возможности, а не прошлые мероприятия Fireworks Phuket или гарантированный состав пакетов."
+
+msgid "Client stories"
+msgstr "Отзывы клиентов"
+
+msgid "Celebrations remembered"
+msgstr "Праздники, которые помнят"
+
+msgid "Wedding fireworks Phuket"
+msgstr "Свадебный фейерверк на Пхукете"
+
+msgid "The Perfect Finale to a Phuket Wedding"
+msgstr "Идеальный финал свадьбы на Пхукете"
+
+msgid "Your fireworks can be coordinated with your planner, venue, photographer, DJ and wedding timeline. You enjoy the moment; we help make sure every team knows exactly when and how it happens."
+msgstr "Мы согласуем фейерверк с вашим организатором, площадкой, фотографом, диджеем и программой свадьбы. Вы наслаждаетесь моментом, а мы следим, чтобы каждая команда точно знала, когда и как всё произойдёт."
+
+msgid "Plan your wedding finale →"
+msgstr "Спланировать свадебный финал →"
+
+msgid "Duo Rhythm — 2 dancers"
+msgstr "Ритм дуэта — 2 танцора"
+
+msgid "Choreographed Trio — 3 dancers"
+msgstr "Хореографическое трио — 3 танцора"
+
+msgid "Ensemble — 4 dancers"
+msgstr "Ансамбль — 4 танцора"
+
+msgid "Signature Troupe — 5 dancers"
+msgstr "Фирменная труппа — 5 танцоров"
+
+msgid "Request a quote"
+msgstr "Запросить расчёт"
+
+msgid "Tell us about your celebration."
+msgstr "Расскажите о вашем празднике."
+
+msgid "Share what you know so far. We’ll recommend a fireworks display, proposal package, fire dance show or a combination based on your date, venue and plans."
+msgstr "Поделитесь тем, что уже известно. Мы порекомендуем фейерверк, пакет для предложения, огненное шоу или их сочетание с учётом даты, площадки и планов."
+
+msgid "Thank you — your inquiry is saved. Our team will review your plans and contact you using the details you provided."
+msgstr "Спасибо — ваша заявка сохранена. Мы изучим ваши планы и свяжемся с вами по указанным контактам."
+
+msgid "This form expired. Please enter your details and submit again."
+msgstr "Срок действия формы истёк. Введите данные и отправьте ещё раз."
+
+msgid "Please check your details, enter a valid upcoming date, and provide a phone number, email or messaging app ID."
+msgstr "Проверьте данные: укажите будущую дату и телефон, email или ID в мессенджере."
+
+msgid "Please wait a minute before sending another inquiry."
+msgstr "Подождите минуту перед отправкой следующей заявки."
+
+msgid "We could not save your inquiry. Please try again."
+msgstr "Не удалось сохранить заявку. Попробуйте ещё раз."
+
+msgid "Leave this empty"
+msgstr "Оставьте это поле пустым"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Phone (optional)"
+msgstr "Телефон (необязательно)"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Preferred way to reach you"
+msgstr "Как с вами лучше связаться"
+
+msgid "Phone call"
+msgstr "Звонок"
+
+msgid "Your WhatsApp, WeChat, LINE or Telegram ID"
+msgstr "Ваш ID в WhatsApp, WeChat, LINE или Telegram"
+
+msgid "Event date"
+msgstr "Дата мероприятия"
+
+msgid "Venue / location"
+msgstr "Площадка / место"
+
+msgid "Interested in"
+msgstr "Интересует"
+
+msgid "Please select"
+msgstr "Выберите"
+
+msgid "Proposal package"
+msgstr "Пакет для предложения"
+
+msgid "Fireworks"
+msgstr "Фейерверк"
+
+msgid "Fire dance show"
+msgstr "Огненное шоу"
+
+msgid "Both fireworks and fire dance"
+msgstr "Фейерверк и огненное шоу"
+
+msgid "Event type"
+msgstr "Тип мероприятия"
+
+msgid "Marriage proposal — %s"
+msgstr "Предложение руки и сердца — %s"
+
+msgid "Approximate budget"
+msgstr "Примерный бюджет"
+
+msgid "Tell us what you have in mind"
+msgstr "Расскажите о вашей идее"
+
+msgid "Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry."
+msgstr "Укажите хотя бы один способ связи: телефон, email или ID в мессенджере. Мы используем эти данные только для ответа на вашу заявку."
