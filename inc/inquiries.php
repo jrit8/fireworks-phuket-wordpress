@@ -32,7 +32,6 @@ function fp_submit_inquiry() {
     $nonce = isset( $_POST['fp_nonce'] ) && is_string( $_POST['fp_nonce'] ) ? sanitize_text_field( wp_unslash( $_POST['fp_nonce'] ) ) : '';
     if ( ! wp_verify_nonce( $nonce, 'fp_inquiry' ) ) { fp_inquiry_redirect( 'expired' ); }
     if ( ! empty( $_POST['website'] ) ) { fp_inquiry_redirect( 'invalid' ); }
-    if ( empty( $_POST['consent'] ) ) { fp_inquiry_redirect( 'invalid' ); }
     $fields = fp_validate_inquiry( $_POST );
     if ( is_wp_error( $fields ) ) { fp_inquiry_redirect( 'invalid' ); }
     // Use a short-lived salted hash, never persist the visitor's raw IP address.

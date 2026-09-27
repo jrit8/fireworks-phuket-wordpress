@@ -28,7 +28,7 @@ add_action( 'wp_head', function () {
     echo '<meta property="og:type" content="website"><meta property="og:url" content="' . esc_url( $url ) . '">' . "\n";
     $image_key = is_page() && 'wedding' === fp_page_kind() ? 'wedding' : 'hero';
     $image_id = absint( get_theme_mod( 'fp_image_' . $image_key, 0 ) );
-    $image_url = is_page() && 'fire-shows' === fp_page_kind() ? get_template_directory_uri() . '/assets/images/phuketweds-fire-show.jpg' : ( $image_id && wp_attachment_is_image( $image_id ) ? wp_get_attachment_image_url( $image_id, 'full' ) : get_template_directory_uri() . '/assets/images/' . ( 'wedding' === $image_key ? 'wedding-fireworks.jpg' : 'fireworks-hero.jpg' ) );
+    $image_url = is_page() && 'fire-shows' === fp_page_kind() ? get_template_directory_uri() . '/assets/images/phuketweds-fire-show.jpg' : ( $image_id && wp_attachment_is_image( $image_id ) ? wp_get_attachment_image_url( $image_id, 'full' ) : get_template_directory_uri() . '/assets/images/' . ( 'wedding' === $image_key ? 'real-colour.jpg' : 'real-patong.jpg' ) );
     if ( is_page() && 'proposals' === fp_page_kind() ) { $image_url = get_template_directory_uri() . '/assets/images/concept-fire-letters.webp'; }
     if ( is_page( 'wim-marcia-beach-fire-show' ) ) { $image_url = get_template_directory_uri() . '/assets/images/wim-marcia-fire-performance.webp'; }
     echo '<meta property="og:image" content="' . esc_url( $image_url ) . '">' . "\n";

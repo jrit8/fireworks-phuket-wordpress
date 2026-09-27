@@ -2,8 +2,8 @@
 <?php while ( have_posts() ) : the_post(); $kind = fp_page_kind(); ?>
 <?php if ( $kind ) : ?>
 <?php get_template_part( 'template-parts/breadcrumbs' ); ?>
-<?php if ( 'real-event' === $kind ) : ?>
-<section class="event-heading container"><p class="eyebrow">From the PhuketWeds album</p><h1><?php the_title(); ?></h1><p class="copy"><?php echo esc_html( get_the_excerpt() ); ?></p></section>
+<?php if ( in_array( $kind, array( 'real-event', 'contact' ), true ) ) : ?>
+<section class="event-heading container"><p class="eyebrow"><?php echo 'contact' === $kind ? 'Plan your celebration' : 'From the PhuketWeds album'; ?></p><h1><?php the_title(); ?></h1><p class="copy"><?php echo esc_html( get_the_excerpt() ); ?></p></section>
 <?php else : ?>
 <section class="page-hero">
 <?php if ( has_post_thumbnail() ) { the_post_thumbnail( 'full', array( 'fetchpriority' => 'high', 'loading' => 'eager' ) ); } elseif ( 'proposals' === $kind ) { echo '<img src="' . esc_url( get_template_directory_uri() . '/assets/images/concept-fire-letters.webp' ) . '" alt="Concept of MARRY ME fire letters on a beach at dusk" width="1672" height="941" fetchpriority="high">'; } elseif ( 'fire-shows' === $kind ) { echo '<img src="' . esc_url( get_template_directory_uri() . '/assets/images/phuketweds-fire-show.jpg' ) . '" alt="Fire dance performance at a PhuketWeds wedding reception" width="1336" height="452" fetchpriority="high">'; } else { fp_image( 'wedding' === $kind ? 'wedding' : 'hero', 'Fireworks display inspiration in southern Thailand', true ); } ?>

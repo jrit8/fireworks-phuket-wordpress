@@ -1,4 +1,4 @@
-<?php defined( 'ABSPATH' ) || exit; $items = fp_items( 'package' ); $tier_images = array( 'proposal', 'hero', 'villa' ); ?>
+<?php defined( 'ABSPATH' ) || exit; $items = fp_items( 'package' ); $tier_images = array( 'proposal', 'wedding', 'villa' ); ?>
 <section id="packages" class="section panel"><div class="container">
 <?php fp_title( 'Curated displays', 'Fireworks packages', 'Broad price guides for Phuket celebrations. Every display is refined around your venue, timing and desired atmosphere.' ); ?>
 <div class="grid three package-grid">
@@ -8,4 +8,3 @@
 <?php endforeach; else : foreach ( array( array( 'Classic', 'Intimate moments', 'Ideal for intimate weddings, proposals and smaller celebrations.', 40000 ), array( 'Signature', 'A balanced finale', 'A fuller display with stronger pacing and a memorable finale.', 70000 ), array( 'Grand', 'Maximum impact', 'A large-scale display designed for major weddings, resorts and events.', 108000 ) ) as $i => $package ) : ?>
 <article class="package-card"><div class="package-image"><?php fp_image( $tier_images[ $i ], $package[0] . ' fireworks inspiration' ); ?></div><div class="card-body"><div class="card-meta"><p class="eyebrow"><?php echo esc_html( $package[1] ); ?></p><span>0<?php echo esc_html( $i + 1 ); ?></span></div><h3><?php echo esc_html( $package[0] ); ?></h3><p class="copy"><?php echo esc_html( $package[2] ); ?></p><p class="price">Around ฿<?php echo esc_html( number_format_i18n( $package[3] ) ); ?>+</p><a class="card-link" href="<?php echo esc_url( add_query_arg( 'package', sanitize_title( $package[0] ), fp_page_url( 'contact' ) ) . '#quote-form' ); ?>">Request this package <span>→</span></a></div></article>
 <?php endforeach; endif; ?></div><p class="small copy">Approximate guide prices in THB. VAT, permission fees, venue charges and special logistics are additional. Final pricing, inclusions and timing are confirmed in a written quote.</p></div></section>
-

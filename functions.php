@@ -31,12 +31,13 @@ add_action( 'wp_enqueue_scripts', function () {
     wp_enqueue_style( 'fp-colour', get_template_directory_uri() . '/assets/colour.css', array( 'fp-pages' ), $version );
     wp_enqueue_script( 'fp-theme', get_template_directory_uri() . '/assets/theme.js', array(), $version, true );
 } );
-function fp_contact_url() {
+function fp_whatsapp_url() {
     $phone = preg_replace( '/[^0-9]/', '', get_theme_mod( 'fp_whatsapp', '' ) );
     return $phone ? 'https://wa.me/' . $phone . '?text=' . rawurlencode( "Hello Fireworks Phuket, I'd like a quote." ) : fp_page_url( 'contact', 'contact' );
 }
+function fp_contact_url() { return fp_page_url( 'contact', 'contact' ) . '#quote-form'; }
 function fp_contact_label() {
-    return get_theme_mod( 'fp_whatsapp', '' ) ? __( 'Get a Quote on WhatsApp', 'fireworks-phuket' ) : __( 'Request a Quote', 'fireworks-phuket' );
+    return __( 'Request a Quote', 'fireworks-phuket' );
 }
 function fp_menu_fallback() {
     echo '<ul class="menu">';
@@ -52,7 +53,7 @@ function fp_image( $key, $alt, $eager = false ) {
     if ( $id && wp_attachment_is_image( $id ) ) {
         echo wp_get_attachment_image( $id, 'full', false, $attrs );
     } else {
-        $files = array( 'hero' => 'fireworks-hero', 'wedding' => 'wedding-fireworks', 'villa' => 'villa-fireworks', 'proposal' => 'proposal-fireworks' );
+        $files = array( 'hero' => 'real-patong', 'wedding' => 'real-colour', 'villa' => 'real-bangkok', 'proposal' => 'real-phi-phi' );
         if ( ! isset( $files[ $key ] ) ) { return; }
         echo '<img src="' . esc_url( get_template_directory_uri() . '/assets/images/' . $files[ $key ] . '.jpg' ) . '" alt="' . esc_attr( $alt ) . '" width="1920" height="1088" loading="' . esc_attr( $attrs['loading'] ) . '" decoding="async"' . ( $eager ? ' fetchpriority="high"' : '' ) . '>';
     }
