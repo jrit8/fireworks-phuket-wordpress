@@ -45,8 +45,9 @@ function fp_submit_inquiry() {
     $email = sanitize_email( get_theme_mod( 'fp_notify_email', '' ) );
     if ( ! $email ) { $email = sanitize_email( get_option( 'admin_email', '' ) ); }
     if ( $email ) {
-        // Notification contains no visitor details; the administrator reads them in WordPress.
-        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', 'A new inquiry is saved in WordPress. Review it at ' . admin_url( 'post.php?post=' . $id . '&action=edit' ) );
+        // Send the submitted brief to the configured business inbox for screening.
+        $headers = $fields['email'] ? array( 'Reply-To: ' . sanitize_email( $fields['email'] ) ) : array();
+        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
         update_post_meta( $id, '_fp_notification_accepted', $sent ? 'yes' : 'no' );
     }
     fp_issue_lead_receipt( $fields['service'] );

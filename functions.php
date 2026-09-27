@@ -53,7 +53,7 @@ function fp_image( $key, $alt, $eager = false ) {
     if ( $id && wp_attachment_is_image( $id ) ) {
         echo wp_get_attachment_image( $id, 'full', false, $attrs );
     } else {
-        $files = array( 'hero' => 'real-patong', 'wedding' => 'real-colour', 'villa' => 'real-bangkok', 'proposal' => 'real-phi-phi' );
+        $files = array( 'hero' => 'real-patong', 'wedding' => 'real-colour', 'villa' => 'real-beach-fireworks', 'proposal' => 'real-phi-phi' );
         if ( ! isset( $files[ $key ] ) ) { return; }
         echo '<img src="' . esc_url( get_template_directory_uri() . '/assets/images/' . $files[ $key ] . '.jpg' ) . '" alt="' . esc_attr( $alt ) . '" width="1920" height="1088" loading="' . esc_attr( $attrs['loading'] ) . '" decoding="async"' . ( $eager ? ' fetchpriority="high"' : '' ) . '>';
     }

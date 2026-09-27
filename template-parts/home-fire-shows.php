@@ -11,7 +11,7 @@ $formats = array(
 <?php get_template_part( 'template-parts/fire-event-gallery' ); ?>
 <div class="fire-format-grid">
 <?php foreach ( $formats as $format ) : ?>
-<article class="fire-format"><p class="eyebrow"><?php echo esc_html( $format[0] ); ?> <?php echo 1 === $format[0] ? 'dancer' : 'dancers'; ?></p><h3><?php echo esc_html( $format[1] ); ?></h3><p class="copy"><?php echo esc_html( $format[2] ); ?></p><p class="fire-format-price">From ฿<?php echo esc_html( number_format_i18n( $format[3] ) ); ?>+</p><a class="text-link fire-show-link" href="<?php echo esc_url( add_query_arg( 'fire_show', $format[0], fp_page_url( 'contact', 'contact' ) ) . '#quote-form' ); ?>">Ask about this show →</a></article>
+<article class="fire-format"><p class="eyebrow"><?php echo esc_html( $format[0] ); ?> <?php echo 1 === $format[0] ? 'dancer' : 'dancers'; ?></p><h3><?php echo esc_html( $format[1] ); ?></h3><p class="copy"><?php echo esc_html( $format[2] ); ?></p><?php if ( ! is_front_page() ) : ?><p class="fire-format-price">From ฿<?php echo esc_html( number_format_i18n( $format[3] ) ); ?>+</p><?php endif; ?><a class="text-link fire-show-link" href="<?php echo esc_url( add_query_arg( 'fire_show', $format[0], fp_page_url( 'contact', 'contact' ) ) . '#quote-form' ); ?>">Ask about this show →</a></article>
 <?php endforeach; ?>
 </div><p class="small copy fire-price-note">Indicative fire-show budget guides only. Performer availability, show length, choreography, travel, venue requirements, taxes and any special effects are confirmed in a written quote. Fire shows and fireworks are priced separately.</p>
 </div></section>

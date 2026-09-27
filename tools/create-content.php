@@ -26,7 +26,7 @@ foreach ($pages as $slug=>$data) {
 require_once ABSPATH.'wp-admin/includes/file.php';
 require_once ABSPATH.'wp-admin/includes/media.php';
 require_once ABSPATH.'wp-admin/includes/image.php';
-foreach (array('hero'=>'real-patong','wedding'=>'real-colour','villa'=>'real-bangkok','proposal'=>'real-phi-phi') as $key=>$file) {
+foreach (array('hero'=>'real-patong','wedding'=>'real-colour','villa'=>'real-beach-fireworks','proposal'=>'real-phi-phi') as $key=>$file) {
   if (get_theme_mod('fp_image_'.$key)) { continue; }
   $source=get_template_directory().'/assets/images/'.$file.'.jpg';
   $temp=wp_tempnam($file.'.jpg');

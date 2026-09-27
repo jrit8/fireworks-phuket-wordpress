@@ -17,7 +17,7 @@ if ( ! $proposal && ! $fire_show && $package_key ) {
 <input type="hidden" name="action" value="fp_inquiry"><?php wp_nonce_field( 'fp_inquiry', 'fp_nonce' ); ?>
 <div class="honeypot" aria-hidden="true"><label>Leave this empty<input name="website" type="text" tabindex="-1" autocomplete="off"></label></div>
 <label>Name <span aria-hidden="true">*</span><input name="name" required autocomplete="name" maxlength="300"></label>
-<label>Phone / WhatsApp<input name="phone" type="tel" autocomplete="tel" maxlength="300"></label>
+<label>Phone (optional)<input name="phone" type="tel" autocomplete="tel" maxlength="300"></label>
 <label>Email<input name="email" type="email" autocomplete="email" maxlength="300"></label>
 <label>Event date <span aria-hidden="true">*</span><input name="date" type="date" required min="<?php echo esc_attr( wp_date( 'Y-m-d' ) ); ?>"></label>
 <label>Venue / location <span aria-hidden="true">*</span><input name="venue" required maxlength="300"></label>
@@ -27,4 +27,4 @@ if ( ! $proposal && ! $fire_show && $package_key ) {
 <label class="full">Tell us what you have in mind<textarea name="message" rows="5" maxlength="4000"></textarea></label>
 <p class="small copy full">Please provide at least one contact method. We’ll use your details to respond to your inquiry.</p>
 <button class="button full" type="submit">Request a Quote →</button></form><?php endif; ?>
-<p class="small copy" style="margin-top:24px"><?php if ( get_theme_mod( 'fp_whatsapp', '' ) ) : ?><a class="text-link" href="<?php echo esc_url( fp_whatsapp_url() ); ?>">Prefer WhatsApp? Message us directly →</a><?php endif; ?></p></div></div></section>
+</div></div></section>
