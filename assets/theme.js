@@ -1,4 +1,16 @@
 (() => {
+  // Match content clearance to the actual translated, wrapping header.
+  const header = document.querySelector('.site-header');
+  if (header) {
+    const updateHeaderHeight = () => {
+      if (header.querySelector('.menu-toggle[aria-expanded="true"]')) return;
+      document.documentElement.style.setProperty('--fp-header-height', `${Math.ceil(header.getBoundingClientRect().bottom)}px`);
+    };
+    updateHeaderHeight();
+    if ('ResizeObserver' in window) new ResizeObserver(updateHeaderHeight).observe(header);
+    window.addEventListener('resize', updateHeaderHeight);
+  }
+
   const form = document.querySelector('.quote-form');
   if (form) {
     // Translated messages come from wp_localize_script (functions.php); English is the fallback.

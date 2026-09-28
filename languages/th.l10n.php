@@ -251,5 +251,13 @@ return array(
         'Approximate budget' => 'งบประมาณโดยประมาณ',
         'Tell us what you have in mind' => 'เล่าไอเดียของคุณให้เราฟัง',
         'Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry.' => 'กรุณาระบุช่องทางติดต่ออย่างน้อยหนึ่งช่องทาง: เบอร์โทร อีเมล หรือไอดีแอปแชท เราจะใช้ข้อมูลของคุณเพื่อตอบคำขอเท่านั้น',
+        'How to book' => 'วิธีจอง',
+        'Send your enquiry' => 'ส่งคำขอของคุณ',
+        'Use the form to share your date, venue and ideas.' => 'กรอกวันที่ สถานที่ และไอเดียของคุณในแบบฟอร์ม',
+        'Plan the details' => 'พูดคุยรายละเอียด',
+        'We review your plans and follow up by email or your preferred app.' => 'เราจะตรวจสอบแผนงานและติดต่อกลับทางอีเมลหรือแอปที่คุณสะดวก',
+        'Confirm your celebration' => 'ยืนยันการจองงาน',
+        'Review your written quote, then agree the booking terms, venue requirements and timing with us.' => 'ตรวจสอบใบเสนอราคาเป็นลายลักษณ์อักษร แล้วตกลงเงื่อนไขการจอง ข้อกำหนดสถานที่ และเวลากับเรา',
+        'Concept images illustrate relative display scale, not past events or guaranteed package effects.' => 'ภาพแนวคิดแสดงความแตกต่างของขนาดโชว์ ไม่ใช่ภาพงานที่ผ่านมา และไม่ใช่การรับประกันเอฟเฟกต์ในแพ็กเกจ',
     ),
 );

@@ -251,5 +251,13 @@ return array(
         'Approximate budget' => '大致预算',
         'Tell us what you have in mind' => '请告诉我们您的想法',
         'Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry.' => '请至少提供一种联系方式：电话、电子邮箱或即时通讯账号。我们仅将您的信息用于回复您的咨询。',
+        'How to book' => '如何预订',
+        'Send your enquiry' => '提交咨询',
+        'Use the form to share your date, venue and ideas.' => '通过表单告诉我们日期、场地和想法。',
+        'Plan the details' => '沟通细节',
+        'We review your plans and follow up by email or your preferred app.' => '我们会评估您的计划，并通过电子邮件或您常用的应用联系您。',
+        'Confirm your celebration' => '确认庆典安排',
+        'Review your written quote, then agree the booking terms, venue requirements and timing with us.' => '查看书面报价，然后与我们确认预订条款、场地要求和时间安排。',
+        'Concept images illustrate relative display scale, not past events or guaranteed package effects.' => '概念图片仅展示表演规模的差异，并非过往活动照片，也不代表套餐保证包含的效果。',
     ),
 );

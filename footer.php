@@ -2,13 +2,14 @@
 <footer class="site-footer"><div class="container footer-grid">
 <div><a class="brand" href="<?php echo esc_url( fp_home_url() ); ?>">Fireworks <span>Phuket</span></a><p class="copy"><?php esc_html_e( 'Professionally coordinated fireworks and fire dance shows for celebrations across Phuket, Khao Lak and Krabi.', 'fireworks-phuket' ); ?></p></div>
 <div><p class="eyebrow"><?php esc_html_e( 'Explore', 'fireworks-phuket' ); ?></p><nav aria-label="<?php esc_attr_e( 'Footer navigation', 'fireworks-phuket' ); ?>"><?php wp_nav_menu( array( 'theme_location' => 'footer', 'container' => false, 'fallback_cb' => 'fp_menu_fallback', 'depth' => 1 ) ); ?></nav></div>
-<div><p class="eyebrow"><?php esc_html_e( 'Start planning', 'fireworks-phuket' ); ?></p><a href="<?php echo esc_url( fp_contact_url() ); ?>"><?php echo esc_html( fp_contact_label() ); ?> →</a><p class="copy"><?php esc_html_e( 'Phuket · Khao Lak · Krabi', 'fireworks-phuket' ); ?></p><p class="small copy"><?php esc_html_e( 'We continue on your preferred app after your first enquiry:', 'fireworks-phuket' ); ?></p><?php fp_chat_apps(); fp_language_switcher( 'footer-lang' ); ?></div>
-</div><p class="container copyright">© <?php echo esc_html( wp_date( 'Y' ) ); ?> Fireworks Phuket. <?php esc_html_e( 'Shows subject to venue, location and approval requirements.', 'fireworks-phuket' ); ?></p><details class="container photo-credits"><summary><?php esc_html_e( 'Photography credits', 'fireworks-phuket' ); ?></summary><p><?php esc_html_e( 'Licensed real fireworks photographs used as display inspiration; they do not depict Fireworks Phuket bookings or confirm package inclusions. Images resized/compressed and displayed with responsive crops.', 'fireworks-phuket' ); ?></p><ul>
-<li><a href="https://commons.wikimedia.org/wiki/File:Fireworks_on_Patong_beach.jpg">Fireworks on Patong beach</a> — Rene Ehrhardt, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.</li>
-<li><a href="https://commons.wikimedia.org/wiki/File:New_Year_fireworks_at_Phi_Phi_island_(31919929842).jpg">New Year fireworks at Phi Phi island</a> — Phuket@photographer.net, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>.</li>
-<li><a href="https://commons.wikimedia.org/wiki/File:Fireworks_Thailand_2006.jpg">Fireworks Thailand 2006</a> — Natthawut Kulnirundorn, <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA 2.5</a>; the adapted image remains under this license.</li>
-<li><a href="https://commons.wikimedia.org/wiki/File:Beach_Fireworks_FLL_2014_4x6_JTPI_8673_(14415619580).jpg">Beach Fireworks, Fort Lauderdale</a> — JTOcchialini, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>. Coastal display inspiration, photographed outside Thailand.</li>
-</ul></details></footer>
+<div class="footer-booking"><p class="eyebrow"><?php esc_html_e( 'How to book', 'fireworks-phuket' ); ?></p>
+<ol class="booking-steps">
+<li><strong><?php esc_html_e( 'Send your enquiry', 'fireworks-phuket' ); ?></strong><p><?php esc_html_e( 'Use the form to share your date, venue and ideas.', 'fireworks-phuket' ); ?></p></li>
+<li><strong><?php esc_html_e( 'Plan the details', 'fireworks-phuket' ); ?></strong><p><?php esc_html_e( 'We review your plans and follow up by email or your preferred app.', 'fireworks-phuket' ); ?></p></li>
+<li><strong><?php esc_html_e( 'Confirm your celebration', 'fireworks-phuket' ); ?></strong><p><?php esc_html_e( 'Review your written quote, then agree the booking terms, venue requirements and timing with us.', 'fireworks-phuket' ); ?></p></li>
+</ol><a class="text-link" href="<?php echo esc_url( fp_contact_url() ); ?>"><?php echo esc_html( fp_contact_label() ); ?> →</a>
+<?php fp_chat_apps(); fp_language_switcher( 'footer-lang' ); ?></div>
+</div><p class="container copyright">© <?php echo esc_html( wp_date( 'Y' ) ); ?> Fireworks Phuket. <?php esc_html_e( 'Shows subject to venue, location and approval requirements.', 'fireworks-phuket' ); ?></p></footer>
 <?php if ( ! fp_is_page( 'contact' ) ) : ?><a class="mobile-cta button" href="<?php echo esc_url( fp_contact_url() ); ?>"><?php echo esc_html( fp_contact_label() ); ?></a>
 <?php endif; ?>
 <?php wp_footer(); ?></body></html>

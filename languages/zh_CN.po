@@ -745,3 +745,27 @@ msgstr "请告诉我们您的想法"
 
 msgid "Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry."
 msgstr "请至少提供一种联系方式：电话、电子邮箱或即时通讯账号。我们仅将您的信息用于回复您的咨询。"
+
+msgid "How to book"
+msgstr "如何预订"
+
+msgid "Send your enquiry"
+msgstr "提交咨询"
+
+msgid "Use the form to share your date, venue and ideas."
+msgstr "通过表单告诉我们日期、场地和想法。"
+
+msgid "Plan the details"
+msgstr "沟通细节"
+
+msgid "We review your plans and follow up by email or your preferred app."
+msgstr "我们会评估您的计划，并通过电子邮件或您常用的应用联系您。"
+
+msgid "Confirm your celebration"
+msgstr "确认庆典安排"
+
+msgid "Review your written quote, then agree the booking terms, venue requirements and timing with us."
+msgstr "查看书面报价，然后与我们确认预订条款、场地要求和时间安排。"
+
+msgid "Concept images illustrate relative display scale, not past events or guaranteed package effects."
+msgstr "概念图片仅展示表演规模的差异，并非过往活动照片，也不代表套餐保证包含的效果。"

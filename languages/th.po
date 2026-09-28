@@ -745,3 +745,27 @@ msgstr "เล่าไอเดียของคุณให้เราฟั
 
 msgid "Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry."
 msgstr "กรุณาระบุช่องทางติดต่ออย่างน้อยหนึ่งช่องทาง: เบอร์โทร อีเมล หรือไอดีแอปแชท เราจะใช้ข้อมูลของคุณเพื่อตอบคำขอเท่านั้น"
+
+msgid "How to book"
+msgstr "วิธีจอง"
+
+msgid "Send your enquiry"
+msgstr "ส่งคำขอของคุณ"
+
+msgid "Use the form to share your date, venue and ideas."
+msgstr "กรอกวันที่ สถานที่ และไอเดียของคุณในแบบฟอร์ม"
+
+msgid "Plan the details"
+msgstr "พูดคุยรายละเอียด"
+
+msgid "We review your plans and follow up by email or your preferred app."
+msgstr "เราจะตรวจสอบแผนงานและติดต่อกลับทางอีเมลหรือแอปที่คุณสะดวก"
+
+msgid "Confirm your celebration"
+msgstr "ยืนยันการจองงาน"
+
+msgid "Review your written quote, then agree the booking terms, venue requirements and timing with us."
+msgstr "ตรวจสอบใบเสนอราคาเป็นลายลักษณ์อักษร แล้วตกลงเงื่อนไขการจอง ข้อกำหนดสถานที่ และเวลากับเรา"
+
+msgid "Concept images illustrate relative display scale, not past events or guaranteed package effects."
+msgstr "ภาพแนวคิดแสดงความแตกต่างของขนาดโชว์ ไม่ใช่ภาพงานที่ผ่านมา และไม่ใช่การรับประกันเอฟเฟกต์ในแพ็กเกจ"

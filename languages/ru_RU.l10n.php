@@ -251,5 +251,13 @@ return array(
         'Approximate budget' => 'Примерный бюджет',
         'Tell us what you have in mind' => 'Расскажите о вашей идее',
         'Please provide at least one contact method: phone, email or a messaging app ID. We’ll use your details to respond to your inquiry.' => 'Укажите хотя бы один способ связи: телефон, email или ID в мессенджере. Мы используем эти данные только для ответа на вашу заявку.',
+        'How to book' => 'Как забронировать',
+        'Send your enquiry' => 'Отправьте заявку',
+        'Use the form to share your date, venue and ideas.' => 'Укажите в форме дату, площадку и ваши пожелания.',
+        'Plan the details' => 'Обсудим детали',
+        'We review your plans and follow up by email or your preferred app.' => 'Мы изучим ваши планы и свяжемся по email или в удобном приложении.',
+        'Confirm your celebration' => 'Подтвердите заказ',
+        'Review your written quote, then agree the booking terms, venue requirements and timing with us.' => 'Ознакомьтесь с письменным предложением и согласуйте с нами условия бронирования, требования площадки и время.',
+        'Concept images illustrate relative display scale, not past events or guaranteed package effects.' => 'Концептуальные изображения показывают относительный масштаб шоу, а не прошедшие мероприятия или гарантированные эффекты пакета.',
     ),
 );
