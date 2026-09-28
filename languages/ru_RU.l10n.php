@@ -5,6 +5,11 @@ return array(
     'language' => 'ru_RU',
     'plural-forms' => 'nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);',
     'messages' => array(
+        'Choose fireworks, fire dance or both' => 'Выберите фейерверк, огненное шоу или оба варианта',
+        'Availability and pricing depend on your venue, access and chosen show.' => 'Доступность и стоимость зависят от площадки, подъезда и выбранного шоу.',
+        'Experienced fireworks and fire-performance teams' => 'Опытные команды фейерверков и огненных шоу',
+        'Performance area, firing location and venue requirements checked' => 'Проверка зоны выступления, места запуска и требований площадки',
+        'Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event.' => 'Каждая площадка уникальна. Мы подтверждаем фейерверк или огненное шоу только после проверки практических требований и правил площадки.',
         'Fireworks over Patong Beach at night' => 'Фейерверк над пляжем Патонг ночью',
         'Fire dance performance on a Phuket beach' => 'Огненное шоу на пляже Пхукета',
         'Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket' => 'Фейерверки и<br><em>огненные шоу</em><br>на Пхукете',

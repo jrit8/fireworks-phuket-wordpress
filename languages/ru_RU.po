@@ -796,3 +796,18 @@ msgstr "Мечтаете о фейерверке над пляжем, живом
 
 msgid "Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket"
 msgstr "Фейерверки и огненные шоу на Пхукете | Fireworks Phuket"
+
+msgid "Choose fireworks, fire dance or both"
+msgstr "Выберите фейерверк, огненное шоу или оба варианта"
+
+msgid "Availability and pricing depend on your venue, access and chosen show."
+msgstr "Доступность и стоимость зависят от площадки, подъезда и выбранного шоу."
+
+msgid "Experienced fireworks and fire-performance teams"
+msgstr "Опытные команды фейерверков и огненных шоу"
+
+msgid "Performance area, firing location and venue requirements checked"
+msgstr "Проверка зоны выступления, места запуска и требований площадки"
+
+msgid "Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event."
+msgstr "Каждая площадка уникальна. Мы подтверждаем фейерверк или огненное шоу только после проверки практических требований и правил площадки."

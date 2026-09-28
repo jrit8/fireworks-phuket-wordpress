@@ -5,6 +5,11 @@ return array(
     'language' => 'zh_CN',
     'plural-forms' => 'nplurals=1; plural=0;',
     'messages' => array(
+        'Choose fireworks, fire dance or both' => '选择烟花、火舞或两者兼有',
+        'Availability and pricing depend on your venue, access and chosen show.' => '可用性和价格取决于场地、进场条件及所选表演。',
+        'Experienced fireworks and fire-performance teams' => '经验丰富的烟花和火舞团队',
+        'Performance area, firing location and venue requirements checked' => '核查表演区域、烟花燃放地点和场地要求',
+        'Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event.' => '每个场地各不相同。我们会先核查活动的实际条件和场地要求，再确认烟花或火舞表演。',
         'Fireworks over Patong Beach at night' => '夜晚芭东海滩上空的烟花',
         'Fire dance performance on a Phuket beach' => '普吉岛海滩上的火舞表演',
         'Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket' => '普吉岛<br><em>烟花与火舞表演</em>',

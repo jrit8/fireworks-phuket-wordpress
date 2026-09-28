@@ -5,6 +5,11 @@ return array(
     'language' => 'th',
     'plural-forms' => 'nplurals=1; plural=0;',
     'messages' => array(
+        'Choose fireworks, fire dance or both' => 'เลือกดอกไม้ไฟ โชว์ควงไฟ หรือทั้งสองอย่าง',
+        'Availability and pricing depend on your venue, access and chosen show.' => 'การให้บริการและราคาขึ้นอยู่กับสถานที่ การเข้าถึง และรูปแบบการแสดงที่เลือก',
+        'Experienced fireworks and fire-performance teams' => 'ทีมดอกไม้ไฟและการแสดงควงไฟที่มีประสบการณ์',
+        'Performance area, firing location and venue requirements checked' => 'ตรวจสอบพื้นที่แสดง จุดยิงดอกไม้ไฟ และข้อกำหนดของสถานที่',
+        'Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event.' => 'แต่ละสถานที่มีเงื่อนไขต่างกัน เราจะยืนยันการแสดงดอกไม้ไฟหรือควงไฟหลังตรวจสอบข้อกำหนดของสถานที่และการจัดงานแล้วเท่านั้น',
         'Fireworks over Patong Beach at night' => 'ดอกไม้ไฟเหนือหาดป่าตองยามค่ำคืน',
         'Fire dance performance on a Phuket beach' => 'การแสดงควงไฟบนชายหาดภูเก็ต',
         'Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket' => 'ดอกไม้ไฟและ<br><em>การแสดงควงไฟ</em><br>ในภูเก็ต',
