@@ -269,8 +269,8 @@ msgstr "Свадебное огненное сердце"
 msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
 msgstr "Молодожёны целуются внутри светящегося огненного сердца на пляже"
 
-msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
-msgstr "Реальные свадебные моменты из альбома <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Фото с огненным сердцем дополнено с помощью ИИ, чтобы восстановить исходный кадр. Фотографии показывают прошлые выступления; эффекты и постановка согласуются отдельно для вашей площадки и события."
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "Реальные свадебные моменты из альбома <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Фотографии показывают прошлые выступления; эффекты и постановка согласуются отдельно для вашей площадки и события."
 
 msgid "Your celebration, beautifully handled"
 msgstr "Мы позаботимся о каждой детали"
@@ -769,3 +769,30 @@ msgstr "Ознакомьтесь с письменным предложение�
 
 msgid "Concept images illustrate relative display scale, not past events or guaranteed package effects."
 msgstr "Концептуальные изображения показывают относительный масштаб шоу, а не прошедшие мероприятия или гарантированные эффекты пакета."
+
+msgid "Fireworks over Patong Beach at night"
+msgstr "Фейерверк над пляжем Патонг ночью"
+
+msgid "Fire dance performance on a Phuket beach"
+msgstr "Огненное шоу на пляже Пхукета"
+
+msgid "Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket"
+msgstr "Фейерверки и<br><em>огненные шоу</em><br>на Пхукете"
+
+msgid "Fireworks displays and live fire dance shows for weddings, proposals and private events across Phuket, Khao Lak and Krabi."
+msgstr "Фейерверки и живые огненные шоу для свадеб, предложений руки и сердца и частных мероприятий на Пхукете, в Као Лаке и Краби."
+
+msgid "Explore fireworks →"
+msgstr "Смотреть фейерверки →"
+
+msgid "Explore fire dance →"
+msgstr "Смотреть огненные шоу →"
+
+msgid "Professional displays & performances"
+msgstr "Профессиональные фейерверки и выступления"
+
+msgid "Whether you imagine fireworks above the beach, a live fire dance performance, or both, we help coordinate the artists, display team, timing and venue details around your celebration."
+msgstr "Мечтаете о фейерверке над пляжем, живом огненном шоу или обо всём сразу? Мы согласуем артистов, команду фейерверка, время и детали площадки с вашим праздником."
+
+msgid "Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket"
+msgstr "Фейерверки и огненные шоу на Пхукете | Fireworks Phuket"

@@ -5,6 +5,9 @@ function fp_page_url( $slug, $anchor = '' ) {
     return $page ? get_permalink( $page ) : fp_home_url() . ( $anchor ? '#' . $anchor : '' );
 }
 function fp_page_kind() { return sanitize_key( get_post_meta( get_queried_object_id(), '_fp_kind', true ) ); }
+add_filter( 'pre_get_document_title', function ( $title ) {
+    return is_front_page() ? __( 'Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket', 'fireworks-phuket' ) : $title;
+} );
 add_filter( 'sgo_exclude_urls_from_cache', function ( $urls ) {
     $urls[] = '/contact*';
     // Translated contact pages (e.g. /ru/contact-ru/) must stay dynamic too.

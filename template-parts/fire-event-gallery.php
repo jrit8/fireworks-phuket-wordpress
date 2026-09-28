@@ -9,4 +9,4 @@ foreach ( $fire_photos as $photo ) : ?>
 <figure><img src="<?php echo esc_url( get_template_directory_uri() . '/assets/images/phuketweds-' . $photo[0] . '.webp' ); ?>" alt="<?php echo esc_attr( $photo[2] ); ?>" width="766" height="510" loading="lazy" decoding="async"><figcaption><?php echo esc_html( $photo[1] ); ?></figcaption></figure>
 <?php endforeach; ?>
 </div>
-<p class="small copy fire-gallery-credit"><?php echo wp_kses_post( __( 'Real wedding moments from <a href="https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event.', 'fireworks-phuket' ) ); ?></p>
+<p class="small copy fire-gallery-credit"><?php echo wp_kses_post( __( 'Real wedding moments from <a href="https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883">PhuketWeds: Wim &amp; Marcia</a>. Photos illustrate past performances; effects and staging are agreed separately for your venue and event.', 'fireworks-phuket' ) ); ?></p>

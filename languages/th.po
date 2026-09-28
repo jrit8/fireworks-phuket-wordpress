@@ -269,8 +269,8 @@ msgstr "หัวใจไฟในงานแต่งงาน"
 msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
 msgstr "คู่บ่าวสาวจุมพิตกันกลางหัวใจไฟเรืองแสงบนชายหาด"
 
-msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
-msgstr "ช่วงเวลาจริงจากงานแต่งงานใน <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a> ภาพหัวใจไฟขยายด้วย AI เพื่อเติมเฟรมเดิมให้สมบูรณ์ ภาพแสดงการแสดงในอดีต เอฟเฟกต์และการจัดเวทีจะตกลงแยกตามสถานที่และงานของคุณ"
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "ช่วงเวลาจริงจากงานแต่งงานใน <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a> ภาพแสดงการแสดงในอดีต เอฟเฟกต์และการจัดเวทีจะตกลงแยกตามสถานที่และงานของคุณ"
 
 msgid "Your celebration, beautifully handled"
 msgstr "ให้เราดูแลงานของคุณอย่างสมบูรณ์แบบ"
@@ -769,3 +769,30 @@ msgstr "ตรวจสอบใบเสนอราคาเป็นลาย
 
 msgid "Concept images illustrate relative display scale, not past events or guaranteed package effects."
 msgstr "ภาพแนวคิดแสดงความแตกต่างของขนาดโชว์ ไม่ใช่ภาพงานที่ผ่านมา และไม่ใช่การรับประกันเอฟเฟกต์ในแพ็กเกจ"
+
+msgid "Fireworks over Patong Beach at night"
+msgstr "ดอกไม้ไฟเหนือหาดป่าตองยามค่ำคืน"
+
+msgid "Fire dance performance on a Phuket beach"
+msgstr "การแสดงควงไฟบนชายหาดภูเก็ต"
+
+msgid "Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket"
+msgstr "ดอกไม้ไฟและ<br><em>การแสดงควงไฟ</em><br>ในภูเก็ต"
+
+msgid "Fireworks displays and live fire dance shows for weddings, proposals and private events across Phuket, Khao Lak and Krabi."
+msgstr "การแสดงดอกไม้ไฟและโชว์ควงไฟสดสำหรับงานแต่งงาน การขอแต่งงาน และงานส่วนตัวในภูเก็ต เขาหลัก และกระบี่"
+
+msgid "Explore fireworks →"
+msgstr "ชมการแสดงดอกไม้ไฟ →"
+
+msgid "Explore fire dance →"
+msgstr "ชมการแสดงควงไฟ →"
+
+msgid "Professional displays & performances"
+msgstr "ดอกไม้ไฟและการแสดงระดับมืออาชีพ"
+
+msgid "Whether you imagine fireworks above the beach, a live fire dance performance, or both, we help coordinate the artists, display team, timing and venue details around your celebration."
+msgstr "ไม่ว่าคุณจะนึกถึงดอกไม้ไฟเหนือชายหาด โชว์ควงไฟสด หรือทั้งสองอย่าง เราช่วยประสานงานนักแสดง ทีมดอกไม้ไฟ เวลา และรายละเอียดสถานที่ให้เข้ากับงานของคุณ"
+
+msgid "Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket"
+msgstr "ดอกไม้ไฟและการแสดงควงไฟในภูเก็ต | Fireworks Phuket"

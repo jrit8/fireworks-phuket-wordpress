@@ -269,8 +269,8 @@ msgstr "婚礼火焰爱心"
 msgid "A wedding couple kisses inside an illuminated fire heart on the beach"
 msgstr "新人在海滩上发光的火焰爱心中亲吻"
 
-msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Fire-heart photograph extended with AI to complete the original crop. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
-msgstr "真实婚礼瞬间，来自 <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>。火焰爱心照片经 AI 延展以补全原始构图。照片展示的是过往表演；效果与舞台安排将根据您的场地和活动另行商定。"
+msgid "Real wedding moments from <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>. Photos illustrate past performances; effects and staging are agreed separately for your venue and event."
+msgstr "真实婚礼瞬间，来自 <a href=\"https://phuketweds.com/phuket-wedding-photography/facebook-album/2532500900352883\">PhuketWeds: Wim &amp; Marcia</a>。照片展示的是过往表演；效果与舞台安排将根据您的场地和活动另行商定。"
 
 msgid "Your celebration, beautifully handled"
 msgstr "您的庆典，由我们用心打理"
@@ -769,3 +769,30 @@ msgstr "查看书面报价，然后与我们确认预订条款、场地要求和
 
 msgid "Concept images illustrate relative display scale, not past events or guaranteed package effects."
 msgstr "概念图片仅展示表演规模的差异，并非过往活动照片，也不代表套餐保证包含的效果。"
+
+msgid "Fireworks over Patong Beach at night"
+msgstr "夜晚芭东海滩上空的烟花"
+
+msgid "Fire dance performance on a Phuket beach"
+msgstr "普吉岛海滩上的火舞表演"
+
+msgid "Fireworks &amp;<br><em>Fire Dance Shows</em><br>in Phuket"
+msgstr "普吉岛<br><em>烟花与火舞表演</em>"
+
+msgid "Fireworks displays and live fire dance shows for weddings, proposals and private events across Phuket, Khao Lak and Krabi."
+msgstr "为普吉岛、考拉和甲米的婚礼、求婚及私人活动策划烟花表演与现场火舞秀。"
+
+msgid "Explore fireworks →"
+msgstr "了解烟花表演 →"
+
+msgid "Explore fire dance →"
+msgstr "了解火舞表演 →"
+
+msgid "Professional displays & performances"
+msgstr "专业烟花与现场表演"
+
+msgid "Whether you imagine fireworks above the beach, a live fire dance performance, or both, we help coordinate the artists, display team, timing and venue details around your celebration."
+msgstr "无论您希望在海滩上空绽放烟花、欣赏现场火舞，还是两者兼有，我们都会协调表演者、烟花团队、时间安排与场地细节。"
+
+msgid "Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket"
+msgstr "普吉岛烟花与火舞表演 | Fireworks Phuket"
