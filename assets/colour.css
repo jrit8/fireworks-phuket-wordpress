@@ -45,3 +45,11 @@
 .home .contact{background:linear-gradient(115deg,#17434a,#222a48);border-color:#416676}
 .home .site-footer{background:#0b1728}
 @media(max-width:767px){.home .hero-shade{background:linear-gradient(0deg,#080f1c,rgba(8,15,28,.86) 55%,rgba(8,15,28,.4))}.home .hero-media img:last-child{object-position:46% center}.home .hero h1{font-size:clamp(2.8rem,9vw,3.75rem)}.home .package-grid{gap:20px}}
+
+/* Keep content sections distinct without stacking large empty bands between them. */
+.section{padding-block:88px}
+.home #why,.home .real-event-preview{padding-block:72px}
+.home .proposals{padding-bottom:56px}
+.home #gallery{padding-block:52px 60px}
+@media(max-width:1099px){.section{padding-block:72px}}
+@media(max-width:767px){.section{padding-block:64px}.home #why,.home .real-event-preview{padding-block:64px}.home .proposals{padding-bottom:44px}.home #gallery{padding-block:44px 52px}}
