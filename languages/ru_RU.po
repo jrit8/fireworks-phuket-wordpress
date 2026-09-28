@@ -811,3 +811,6 @@ msgstr "Проверка зоны выступления, места запус�
 
 msgid "Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event."
 msgstr "Каждая площадка уникальна. Мы подтверждаем фейерверк или огненное шоу только после проверки практических требований и правил площадки."
+
+msgid "Your app username or ID"
+msgstr "Ваше имя пользователя или ID в приложении"

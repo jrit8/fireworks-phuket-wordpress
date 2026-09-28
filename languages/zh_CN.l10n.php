@@ -5,6 +5,7 @@ return array(
     'language' => 'zh_CN',
     'plural-forms' => 'nplurals=1; plural=0;',
     'messages' => array(
+        'Your app username or ID' => '您的应用用户名或账号 ID',
         'Choose fireworks, fire dance or both' => '选择烟花、火舞或两者兼有',
         'Availability and pricing depend on your venue, access and chosen show.' => '可用性和价格取决于场地、进场条件及所选表演。',
         'Experienced fireworks and fire-performance teams' => '经验丰富的烟花和火舞团队',

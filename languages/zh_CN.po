@@ -811,3 +811,6 @@ msgstr "核查表演区域、烟花燃放地点和场地要求"
 
 msgid "Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event."
 msgstr "每个场地各不相同。我们会先核查活动的实际条件和场地要求，再确认烟花或火舞表演。"
+
+msgid "Your app username or ID"
+msgstr "您的应用用户名或账号 ID"

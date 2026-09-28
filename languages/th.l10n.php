@@ -5,6 +5,7 @@ return array(
     'language' => 'th',
     'plural-forms' => 'nplurals=1; plural=0;',
     'messages' => array(
+        'Your app username or ID' => 'ชื่อผู้ใช้หรือ ID ในแอปของคุณ',
         'Choose fireworks, fire dance or both' => 'เลือกดอกไม้ไฟ โชว์ควงไฟ หรือทั้งสองอย่าง',
         'Availability and pricing depend on your venue, access and chosen show.' => 'การให้บริการและราคาขึ้นอยู่กับสถานที่ การเข้าถึง และรูปแบบการแสดงที่เลือก',
         'Experienced fireworks and fire-performance teams' => 'ทีมดอกไม้ไฟและการแสดงควงไฟที่มีประสบการณ์',

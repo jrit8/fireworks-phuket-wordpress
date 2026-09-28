@@ -811,3 +811,6 @@ msgstr "ตรวจสอบพื้นที่แสดง จุดยิ�
 
 msgid "Every location is different. We confirm fireworks or fire dance only after reviewing practical and venue requirements for your event."
 msgstr "แต่ละสถานที่มีเงื่อนไขต่างกัน เราจะยืนยันการแสดงดอกไม้ไฟหรือควงไฟหลังตรวจสอบข้อกำหนดของสถานที่และการจัดงานแล้วเท่านั้น"
+
+msgid "Your app username or ID"
+msgstr "ชื่อผู้ใช้หรือ ID ในแอปของคุณ"

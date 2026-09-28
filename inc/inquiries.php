@@ -15,7 +15,7 @@ function fp_validate_inquiry( $input ) {
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
     }
-    $fields['preferred'] = in_array( $fields['preferred'], array( 'Email', 'WhatsApp', 'WeChat', 'LINE', 'Telegram', 'Phone call' ), true ) ? $fields['preferred'] : '';
+    $fields['preferred'] = in_array( $fields['preferred'], array_merge( array( 'Email' ), fp_contact_apps(), array( 'Phone call' ) ), true ) ? $fields['preferred'] : '';
     $fields['lang'] = in_array( $fields['lang'], array( 'en', 'ru', 'zh', 'th' ), true ) ? $fields['lang'] : 'en';
     if ( ! $fields['name'] || ! $fields['venue'] || ! $fields['date'] || ( ! $fields['phone'] && ! $fields['email'] && ! $fields['handle'] ) ) { return new WP_Error( 'required', 'Please enter your name, event date, venue and at least one contact method.' ); }
     if ( $fields['email'] && ! is_email( $fields['email'] ) ) { return new WP_Error( 'email', 'Please enter a valid email address.' ); }

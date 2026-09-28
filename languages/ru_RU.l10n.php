@@ -5,6 +5,7 @@ return array(
     'language' => 'ru_RU',
     'plural-forms' => 'nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);',
     'messages' => array(
+        'Your app username or ID' => 'Ваше имя пользователя или ID в приложении',
         'Choose fireworks, fire dance or both' => 'Выберите фейерверк, огненное шоу или оба варианта',
         'Availability and pricing depend on your venue, access and chosen show.' => 'Доступность и стоимость зависят от площадки, подъезда и выбранного шоу.',
         'Experienced fireworks and fire-performance teams' => 'Опытные команды фейерверков и огненных шоу',

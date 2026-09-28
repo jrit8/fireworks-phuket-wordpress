@@ -26,7 +26,7 @@ Live site: https://fireworksphuket.com — WordPress on SiteGround, this repo is
 
 ## Contact policy
 - **All first contact goes through the quote form** (`template-parts/quote-form.php`).
-  No WhatsApp/WeChat/LINE/Telegram buttons or links; those apps appear only as icons (`fp_chat_apps()`)
+  No direct messaging or social links; supported apps appear only as icons (`fp_chat_apps()`)
   with the note that we continue there after the first enquiry.
-- The form asks for a preferred contact method (Email, WhatsApp, WeChat, LINE, Telegram, Phone call) + app ID,
+- The form asks for a preferred contact method (Email, supported apps, Phone call) + app username or ID,
   and sends the visitor's language; notification emails for non-English enquiries are tagged e.g. "(RU)".
