@@ -10,11 +10,13 @@ add_action( 'init', function () {
 } );
 function fp_validate_inquiry( $input ) {
     $fields = array();
-    foreach ( array( 'name', 'phone', 'email', 'preferred', 'handle', 'date', 'venue', 'service', 'option', 'event', 'budget', 'duration', 'message', 'lang' ) as $key ) {
+    foreach ( array( 'name', 'phone', 'email', 'preferred', 'handle', 'date', 'venue', 'service', 'option', 'event', 'budget', 'duration', 'duration_other', 'message', 'lang' ) as $key ) {
         $value = isset( $input[$key] ) && is_string( $input[$key] ) ? wp_unslash( $input[$key] ) : '';
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
     }
+    if ( 'Other' === $fields['duration'] && $fields['duration_other'] ) { $fields['duration'] = 'Other: ' . $fields['duration_other']; }
+    unset( $fields['duration_other'] );
     $fields['preferred'] = in_array( $fields['preferred'], array_merge( array( 'Email' ), fp_contact_apps(), array( 'Phone call' ) ), true ) ? $fields['preferred'] : '';
     $fields['lang'] = in_array( $fields['lang'], array( 'en', 'ru', 'zh', 'th' ), true ) ? $fields['lang'] : 'en';
     if ( ! $fields['name'] || ! $fields['venue'] || ! $fields['date'] || ( ! $fields['phone'] && ! $fields['email'] && ! $fields['handle'] ) ) { return new WP_Error( 'required', 'Please enter your name, event date, venue and at least one contact method.' ); }

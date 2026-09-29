@@ -764,6 +764,15 @@ msgstr "4分钟"
 msgid "5+ minutes"
 msgstr "5分钟以上"
 
+msgid "Fire Dance (15 min+)"
+msgstr "火舞表演（15分钟以上）"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Please specify the duration"
+msgstr "请注明时长"
+
 msgid "Less than 35,000"
 msgstr "低于 35,000"
 

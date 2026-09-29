@@ -764,6 +764,15 @@ msgstr "4 минуты"
 msgid "5+ minutes"
 msgstr "5+ минут"
 
+msgid "Fire Dance (15 min+)"
+msgstr "Огненный танец (15+ мин)"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Please specify the duration"
+msgstr "Укажите продолжительность"
+
 msgid "Less than 35,000"
 msgstr "Менее 35 000"
 
