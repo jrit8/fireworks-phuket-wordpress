@@ -60,7 +60,7 @@ function fp_submit_inquiry() {
     if ( $email ) {
         // Send the submitted brief to the configured business inbox for screening.
         $headers = $fields['email'] ? array( 'Reply-To: ' . sanitize_email( $fields['email'] ) ) : array();
-        $sent = wp_mail( $email, '🎆 New Fireworks Phuket inquiry', "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
+        $sent = wp_mail( $email, '✨ New Fireworks Phuket inquiry', "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
         update_post_meta( $id, '_fp_notification_accepted', $sent ? 'yes' : 'no' );
     }
     fp_issue_lead_receipt( $fields['service'] );
