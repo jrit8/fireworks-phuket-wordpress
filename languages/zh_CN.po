@@ -746,8 +746,23 @@ msgstr "大致预算（泰铢）"
 msgid "Preferred show duration"
 msgstr "期望的表演时长"
 
-msgid "e.g. 5 minutes"
-msgstr "例如：5分钟"
+msgid "30 seconds"
+msgstr "30秒"
+
+msgid "1 minute"
+msgstr "1分钟"
+
+msgid "2 minutes"
+msgstr "2分钟"
+
+msgid "3 minutes"
+msgstr "3分钟"
+
+msgid "4 minutes"
+msgstr "4分钟"
+
+msgid "5+ minutes"
+msgstr "5分钟以上"
 
 msgid "Less than 35,000"
 msgstr "低于 35,000"

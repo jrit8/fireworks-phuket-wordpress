@@ -746,8 +746,23 @@ msgstr "งบประมาณโดยประมาณ (บาท)"
 msgid "Preferred show duration"
 msgstr "ระยะเวลาการแสดงที่ต้องการ"
 
-msgid "e.g. 5 minutes"
-msgstr "เช่น 5 นาที"
+msgid "30 seconds"
+msgstr "30 วินาที"
+
+msgid "1 minute"
+msgstr "1 นาที"
+
+msgid "2 minutes"
+msgstr "2 นาที"
+
+msgid "3 minutes"
+msgstr "3 นาที"
+
+msgid "4 minutes"
+msgstr "4 นาที"
+
+msgid "5+ minutes"
+msgstr "5+ นาที"
 
 msgid "Less than 35,000"
 msgstr "ต่ำกว่า 35,000"
