@@ -10,7 +10,7 @@ add_action( 'init', function () {
 } );
 function fp_validate_inquiry( $input ) {
     $fields = array();
-    foreach ( array( 'name', 'phone', 'email', 'preferred', 'handle', 'date', 'venue', 'service', 'option', 'event', 'budget', 'message', 'lang' ) as $key ) {
+    foreach ( array( 'name', 'phone', 'email', 'preferred', 'handle', 'date', 'venue', 'service', 'option', 'event', 'budget', 'duration', 'message', 'lang' ) as $key ) {
         $value = isset( $input[$key] ) && is_string( $input[$key] ) ? wp_unslash( $input[$key] ) : '';
         if ( strlen( $value ) > ( 'message' === $key ? 4000 : 300 ) ) { return new WP_Error( 'length', 'Please shorten your entry.' ); }
         $fields[$key] = 'message' === $key ? sanitize_textarea_field( $value ) : sanitize_text_field( $value );
@@ -44,7 +44,12 @@ function fp_submit_inquiry() {
     $limit_key = 'fp_quote_' . hash_hmac( 'sha256', (string) ( $_SERVER['REMOTE_ADDR'] ?? '' ), wp_salt( 'nonce' ) );
     if ( get_transient( $limit_key ) ) { fp_inquiry_redirect( 'wait' ); }
     $body = '';
-    foreach ( $fields as $key => $value ) { $body .= ucfirst( $key ) . ': ' . $value . "\n\n"; }
+    $labels = array( 'name' => 'Name', 'phone' => 'Phone', 'email' => 'Email', 'preferred' => 'Preferred contact', 'handle' => 'Social handle', 'date' => 'EVENT date', 'venue' => 'Venue / location', 'service' => 'Service', 'option' => 'Option', 'event' => 'Event type', 'budget' => 'Budget (THB)', 'duration' => 'Show duration', 'message' => 'Message', 'lang' => 'Language' );
+    foreach ( $fields as $key => $value ) {
+        if ( '' === $value ) { continue; }
+        if ( 'date' === $key ) { $d = date_create( $value ); if ( $d ) { $value = $d->format( 'l, j F Y' ) . ' (' . $value . ')'; } }
+        $body .= ( $labels[$key] ?? ucfirst( $key ) ) . ': ' . $value . "\n\n";
+    }
     $id = wp_insert_post( array( 'post_type' => 'fp_inquiry', 'post_status' => 'private', 'post_title' => 'Inquiry — ' . $fields['date'] . ' — ' . $fields['name'], 'post_content' => $body ), true );
     if ( is_wp_error( $id ) || ! $id ) { fp_inquiry_redirect( 'error' ); }
     set_transient( $limit_key, 1, MINUTE_IN_SECONDS );
@@ -53,7 +58,7 @@ function fp_submit_inquiry() {
     if ( $email ) {
         // Send the submitted brief to the configured business inbox for screening.
         $headers = $fields['email'] ? array( 'Reply-To: ' . sanitize_email( $fields['email'] ) ) : array();
-        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry' . ( 'en' !== $fields['lang'] ? ' (' . strtoupper( $fields['lang'] ) . ')' : '' ), "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
+        $sent = wp_mail( $email, 'New Fireworks Phuket inquiry', "New website inquiry\n\n" . $body . 'Saved inquiry: ' . admin_url( 'post.php?post=' . $id . '&action=edit' ), $headers );
         update_post_meta( $id, '_fp_notification_accepted', $sent ? 'yes' : 'no' );
     }
     fp_issue_lead_receipt( $fields['service'] );

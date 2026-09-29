@@ -740,6 +740,21 @@ msgstr "求婚 — %s"
 msgid "Approximate budget"
 msgstr "大致预算"
 
+msgid "Approximate budget (THB)"
+msgstr "大致预算（泰铢）"
+
+msgid "Preferred show duration"
+msgstr "期望的表演时长"
+
+msgid "e.g. 5 minutes"
+msgstr "例如：5分钟"
+
+msgid "Less than 35,000"
+msgstr "低于 35,000"
+
+msgid "More than 125,000"
+msgstr "高于 125,000"
+
 msgid "Tell us what you have in mind"
 msgstr "请告诉我们您的想法"
 

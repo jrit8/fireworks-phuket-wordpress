@@ -740,6 +740,21 @@ msgstr "Предложение руки и сердца — %s"
 msgid "Approximate budget"
 msgstr "Примерный бюджет"
 
+msgid "Approximate budget (THB)"
+msgstr "Примерный бюджет (THB)"
+
+msgid "Preferred show duration"
+msgstr "Желаемая продолжительность шоу"
+
+msgid "e.g. 5 minutes"
+msgstr "напр., 5 минут"
+
+msgid "Less than 35,000"
+msgstr "Менее 35 000"
+
+msgid "More than 125,000"
+msgstr "Более 125 000"
+
 msgid "Tell us what you have in mind"
 msgstr "Расскажите о вашей идее"
 

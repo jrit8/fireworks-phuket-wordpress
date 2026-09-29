@@ -740,6 +740,21 @@ msgstr "ขอแต่งงาน — %s"
 msgid "Approximate budget"
 msgstr "งบประมาณโดยประมาณ"
 
+msgid "Approximate budget (THB)"
+msgstr "งบประมาณโดยประมาณ (บาท)"
+
+msgid "Preferred show duration"
+msgstr "ระยะเวลาการแสดงที่ต้องการ"
+
+msgid "e.g. 5 minutes"
+msgstr "เช่น 5 นาที"
+
+msgid "Less than 35,000"
+msgstr "ต่ำกว่า 35,000"
+
+msgid "More than 125,000"
+msgstr "มากกว่า 125,000"
+
 msgid "Tell us what you have in mind"
 msgstr "เล่าไอเดียของคุณให้เราฟัง"
 
