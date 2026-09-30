@@ -749,8 +749,8 @@ msgstr "จัดพลุอย่างถูกต้องตามระเ
 msgid "Official permission arranged with the local authorities before your display"
 msgstr "ขออนุญาตอย่างเป็นทางการจากหน่วยงานท้องถิ่นก่อนวันจัดแสดง"
 
-msgid "Displays fired by experienced professional operators"
-msgstr "การจุดพลุโดยผู้ปฏิบัติงานมืออาชีพที่มีประสบการณ์"
+msgid "We work with licensed and insured pyrotechnic operators"
+msgstr "เราทำงานร่วมกับผู้ปฏิบัติงานด้านพลุที่ได้รับใบอนุญาตและมีประกันภัย"
 
 msgid "Firing location, safety distances and venue rules reviewed in advance"
 msgstr "ตรวจสอบจุดจุดพลุ ระยะปลอดภัย และกฎของสถานที่ล่วงหน้า"

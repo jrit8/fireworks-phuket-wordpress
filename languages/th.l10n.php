@@ -267,7 +267,7 @@ return array(
         'Permits & regulations' => 'ใบอนุญาตและกฎระเบียบ',
         'Fireworks done by the book.' => 'จัดพลุอย่างถูกต้องตามระเบียบ',
         'Official permission arranged with the local authorities before your display' => 'ขออนุญาตอย่างเป็นทางการจากหน่วยงานท้องถิ่นก่อนวันจัดแสดง',
-        'Displays fired by experienced professional operators' => 'การจุดพลุโดยผู้ปฏิบัติงานมืออาชีพที่มีประสบการณ์',
+        'We work with licensed and insured pyrotechnic operators' => 'เราทำงานร่วมกับผู้ปฏิบัติงานด้านพลุที่ได้รับใบอนุญาตและมีประกันภัย',
         'Firing location, safety distances and venue rules reviewed in advance' => 'ตรวจสอบจุดจุดพลุ ระยะปลอดภัย และกฎของสถานที่ล่วงหน้า',
         'Permission normally takes 7–14 working days, so please book early' => 'การขออนุญาตโดยปกติใช้เวลา 7–14 วันทำการ กรุณาจองล่วงหน้า',
         'Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process.' => 'การจัดแสดงพลุในประเทศไทยต้องได้รับอนุญาตอย่างเป็นทางการ สำหรับสถานที่ในภูเก็ต เราดำเนินการยื่นขอให้ ส่วนที่อื่น เราทำงานร่วมกับโรงแรมหรือผู้จัดงานของคุณ',

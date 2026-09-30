@@ -749,8 +749,8 @@ msgstr "Фейерверки — строго по правилам."
 msgid "Official permission arranged with the local authorities before your display"
 msgstr "Официальное разрешение местных властей оформляется до вашего шоу"
 
-msgid "Displays fired by experienced professional operators"
-msgstr "Шоу проводят опытные профессиональные операторы"
+msgid "We work with licensed and insured pyrotechnic operators"
+msgstr "Мы работаем с лицензированными и застрахованными пиротехническими операторами"
 
 msgid "Firing location, safety distances and venue rules reviewed in advance"
 msgstr "Заранее проверяем место запуска, безопасные расстояния и правила площадки"

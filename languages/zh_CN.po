@@ -749,8 +749,8 @@ msgstr "烟花燃放，依规而行。"
 msgid "Official permission arranged with the local authorities before your display"
 msgstr "表演前向当地主管部门办理官方许可"
 
-msgid "Displays fired by experienced professional operators"
-msgstr "由经验丰富的专业人员负责燃放"
+msgid "We work with licensed and insured pyrotechnic operators"
+msgstr "我们与持牌并已投保的烟花燃放团队合作"
 
 msgid "Firing location, safety distances and venue rules reviewed in advance"
 msgstr "提前审核燃放地点、安全距离及场地规定"

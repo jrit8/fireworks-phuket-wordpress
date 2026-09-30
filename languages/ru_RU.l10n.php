@@ -267,7 +267,7 @@ return array(
         'Permits & regulations' => 'Разрешения и правила',
         'Fireworks done by the book.' => 'Фейерверки — строго по правилам.',
         'Official permission arranged with the local authorities before your display' => 'Официальное разрешение местных властей оформляется до вашего шоу',
-        'Displays fired by experienced professional operators' => 'Шоу проводят опытные профессиональные операторы',
+        'We work with licensed and insured pyrotechnic operators' => 'Мы работаем с лицензированными и застрахованными пиротехническими операторами',
         'Firing location, safety distances and venue rules reviewed in advance' => 'Заранее проверяем место запуска, безопасные расстояния и правила площадки',
         'Permission normally takes 7–14 working days, so please book early' => 'Разрешение обычно оформляется 7–14 рабочих дней, поэтому бронируйте заранее',
         'Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process.' => 'Для фейерверков в Таиланде нужно официальное разрешение. На Пхукете мы подаём заявку сами; в других местах работаем с вашим отелем или организатором над местной процедурой.',

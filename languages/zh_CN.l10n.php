@@ -267,7 +267,7 @@ return array(
         'Permits & regulations' => '许可与规范',
         'Fireworks done by the book.' => '烟花燃放，依规而行。',
         'Official permission arranged with the local authorities before your display' => '表演前向当地主管部门办理官方许可',
-        'Displays fired by experienced professional operators' => '由经验丰富的专业人员负责燃放',
+        'We work with licensed and insured pyrotechnic operators' => '我们与持牌并已投保的烟花燃放团队合作',
         'Firing location, safety distances and venue rules reviewed in advance' => '提前审核燃放地点、安全距离及场地规定',
         'Permission normally takes 7–14 working days, so please book early' => '许可通常需要7–14个工作日，请尽早预订',
         'Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process.' => '在泰国燃放烟花需获得官方许可。普吉岛场地由我们办理申请；其他地区我们会与您的酒店或策划人协作办理当地手续。',
