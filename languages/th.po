@@ -119,20 +119,20 @@ msgstr "ไม่ ขอบคุณ"
 msgid "How much do fireworks cost in Phuket?"
 msgstr "จุดพลุในภูเก็ตราคาเท่าไร?"
 
-msgid "As a broad guide, our featured displays are around ฿40,000+, ฿70,000+ and ฿108,000+. We prepare a written quote once we know your date, venue and desired display."
-msgstr "โดยประมาณ โชว์หลักของเราอยู่ที่ราว ฿40,000+, ฿70,000+ และ ฿108,000+ เราจะจัดทำใบเสนอราคาเป็นลายลักษณ์อักษรเมื่อทราบวันที่ สถานที่ และรูปแบบโชว์ที่ต้องการ"
+msgid "As a broad guide, our featured displays start around ฿41,800+, ฿69,600+ and ฿111,300+, and longer 5-minute and 10-minute shows are also available. We prepare a written quote once we know your date, venue and desired display."
+msgstr "โดยประมาณ โชว์หลักของเราเริ่มต้นราว ฿41,800+, ฿69,600+ และ ฿111,300+ และยังมีโชว์ที่ยาวขึ้น 5 นาทีและ 10 นาที เราจะจัดทำใบเสนอราคาเป็นลายลักษณ์อักษรเมื่อทราบวันที่ สถานที่ และรูปแบบที่ต้องการ"
 
 msgid "What can change the final price?"
 msgstr "อะไรบ้างที่ทำให้ราคาสุดท้ายเปลี่ยนไป?"
 
-msgid "The starting ranges exclude 7% VAT, permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions."
-msgstr "ราคาเริ่มต้นยังไม่รวม VAT 7% ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ หากต้องใช้แพลตฟอร์มลอยน้ำสำหรับจุดพลุจะเสนอราคาแยก ใบเสนอราคาจะระบุราคาสุดท้ายและสิ่งที่รวมไว้"
+msgid "The starting ranges exclude permission fees, venue charges and special logistics. A floating firing platform, if needed, is quoted separately. Your written quote sets out the final price and inclusions."
+msgstr "ราคาเริ่มต้นไม่รวมค่าธรรมเนียมการขออนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ หากต้องใช้แพลตฟอร์มลอยน้ำสำหรับจุดพลุ จะคิดราคาแยกต่างหาก ราคาสุดท้ายและสิ่งที่รวมอยู่จะระบุในใบเสนอราคา"
 
 msgid "How long does a display last?"
 msgstr "โชว์ใช้เวลานานเท่าไร?"
 
-msgid "Our current display options range from a short moment of under a minute to approximately four minutes. The actual duration depends on the firing sequence, venue and confirmed design."
-msgstr "ตัวเลือกปัจจุบันมีตั้งแต่ช่วงสั้นๆ ไม่ถึงหนึ่งนาทีไปจนถึงประมาณสี่นาที ระยะเวลาจริงขึ้นอยู่กับลำดับการจุด สถานที่ และดีไซน์ที่ยืนยันแล้ว"
+msgid "Our display options range from a short moment of under a minute up to a 10-minute spectacular. The actual duration depends on the firing sequence, venue and confirmed design."
+msgstr "ตัวเลือกโชว์ของเรามีตั้งแต่ช่วงสั้นๆ ไม่ถึงหนึ่งนาที ไปจนถึงโชว์ยาว 10 นาที ระยะเวลาจริงขึ้นอยู่กับลำดับการจุดพลุ สถานที่ และการออกแบบที่ยืนยันแล้ว"
 
 msgid "Can fireworks be arranged at any hotel or beach?"
 msgstr "จัดโชว์พลุที่โรงแรมหรือชายหาดไหนก็ได้หรือไม่?"
@@ -167,8 +167,8 @@ msgstr "อาจทำได้สำหรับบางงาน แจ้�
 msgid "Can the display be launched from a barge or floating platform?"
 msgstr "จุดพลุจากเรือหรือแพลตฟอร์มลอยน้ำได้ไหม?"
 
-msgid "A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿40,000–฿60,000 or more in addition to the display, subject to sea conditions, access and supplier availability."
-msgstr "อาจต้องใช้แพลตฟอร์มลอยน้ำเมื่อสถานที่ไม่มีตำแหน่งจุดพลุที่เหมาะสมและได้รับอนุญาต ปัจจุบันประเมินไว้ราว ฿40,000–฿60,000 ขึ้นไป เพิ่มจากค่าโชว์ ขึ้นอยู่กับสภาพทะเล การเข้าถึง และความพร้อมของผู้ให้บริการ"
+msgid "A floating platform may be needed when there is no suitable approved firing position at the venue. The current estimate is roughly ฿42,000–฿63,000 or more in addition to the display (more for the largest shows), subject to sea conditions, access and supplier availability."
+msgstr "อาจต้องใช้แพลตฟอร์มลอยน้ำเมื่อสถานที่ไม่มีจุดจุดพลุที่เหมาะสมและได้รับอนุญาต ค่าประมาณปัจจุบันอยู่ที่ราว ฿42,000–฿63,000 หรือมากกว่า นอกเหนือจากค่าโชว์ (สูงกว่านี้สำหรับโชว์ขนาดใหญ่ที่สุด) ขึ้นอยู่กับสภาพทะเล การเข้าถึง และความพร้อมของผู้ให้บริการ"
 
 msgid "How many fire dancers can we book?"
 msgstr "จองนักแสดงระบำไฟได้กี่คน?"
@@ -479,8 +479,8 @@ msgstr "โชว์ขนาดใหญ่สำหรับงานแต่
 msgid "View package details and starting prices →"
 msgstr "ดูรายละเอียดแพ็กเกจและราคาเริ่มต้น →"
 
-msgid "Approximate guide prices in THB. VAT, permission fees, venue charges and special logistics are additional. Final pricing, inclusions and timing are confirmed in a written quote."
-msgstr "ราคาโดยประมาณเป็นเงินบาท VAT ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษคิดเพิ่ม ราคาสุดท้าย สิ่งที่รวม และเวลาจะยืนยันในใบเสนอราคา"
+msgid "Approximate guide prices in THB. Permission fees, venue charges and special logistics are additional. Longer 5-minute and 10-minute displays are available on request. Final pricing, inclusions and timing are confirmed in a written quote."
+msgstr "ราคาโดยประมาณเป็นเงินบาท ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษคิดเพิ่ม มีโชว์ที่ยาวขึ้น 5 นาทีและ 10 นาทีตามคำขอ ราคาสุดท้าย สิ่งที่รวม และเวลาจะยืนยันในใบเสนอราคา"
 
 msgid "Simple from start to finish"
 msgstr "ง่ายตั้งแต่ต้นจนจบ"
@@ -524,8 +524,8 @@ msgstr "ภาพคอนเซปต์การขอแต่งงานส
 msgid "Pair your proposal reveal with a private fireworks moment. Sparklers, letters, flowers or photography can be discussed as separate additions."
 msgstr "จับคู่ช่วงขอแต่งงานกับโชว์พลุส่วนตัว พลุเย็น ตัวอักษร ดอกไม้ หรือการถ่ายภาพ สามารถพูดคุยเป็นรายการเพิ่มเติมแยกได้"
 
-msgid "Fireworks guide: ฿40,000+"
-msgstr "ราคาพลุโดยประมาณ: ฿40,000+"
+msgid "Fireworks guide: ฿41,800+"
+msgstr "ราคาพลุโดยประมาณ: ฿41,800+"
 
 msgid "Proposal setup and all extras quoted separately."
 msgstr "การจัดเตรียมขอแต่งงานและรายการเพิ่มเติมทั้งหมดเสนอราคาแยก"
@@ -539,8 +539,8 @@ msgstr "แรงบันดาลใจพลุสำหรับไฟนอ
 msgid "Build a fuller celebration around your big question, with a larger fireworks finale and optional live fire performance."
 msgstr "สร้างงานเฉลิมฉลองเต็มรูปแบบรอบคำถามสำคัญ พร้อมไฟนอลพลุที่ใหญ่ขึ้น และโชว์ระบำไฟสดตามต้องการ"
 
-msgid "Fireworks guide: ฿70,000+"
-msgstr "ราคาพลุโดยประมาณ: ฿70,000+"
+msgid "Fireworks guide: ฿69,600+"
+msgstr "ราคาพลุโดยประมาณ: ฿69,600+"
 
 msgid "Fire performance, proposal setup and extras quoted separately."
 msgstr "โชว์ระบำไฟ การจัดเตรียมขอแต่งงาน และรายการเพิ่มเติมเสนอราคาแยก"
@@ -557,8 +557,8 @@ msgstr "สามจุดเริ่มต้นสำหรับช่วง
 msgid "Plan this proposal →"
 msgstr "วางแผนการขอแต่งงานนี้ →"
 
-msgid "Images show concept and display inspiration, not guaranteed package inclusions. Fire-letter and sparkler options depend on venue approval and supplier availability. The fireworks guides exclude 7% VAT, permission fees, venue charges and special logistics; a full proposal total is confirmed in writing."
-msgstr "ภาพเป็นคอนเซปต์และแรงบันดาลใจ ไม่ใช่สิ่งที่รับประกันว่ารวมในแพ็กเกจ ตัวอักษรไฟและพลุเย็นขึ้นอยู่กับการอนุญาตของสถานที่และความพร้อมของผู้ให้บริการ ราคาพลุโดยประมาณยังไม่รวม VAT 7% ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ ราคารวมจะยืนยันเป็นลายลักษณ์อักษร"
+msgid "Images show concept and display inspiration, not guaranteed package inclusions. Fire-letter and sparkler options depend on venue approval and supplier availability. The fireworks guides exclude permission fees, venue charges and special logistics; a full proposal total is confirmed in writing."
+msgstr "ภาพเป็นคอนเซปต์และแรงบันดาลใจ ไม่ใช่สิ่งที่รับประกันว่ารวมในแพ็กเกจ ตัวอักษรไฟและพลุเย็นขึ้นอยู่กับการอนุญาตของสถานที่และความพร้อมของผู้ให้บริการ ราคาพลุโดยประมาณยังไม่รวม ค่าใบอนุญาต ค่าสถานที่ และโลจิสติกส์พิเศษ ราคารวมจะยืนยันเป็นลายลักษณ์อักษร"
 
 msgid "Explore proposal packages →"
 msgstr "ดูแพ็กเกจขอแต่งงาน →"
