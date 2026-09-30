@@ -740,6 +740,33 @@ msgstr "Предложение руки и сердца — %s"
 msgid "Approximate budget"
 msgstr "Примерный бюджет"
 
+msgid "Permits & regulations"
+msgstr "Разрешения и правила"
+
+msgid "Fireworks done by the book."
+msgstr "Фейерверки — строго по правилам."
+
+msgid "Official permission arranged with the local authorities before your display"
+msgstr "Официальное разрешение местных властей оформляется до вашего шоу"
+
+msgid "Displays fired by experienced professional operators"
+msgstr "Шоу проводят опытные профессиональные операторы"
+
+msgid "Firing location, safety distances and venue rules reviewed in advance"
+msgstr "Заранее проверяем место запуска, безопасные расстояния и правила площадки"
+
+msgid "Permission normally takes 7–14 working days, so please book early"
+msgstr "Разрешение обычно оформляется 7–14 рабочих дней, поэтому бронируйте заранее"
+
+msgid "Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process."
+msgstr "Для фейерверков в Таиланде нужно официальное разрешение. На Пхукете мы подаём заявку сами; в других местах работаем с вашим отелем или организатором над местной процедурой."
+
+msgid "Do fireworks displays need permission in Phuket?"
+msgstr "Нужно ли разрешение на фейерверк на Пхукете?"
+
+msgid "Yes. Fireworks displays need permission from the local authorities. For Phuket venues we handle the application, which normally takes 7–14 working days (excluding weekends and public holidays). Elsewhere, we work with your hotel or planner on the local process."
+msgstr "Да. Для фейерверков нужно разрешение местных властей. На Пхукете мы подаём заявку сами, обычно это занимает 7–14 рабочих дней (без учёта выходных и праздников). В других местах мы работаем с вашим отелем или организатором над местной процедурой."
+
 msgid "Approximate budget (THB)"
 msgstr "Примерный бюджет (THB)"
 

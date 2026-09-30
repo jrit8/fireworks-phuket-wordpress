@@ -740,6 +740,33 @@ msgstr "求婚 — %s"
 msgid "Approximate budget"
 msgstr "大致预算"
 
+msgid "Permits & regulations"
+msgstr "许可与规范"
+
+msgid "Fireworks done by the book."
+msgstr "烟花燃放，依规而行。"
+
+msgid "Official permission arranged with the local authorities before your display"
+msgstr "表演前向当地主管部门办理官方许可"
+
+msgid "Displays fired by experienced professional operators"
+msgstr "由经验丰富的专业人员负责燃放"
+
+msgid "Firing location, safety distances and venue rules reviewed in advance"
+msgstr "提前审核燃放地点、安全距离及场地规定"
+
+msgid "Permission normally takes 7–14 working days, so please book early"
+msgstr "许可通常需要7–14个工作日，请尽早预订"
+
+msgid "Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process."
+msgstr "在泰国燃放烟花需获得官方许可。普吉岛场地由我们办理申请；其他地区我们会与您的酒店或策划人协作办理当地手续。"
+
+msgid "Do fireworks displays need permission in Phuket?"
+msgstr "在普吉岛举办烟花表演需要许可吗？"
+
+msgid "Yes. Fireworks displays need permission from the local authorities. For Phuket venues we handle the application, which normally takes 7–14 working days (excluding weekends and public holidays). Elsewhere, we work with your hotel or planner on the local process."
+msgstr "需要。烟花表演须获得当地主管部门许可。普吉岛场地由我们办理申请，通常需要7–14个工作日（不含周末和公共假日）。其他地区我们会与您的酒店或策划人协作办理当地手续。"
+
 msgid "Approximate budget (THB)"
 msgstr "大致预算（泰铢）"
 

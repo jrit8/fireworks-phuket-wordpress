@@ -740,6 +740,33 @@ msgstr "ขอแต่งงาน — %s"
 msgid "Approximate budget"
 msgstr "งบประมาณโดยประมาณ"
 
+msgid "Permits & regulations"
+msgstr "ใบอนุญาตและกฎระเบียบ"
+
+msgid "Fireworks done by the book."
+msgstr "จัดพลุอย่างถูกต้องตามระเบียบ"
+
+msgid "Official permission arranged with the local authorities before your display"
+msgstr "ขออนุญาตอย่างเป็นทางการจากหน่วยงานท้องถิ่นก่อนวันจัดแสดง"
+
+msgid "Displays fired by experienced professional operators"
+msgstr "การจุดพลุโดยผู้ปฏิบัติงานมืออาชีพที่มีประสบการณ์"
+
+msgid "Firing location, safety distances and venue rules reviewed in advance"
+msgstr "ตรวจสอบจุดจุดพลุ ระยะปลอดภัย และกฎของสถานที่ล่วงหน้า"
+
+msgid "Permission normally takes 7–14 working days, so please book early"
+msgstr "การขออนุญาตโดยปกติใช้เวลา 7–14 วันทำการ กรุณาจองล่วงหน้า"
+
+msgid "Fireworks in Thailand need official permission. For Phuket venues we handle the application; elsewhere we work with your hotel or planner on the local process."
+msgstr "การจัดแสดงพลุในประเทศไทยต้องได้รับอนุญาตอย่างเป็นทางการ สำหรับสถานที่ในภูเก็ต เราดำเนินการยื่นขอให้ ส่วนที่อื่น เราทำงานร่วมกับโรงแรมหรือผู้จัดงานของคุณ"
+
+msgid "Do fireworks displays need permission in Phuket?"
+msgstr "การจัดพลุในภูเก็ตต้องขออนุญาตหรือไม่"
+
+msgid "Yes. Fireworks displays need permission from the local authorities. For Phuket venues we handle the application, which normally takes 7–14 working days (excluding weekends and public holidays). Elsewhere, we work with your hotel or planner on the local process."
+msgstr "ต้องขออนุญาต การจัดแสดงพลุต้องได้รับอนุญาตจากหน่วยงานท้องถิ่น สำหรับสถานที่ในภูเก็ต เราดำเนินการยื่นขอให้ ซึ่งโดยปกติใช้เวลา 7–14 วันทำการ (ไม่รวมวันหยุดสุดสัปดาห์และวันหยุดนักขัตฤกษ์) ส่วนที่อื่น เราทำงานร่วมกับโรงแรมหรือผู้จัดงานของคุณ"
+
 msgid "Approximate budget (THB)"
 msgstr "งบประมาณโดยประมาณ (บาท)"
 
