@@ -1,0 +1,5 @@
+<?php defined( 'ABSPATH' ) || exit; $items = fp_items( 'faq' ); ?>
+<section id="faq" class="section"><div class="container faq-grid"><?php fp_title( __( 'Details', 'fireworks-phuket' ), __( 'Frequently asked questions', 'fireworks-phuket' ) ); ?><div>
+<?php if ( $items ) : foreach ( $items as $item ) : if ( is_front_page() && preg_match( '/฿|THB|baht/i', $item->post_content ) ) { continue; } ?><details><summary><?php echo esc_html( $item->post_title ); ?></summary><div class="copy"><?php fp_item_content( $item ); ?></div></details><?php endforeach;
+else : foreach ( fp_default_faqs() as $faq ) : if ( is_front_page() && preg_match( '/฿|THB|baht/i', $faq[1] ) ) { continue; } ?><details><summary><?php echo esc_html( $faq[0] ); ?></summary><p class="copy"><?php echo esc_html( $faq[1] ); ?></p></details><?php endforeach; endif; ?>
+</div></div></section>

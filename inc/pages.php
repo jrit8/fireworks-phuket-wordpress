@@ -1,0 +1,60 @@
+<?php
+defined( 'ABSPATH' ) || exit;
+function fp_page_url( $slug, $anchor = '' ) {
+    $page = fp_get_page( $slug );
+    return $page ? get_permalink( $page ) : fp_home_url() . ( $anchor ? '#' . $anchor : '' );
+}
+function fp_page_kind() { return sanitize_key( get_post_meta( get_queried_object_id(), '_fp_kind', true ) ); }
+add_filter( 'pre_get_document_title', function ( $title ) {
+    return is_front_page() ? __( 'Fireworks & Fire Dance Shows in Phuket | Fireworks Phuket', 'fireworks-phuket' ) : $title;
+} );
+add_filter( 'sgo_exclude_urls_from_cache', function ( $urls ) {
+    $urls[] = '/contact*';
+    // Translated contact pages (e.g. /ru/contact-ru/) must stay dynamic too.
+    $contact = get_page_by_path( 'contact' );
+    if ( $contact && function_exists( 'pll_get_post_translations' ) ) {
+        foreach ( pll_get_post_translations( $contact->ID ) as $translation ) {
+            $urls[] = wp_make_link_relative( get_permalink( $translation ) ) . '*';
+        }
+    }
+    return array_values( array_unique( $urls ) );
+} );
+add_action( 'template_redirect', function () {
+    if ( is_page() && 'contact' === fp_page_kind() ) {
+        if ( ! defined( 'DONOTCACHEPAGE' ) ) { define( 'DONOTCACHEPAGE', true ); }
+        nocache_headers();
+    }
+} );
+add_action( 'wp_head', function () {
+    // Avoid competing with common SEO plugins if one is installed later.
+    if ( defined( 'WPSEO_VERSION' ) || defined( 'RANK_MATH_VERSION' ) || defined( 'AIOSEO_VERSION' ) ) { return; }
+    $description = is_front_page() ? __( 'Professional fireworks displays and fire dance shows for weddings, proposals, villas, resorts and events across Phuket, Khao Lak and Krabi.', 'fireworks-phuket' ) : ( is_singular() ? get_the_excerpt( get_queried_object_id() ) : '' );
+    if ( ! $description ) { return; }
+    $description = wp_strip_all_tags( $description );
+    $url = is_front_page() ? fp_home_url() : get_permalink( get_queried_object_id() );
+    echo '<meta name="description" content="' . esc_attr( $description ) . '">' . "\n";
+    echo '<meta property="og:title" content="' . esc_attr( wp_get_document_title() ) . '">' . "\n";
+    echo '<meta property="og:description" content="' . esc_attr( $description ) . '">' . "\n";
+    echo '<meta property="og:type" content="website"><meta property="og:url" content="' . esc_url( $url ) . '">' . "\n";
+    $image_key = is_page() && 'wedding' === fp_page_kind() ? 'wedding' : 'hero';
+    $image_id = absint( get_theme_mod( 'fp_image_' . $image_key, 0 ) );
+    $image_url = is_page() && 'fire-shows' === fp_page_kind() ? get_template_directory_uri() . '/assets/images/phuketweds-fire-show.jpg' : ( $image_id && wp_attachment_is_image( $image_id ) ? wp_get_attachment_image_url( $image_id, 'full' ) : get_template_directory_uri() . '/assets/images/' . ( 'wedding' === $image_key ? 'real-colour.jpg' : 'real-patong.jpg' ) );
+    if ( is_page() && 'proposals' === fp_page_kind() ) { $image_url = get_template_directory_uri() . '/assets/images/concept-fire-letters.webp'; }
+    if ( fp_is_page( 'wim-marcia-beach-fire-show' ) ) { $image_url = get_template_directory_uri() . '/assets/images/wim-marcia-fire-performance.webp'; }
+    echo '<meta property="og:image" content="' . esc_url( $image_url ) . '">' . "\n";
+    echo '<meta name="twitter:card" content="summary_large_image">' . "\n";
+    if ( is_front_page() && ! is_singular() ) { echo '<link rel="canonical" href="' . esc_url( $url ) . '">' . "\n"; }
+    if ( is_front_page() ) {
+        $site_url = home_url( '/' );
+        $organization = array( '@type' => 'Organization', '@id' => $site_url . '#organization', 'name' => 'Fireworks Phuket', 'url' => $site_url );
+        $phone = preg_replace( '/[^0-9]/', '', get_theme_mod( 'fp_whatsapp', '' ) );
+        if ( $phone ) { $organization['telephone'] = '+' . $phone; }
+        $schema = array( '@context' => 'https://schema.org', '@graph' => array(
+            $organization,
+            array( '@type' => 'WebSite', '@id' => $site_url . '#website', 'url' => $site_url, 'name' => 'Fireworks Phuket', 'publisher' => array( '@id' => $site_url . '#organization' ) ),
+            array( '@type' => 'Service', '@id' => $site_url . '#fireworks-service', 'name' => 'Fireworks displays for weddings and events', 'serviceType' => 'Event fireworks display planning', 'provider' => array( '@id' => $site_url . '#organization' ), 'areaServed' => array( array( '@type' => 'Place', 'name' => 'Phuket' ), array( '@type' => 'Place', 'name' => 'Khao Lak' ), array( '@type' => 'Place', 'name' => 'Krabi' ) ), 'url' => $site_url ),
+            array( '@type' => 'Service', '@id' => $site_url . '#fire-dance-service', 'name' => 'Fire dance shows for weddings and events', 'serviceType' => 'Live fire performance', 'provider' => array( '@id' => $site_url . '#organization' ), 'areaServed' => array( array( '@type' => 'Place', 'name' => 'Phuket' ), array( '@type' => 'Place', 'name' => 'Khao Lak' ), array( '@type' => 'Place', 'name' => 'Krabi' ) ), 'url' => home_url( '/fire-shows/' ) )
+        ) );
+        echo '<script type="application/ld+json">' . wp_json_encode( $schema, JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT ) . '</script>' . "\n";
+    }
+} );
